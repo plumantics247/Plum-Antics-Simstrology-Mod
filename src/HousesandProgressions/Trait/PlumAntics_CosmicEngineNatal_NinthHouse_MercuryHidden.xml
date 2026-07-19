@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineNatal_NinthHouse_MercuryHidden" s="2780822858">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x3BB1EFE7<!--PlumAntics_CosmicEngineNatal_NinthHouse_MercuryHidden--></T>
+    <T n="display_name_gender_neutral">0x3BB1EFE7<!--PlumAntics_CosmicEngineNatal_NinthHouse_MercuryHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

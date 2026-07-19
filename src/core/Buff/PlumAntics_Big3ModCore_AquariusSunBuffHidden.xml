@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: B224A7DC48DCE152 -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_AquariusSunBuffHidden" s="12836569402469835090">
+  <T n="audio_sting_on_add">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_name">0xA4D32583<!--PlumAntics_Big3Mod_AquariusSunBuffHidden--></T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="affordance_modifier"/>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="decay_modifier_by_category">
+            <U>
+              <E n="key">Bored_Buffs</E>
+              <T n="value">0.8</T>
+            </U>
+            <U>
+              <E n="key">Focused_Buffs</E>
+              <T n="value">0.8</T>
+            </U>
+          </L>
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">16650<!--LTR_Friendship_Main--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">1.75</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16651<!--LTR_Romance_Main--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">0.75</T>
+              </U>
+            </U>
+          </L>
+          <L n="skill_tag_modifiers">
+            <U>
+              <E n="key">Skill_RocketScience</E>
+              <T n="value">1.75</T>
+            </U>
+            <U>
+              <E n="key">Skill_Mental</E>
+              <T n="value">1.75</T>
+            </U>
+          </L>
+          <L n="stat_use_multiplier">
+            <U>
+              <T n="key">218420<!--commodity_CareerBenefit_Engineer--></T>
+              <U n="value">
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">76237<!--commodity_CareerBenefit_Tech--></T>
+              <U n="value">
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">218433<!--statistic_Career_Performance_Engineer--></T>
+              <U n="value">
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+</I>
+

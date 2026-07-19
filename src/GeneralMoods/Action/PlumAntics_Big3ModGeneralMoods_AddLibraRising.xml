@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: DB85D20CC2CAD76D -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddLibraRising" s="15818280218458249069">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xC88C9AE5<!--from Libra Rising trait--></T>
+          </V>
+          <T n="buff_type">3212600625<!--PlumAntics_Big3Mod_LibraRisingBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

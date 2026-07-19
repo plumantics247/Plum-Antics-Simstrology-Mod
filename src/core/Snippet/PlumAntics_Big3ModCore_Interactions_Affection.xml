@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: B3BE549062E8433D -->
+<I c="AffordanceList" i="snippet" m="snippets" n="PlumAntics_Big3Mod_Interactions_Affection" s="12953685702148080445">
+  <L n="value">
+    <T>13991<!--sim_BeAffectionate--></T>
+    <T>25910<!--mixer_social_HeartfeltCompliment_targeted_friendly_emotionSpecific--></T>
+    <T>26156<!--mixer_social_AskForReassurance_targeted_romance_emotionSpecific--></T>
+    <T>25912<!--mixer_social_CheerUp_targeted_friendly_emotionSpecific--></T>
+    <T>166955<!--mixer_social_CheerUp_targeted_friendly_emotionSpecific_c2a--></T>
+    <T>128424<!--mixer_social_ConsoleAboutDeath_Targeted_Friendly_EmotionSpecific--></T>
+    <T>166960<!--mixer_social_ConsoleAboutDeath_Targeted_Friendly_EmotionSpecific_c2a--></T>
+    <T>25945<!--mixer_social_GivePepTalk_targeted_friendly_emotionSpecific--></T>
+    <T>316871<!--mixer_socials_Toddler_Friendly_CrossAge_Interactions_Reassure--></T>
+    <T>287024<!--social_Friendly_PubertyChanges_Support_Acne--></T>
+    <T>287025<!--social_Friendly_PubertyChanges_Support_Hair_Body--></T>
+    <T>287026<!--social_Friendly_PubertyChanges_Support_Hair_Face--></T>
+  </L>
+</I>

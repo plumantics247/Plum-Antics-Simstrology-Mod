@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 00000000845B8698 -->
+<I c="Buff" s="2220590744" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_TaurusMoonWaningBuff">
+  <T n="buff_description">0x8B1596BE<!--buff_description--></T>
+  <T n="icon">2f7d0004:00000000:a557e48fd0813059</T>
+  <T n="buff_name">0x9EC1130A<!--buff_name--></T>
+  <T n="mood_type">14922876125876656003<!--mood_type--></T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="decay_modifier_by_category">
+            <U>
+              <E n="key">Sad_Buffs</E>
+              <T n="value">1.2</T>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="mood_effect_modifier">
+        <U n="mood_effect_modifier">
+          <L n="mood_effect_mapping">
+            <U>
+              <T n="key">14637</T>
+              <T n="value">1.2</T>
+            </U>
+            <U>
+              <T n="key">14640</T>
+              <T n="value">1.2</T>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

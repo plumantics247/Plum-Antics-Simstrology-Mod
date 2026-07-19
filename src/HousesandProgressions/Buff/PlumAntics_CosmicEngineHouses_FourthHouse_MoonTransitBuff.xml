@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="1205325514310680220" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_FourthHouse_MoonTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0xC464CF0E<!--Sentiment rises; home and family hit deeper than usual.--></T>
+  <T n="icon">2f7d0004:00000000:ed7513e6668b03df</T>
+  <T n="buff_name">0x4D2C10C4<!--Moon Transiting The 4th House: Tidal Homecoming--></T>
+  <T n="mood_type">14640</T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="disabled"/>
+</I>

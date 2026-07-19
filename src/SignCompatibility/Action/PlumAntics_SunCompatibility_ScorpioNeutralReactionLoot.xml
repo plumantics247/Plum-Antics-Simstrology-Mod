@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_SunCompatibility_ScorpioNeutralReactionLoot" s="830000000000042424">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000043102<!--PlumAntics_SunCompatibility_Tier_Neutral--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000043402<!--PlumAntics_SunCompatibility_Overlay_Neutral--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000042102<!--PlumAntics_SunCompatibility_NeutralReactionBuff--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000042201<!--PlumAntics_SunCompatibility_ReactionCooldownBuff--></T>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>4100020008<!--PlumAntics_SunCompatibility_ScorpioLikePreferenceTrait--></T>
+            <T>4100030008<!--PlumAntics_SunCompatibility_ScorpioDislikePreferenceTrait--></T>
+          </L>
+        </U>
+      </V>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">TargetSim</E>
+          <L n="whitelist_traits">
+            <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>830000000000042201<!--PlumAntics_SunCompatibility_ReactionCooldownBuff--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

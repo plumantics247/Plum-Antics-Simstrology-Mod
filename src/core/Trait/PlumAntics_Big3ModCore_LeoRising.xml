@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000DEE210F4 -->
+<I c="Trait" s="3739357428" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_LeoRising">
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17353441854101996323<!--PlumAntics_Big3Mod_LeoRisingBuffHidden--></T>
+    </U>
+  </L>
+  
+    <T n="trait_description">0xD4220B50<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:bb8b40dea68aaacf</T>
+  <T n="display_name">0xD0EF2CB0<!--Leo Rising--></T>
+  <E n="trait_type">GAMEPLAY</E>
+      <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <!-- Chart marker traits now sync here, after Rising completes the full natal chart. -->
+      <T>830000000000009103<!--PlumAntics_CosmicEngineCore_SyncChartCompositionPythonLoot--></T>
+      <T>15701100331319163107<!--Instance Rising Sign Notices--></T>
+      <T>13736671501533187746<!--PlumAntics_Big3ModCore_EnsureBig3OverlaysPythonLoot--></T>
+    </L>
+  </V>
+  
+</I>
+

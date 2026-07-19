@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000550AF427 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_SunPersonalityLoot" s="1426781223">
+  <T n="run_test_first">True</T>
+  <L n="test">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+            <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+            <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+            <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+            <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+            <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+            <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+            <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+            <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+            <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+            <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+            <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">2005184750<!--PlumAntics_Big3Mod_Sun_ByPersonality--></T>
+    </V>
+  </L>
+</I>

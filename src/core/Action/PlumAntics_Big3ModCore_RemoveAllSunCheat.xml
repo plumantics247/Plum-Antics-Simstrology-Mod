@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: F86F26427A23AA08 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_RemoveAllSunCheat" s="17901569110779865608">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+              <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+              <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+              <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+              <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+              <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+              <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+              <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+              <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+              <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+              <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+              <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+              <T>810000000000000001<!--PlumAntics_Big3Mod_AquariusSunOverlay--></T>
+              <T>810000000000000002<!--PlumAntics_Big3Mod_AriesSunOverlay--></T>
+              <T>810000000000000003<!--PlumAntics_Big3Mod_CancerSunOverlay--></T>
+              <T>810000000000000004<!--PlumAntics_Big3Mod_CapricornSunOverlay--></T>
+              <T>810000000000000005<!--PlumAntics_Big3Mod_GeminiSunOverlay--></T>
+              <T>810000000000000006<!--PlumAntics_Big3Mod_LeoSunOverlay--></T>
+              <T>810000000000000007<!--PlumAntics_Big3Mod_LibraSunOverlay--></T>
+              <T>810000000000000008<!--PlumAntics_Big3Mod_PiscesSunOverlay--></T>
+              <T>810000000000000009<!--PlumAntics_Big3Mod_SagittariusSunOverlay--></T>
+              <T>810000000000000010<!--PlumAntics_Big3Mod_ScorpioSunOverlay--></T>
+              <T>810000000000000011<!--PlumAntics_Big3Mod_TaurusSunOverlay--></T>
+              <T>810000000000000012<!--PlumAntics_Big3Mod_VirgoSunOverlay--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>2597417098<!--PlumAntics_Big3Mod_AquariusSunBuff--></T>
+          <T>2512699989<!--PlumAntics_Big3Mod_AriesSunBuff--></T>
+          <T>3283596383<!--PlumAntics_Big3Mod_CancerSunBuff--></T>
+          <T>2178641916<!--PlumAntics_Big3Mod_CapricornSunBuff--></T>
+          <T>2707689604<!--PlumAntics_Big3Mod_GeminiSunBuff--></T>
+          <T>2592894131<!--PlumAntics_Big3Mod_LeoSunBuff--></T>
+          <T>2288145513<!--PlumAntics_Big3Mod_LibraSunBuff--></T>
+          <T>2999161882<!--PlumAntics_Big3Mod_PiscesSunBuff--></T>
+          <T>2826123065<!--PlumAntics_Big3Mod_SagittariusSunBuff--></T>
+          <T>3609200582<!--PlumAntics_Big3Mod_ScorpioSunBuff--></T>
+          <T>3812594471<!--PlumAntics_Big3Mod_TaurusSunBuff--></T>
+          <T>3434334192<!--PlumAntics_Big3Mod_VirgoSunBuff--></T>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">2303998354<!--PlumAntics_Big3Mod_RemoveElementsfromAllBuff--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V n="Clear Known Chemistry Pair Memory" t="actions">
+      <T n="actions">830000000000009604<!--PlumAntics_CosmicEngineCore_ClearKnownChemistryFromSunChange--></T>
+    </V>
+  </L>
+</I>

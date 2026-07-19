@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: F48177F17CA35494 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddSagSun" s="17618495096311993492">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xC2569076<!--enabled--></T>
+          </V>
+          <T n="buff_type">2826123065<!--PlumAntics_Big3Mod_SagittariusSunBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

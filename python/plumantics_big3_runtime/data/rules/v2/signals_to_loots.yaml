@@ -1,0 +1,40 @@
+schema_version: 1
+notes:
+  - Python emits edge events (enter/exit) for each signal.
+  - XML should own gameplay outcomes; map each edge to reusable loot tunings here.
+  - Unresolved tuning tokens are safely ignored.
+
+defaults:
+  on_enter: []
+  on_exit: []
+
+templates:
+  - key_template: SKY_RISING_SIGN_{SIGN}
+    on_enter: []
+    on_exit: []
+
+  - key_template: FLARE_SUN_{SIGN}
+    on_enter: []
+    on_exit: []
+
+signals:
+  # AstroCore fallback mappings: keep SKY sign signals wired even when
+  # direct sign->loot mapping is not available in code.
+  SKY_SUN_SIGN_*:
+    on_enter:
+      - type: RUN_LOOT
+        loot_id: 15701160429011615151 # PlumAntics_Big3Mod_SeasonTestSunPickerLoot
+    on_exit: []
+
+  SKY_MOON_SIGN_*:
+    on_enter:
+      - type: RUN_LOOT
+        loot_id: 13736671501533187751 # PlumAntics_Big3ModCore_AssignMoonLunarPhasePythonLoot
+    on_exit: []
+
+  # Example: existing transit slice loot wired to one flare ingress.
+  FLARE_SUN_ARIES:
+    on_enter:
+      - type: RUN_LOOT
+        loot_id: LOOT_TRANSIT_SLICE_ARIES
+    on_exit: []

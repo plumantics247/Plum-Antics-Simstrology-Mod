@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="1799079551778906583" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_TenthHouse_MercuryTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x6DE220B6<!--Say it well and you win: your words shape your reputation right now.--></T>
+  <T n="icon">2f7d0004:00000000:e92d9aeb74b1320c</T>
+  <T n="buff_name">0x54E9AE95<!--Mercury Transiting The 10th House: Strategic Messaging--></T>
+  <T n="mood_type">14639</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

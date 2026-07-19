@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_ProgressedSun_Scorpio" s="6149863072453466546">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <L n="conflicting_traits">
+    <T>2430415371153613317</T>
+    <T>8960710436078173163</T>
+    <T>9482021035416149987</T>
+    <T>12757816750258922783</T>
+    <T>3020418863475258838</T>
+    <T>14016795132588088885</T>
+    <T>10569329109792809204</T>
+    <T>12963778258377165850</T>
+    <T>11835246999168645709</T>
+    <T>1637815211027082137</T>
+    <T>5224110435693224387</T>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">13026691660829166201</T>
+    </U>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>18212287542964890501</T>
+    </L>
+  </V>
+  <T n="display_name">0x00000000</T>
+  <T n="display_name_gender_neutral">0x00000000</T>
+  <T n="icon" />
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

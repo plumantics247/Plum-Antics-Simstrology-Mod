@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000C49F397A -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_SagittariusSun" s="3298769274">
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--SocialSuperInteraction: sim_Chat--></T>
+      <L n="value">
+        <T>28050<!--SocialMixerInteraction: mixer_social_EnthuseAboutOutdoors_targeted_Friendly_MiddleScore--></T>
+      </L>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <L n="bb_filter_tags">
+    <E>Func_Pot</E>
+    <E>Func_Gardening</E>
+  </L>
+  
+  
+  <E n="cas_allowed_pack">BASE_GAME</E>
+  <L n="conflicting_traits">
+    <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+    <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+    <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+    <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+    <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+    <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+    <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+    <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+    <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+    <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+    <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+  </L>
+  <T n="display_name">0xB4AEFED9<!--Sagittarius Sun--></T>
+  <T n="display_name_gender_neutral">0xB4AEFED9<!--Sagittarius Sun--></T>
+  <T n="icon">2f7d0004:00000000:8097c901bd295831</T>
+  
+    <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <!-- Deprecated Sun-only element/mode assignment removed; chart markers now sync after Rising completes the full chart. -->
+      <T>9503206159864251573<!--Instance Sun Sign Notices--></T>
+      <T>13736671501533187746<!--PlumAntics_Big3ModCore_EnsureBig3OverlaysPythonLoot--></T>
+    </L>
+  </V>
+<L n="super_affordances">
+    <T>2880551018<!--Sagittarius Horoscope Access--></T>
+  </L>
+<L n="species">
+    <E>HUMAN</E>
+  </L>
+  <T n="trait_description">0xD0E4F1E2<!--trait_description--></T>
+  <E n="trait_type">GAMEPLAY</E>
+  <V n="ui_category" t="disabled"/>
+  
+  
+</I>

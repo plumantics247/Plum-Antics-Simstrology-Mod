@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 75A2FA4CDDC2EAC4 -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineCore_AriesRisingInitial_Balanced" s="8476612656709692100">
+  <T n="buff_name">0x00000000<!--PlumAntics_CosmicEngineCore_AriesRisingInitial_Balanced--></T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="affordance_modifier">
+        <U n="affordance_modifier">
+          <L n="affordance_lists">
+            <T>9254044205463044300<!--PlumAntics_Big3Mod_affordanceList_AriesRising--></T>
+          </L>
+          <T n="content_score_bonus">8</T>
+        </U>
+      </V>
+    </L>
+  </U>
+  <T n="icon" p="InGame\\UI\\Icons\\Debug\\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+</I>

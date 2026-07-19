@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: C0A14F4A83E1D211 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModCore_SimstrologyRefreshContext_Router" s="13880462707991368209">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">13880462707991368210<!--PlumAntics_Big3ModCore_SimstrologyRefreshContext_GeneralMoodsSubscriber--></T>
+    </V>
+  </L>
+</I>

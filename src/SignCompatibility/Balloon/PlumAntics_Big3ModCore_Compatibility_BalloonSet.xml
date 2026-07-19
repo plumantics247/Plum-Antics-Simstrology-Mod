@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: EC6A8FC6, Group: 00000000, Instance: 00000000A2DF3E79 -->
+<I c="BalloonCategory" s="2732539513" i="balloon" m="balloon.balloon_category" n="PlumAntics_Big3Mod_Compatibility_BalloonSet">
+  <T n="balloon_chance">100</T>
+  <E n="balloon_type">SPEECH</E>
+  <L n="balloons">
+    <U>
+      <V n="item" t="balloon_icon">
+        <U n="balloon_icon">
+          <V n="icon" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:9e70fc72781bf9b1</T>
+            </U>
+          </V>
+          <T n="weight">25</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="item" t="balloon_icon">
+        <U n="balloon_icon">
+          <V n="icon" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:cd80e0b784b47f10</T>
+            </U>
+          </V>
+          <T n="weight">25</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="item" t="balloon_icon">
+        <U n="balloon_icon">
+          <V n="icon" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:e6353d9b2ffc3211</T>
+            </U>
+          </V>
+          <T n="weight">25</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="item" t="balloon_icon">
+        <U n="balloon_icon">
+          <V n="icon" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:d65e34c3ce43811d</T>
+            </U>
+          </V>
+          <T n="weight">25</T>
+        </U>
+      </V>
+    </U>
+  </L>
+</I>

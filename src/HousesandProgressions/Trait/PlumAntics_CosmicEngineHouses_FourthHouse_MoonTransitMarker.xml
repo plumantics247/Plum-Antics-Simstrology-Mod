@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FourthHouse_MoonTransitMarker" s="5662848649436832944">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x4D2C10C4<!--Moon Transiting The 4th House: Tidal Homecoming--></T>
+    <T n="display_name_gender_neutral">0x4D2C10C4<!--Moon Transiting The 4th House: Tidal Homecoming--></T>
+        <T n="icon">2f7d0004:00000000:ed7513e6668b03df</T>
+    <T n="trait_description">0xC464CF0E<!--Sentiment rises; home and family hit deeper than usual.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

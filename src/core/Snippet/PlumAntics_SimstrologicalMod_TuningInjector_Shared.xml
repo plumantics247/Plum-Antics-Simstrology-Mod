@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="PlumAntics_SimstrologicalMod_TuningInjector_Shared" s="810000000000009101">
+  <T n="minimum_core_version">1.3.0</T>
+  <T n="mod_name">Simstrological Mod</T>
+  <T n="creator_name">Plum Antics</T>
+  <L n="inject_by_affordance">
+    <U>
+      <T n="query">225064<!--computer_Locking_LockForEveryone--></T>
+      <V n="object_locking_component" t="enabled">
+        <U n="enabled">
+          <L n="super_affordances">
+            <T>3024591520411643753<!--PlumAntics_Big3ModHousesProgressions_SI_GetHousesComputer--></T>
+            <T>14516163836319159721<!--PlumAntics_Big3ModHousesProgressions_SI_GetProgressionsComputer--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+  </L>
+  <L n="inject_to_mixer_list">
+    <U>
+      <T n="mixer_list">24508<!--AffordanceList: social_Mixers_Friendly_NonTouching--></T>
+      <L n="mixers">
+        <T>14045448189478404074<!--PlumAntics_CosmicEngineCore_TalkAboutCurrentTransits_SocialInteraction--></T>
+        <T>712827454650594671<!--PlumAntics_CosmicEngineCore_DiscussChartRulers_SocialInteraction--></T>
+        <T>6751236196363894086<!--PlumAntics_CosmicEngineCore_ComplainAboutRetrogrades_SocialInteraction--></T>
+        <T>10107656952353014314<!--PlumAntics_CosmicEngineCore_ReadNatalChart_SocialInteraction--></T>
+      </L>
+    </U>
+  </L>
+</I>

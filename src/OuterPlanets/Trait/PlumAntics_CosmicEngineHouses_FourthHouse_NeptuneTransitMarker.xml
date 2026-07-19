@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FourthHouse_NeptuneTransitMarker" s="6465179993088078422">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x7A9C0BD8<!--Neptune Transiting The 4th House: Private Fog Bank--></T>
+    <T n="display_name_gender_neutral">0x7A9C0BD8<!--Neptune Transiting The 4th House: Private Fog Bank--></T>
+        <T n="icon">2f7d0004:00000000:b61c9d4f7ae20358</T>
+    <T n="trait_description">0x026E9FA3<!--Home becomes a retreat, a daydream, or a place to drift for a while.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

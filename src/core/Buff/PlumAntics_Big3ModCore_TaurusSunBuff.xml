@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 00000000E33F9327 -->
+<I c="Buff" s="3812594471" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_TaurusSunBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0xF3CC3367<!--buff_description--></T>
+  <T n="icon">2f7d0004:00000000:e4862e250dde16b9</T>
+  <T n="buff_name">0xF3A8723E<!--buff_name--></T>
+  <T n="mood_type">14637</T>
+  <T n="mood_weight">1</T>
+    <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+</I>

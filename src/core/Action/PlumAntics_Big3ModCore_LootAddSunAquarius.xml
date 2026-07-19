@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="1271968254" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddSunAquarius">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">810000000000000001<!--PlumAntics_Big3Mod_AquariusSunOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

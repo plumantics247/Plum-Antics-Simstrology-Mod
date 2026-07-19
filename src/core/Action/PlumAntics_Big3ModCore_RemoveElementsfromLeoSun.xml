@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000875E994E -->
+<I c="LootActions" s="2271123790" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_RemoveElementsfromLeoSun">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3268539798<!--PlumAntics_Big3Mod_Fixed--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">4201053282<!--PlumAntics_Big3Mod_Sun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

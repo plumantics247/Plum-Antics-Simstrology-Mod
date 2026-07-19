@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="1512857696" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddSunGemini">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">810000000000000005<!--PlumAntics_Big3Mod_GeminiSunOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

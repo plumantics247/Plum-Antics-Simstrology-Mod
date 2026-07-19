@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 59FD9101DA166F67 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModCore_TransitSlice_Pisces" s="6484498475623280487">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>WINTER</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>LATE</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="buffs_to_remove">
+          <T>2462422809018812886<!--PlumAntics_Big3ModCore_TransitResonance_Mercury--></T>
+          <T>10506765201903868699<!--PlumAntics_Big3ModCore_TransitResonance_Venus--></T>
+          <T>4975702700761145826<!--PlumAntics_Big3ModCore_TransitResonance_Mars--></T>
+          <T>11372734244536187233<!--PlumAntics_Big3ModCore_TransitResonance_Jupiter--></T>
+          <T>2584900500102566987<!--PlumAntics_Big3ModCore_TransitResonance_Saturn--></T>
+          <T>9986691001644438169<!--PlumAntics_Big3ModCore_TransitResonance_Sun--></T>
+          <T>12992228446092954639<!--PlumAntics_Big3ModCore_TransitResonance_Moon--></T>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">11372734244536187233<!--PlumAntics_Big3ModCore_TransitResonance_Jupiter--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>WINTER</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>LATE</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3236555963<!--PlumAntics_Big3Mod_Jupiter--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

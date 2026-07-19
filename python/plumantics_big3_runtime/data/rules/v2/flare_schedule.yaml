@@ -1,0 +1,16 @@
+schema_version: 1
+notes:
+  - Phase 1 keeps one daily flare to validate scheduling + idempotency.
+  - Later phases can add moon/rising/element flares here without code changes.
+
+flares:
+  - id: sun_daily
+    enabled: true
+    signal_template: FLARE_SUN_{SUN_SIGN}
+    source: SUN_SIGN
+    start_hour: 8
+    duration_sim_minutes: 120
+    cooldown_sim_minutes: 1440
+    scope: sim
+    effect_group: flare_sun
+    intensity: 0.9

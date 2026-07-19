@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: E526ADD8C0F97F97 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddLibraSun" s="16512076230262620055">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xB6D44088<!--enabled--></T>
+          </V>
+          <T n="buff_type">2288145513<!--PlumAntics_Big3Mod_LibraSunBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

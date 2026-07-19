@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: D9E5BA38CCA83DAF -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_SeasonTestSunPickerLoot" s="15701160429011615151">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>SPRING</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>EARLY</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+            <V t="age_up_test">
+              <U n="age_up_test">
+                <E n="who">Actor</E>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">3164395998<!--Aries--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>SPRING</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>MID</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">4281780916<!--Taurus--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>SPRING</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>LATE</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">3771207495<!--Gemini--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>SUMMER</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>EARLY</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">2654235180<!--Cancer--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>SUMMER</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>MID</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">2797810424<!--Leo--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>SUMMER</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>LATE</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">3413939915<!--Virgo--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>FALL</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>EARLY</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">3887839626<!--Libra--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>FALL</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>MID</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">2636947797<!--Scorpio--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>FALL</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>LATE</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">3298769274<!--Sagittarius--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>WINTER</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>EARLY</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">3356986463<!--Capricorn--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>WINTER</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>MID</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">4169897889<!--Aquarius--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="ages" t="specified">
+                  <L n="specified">
+                    <E>ADULT</E>
+                    <E>TEEN</E>
+                    <E>YOUNGADULT</E>
+                    <E>ELDER</E>
+                  </L>
+                </V>
+                <V n="is_active_sim" t="enabled">
+                  <T n="enabled">True</T>
+                </V>
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E>HUMAN</E>
+                    </L>
+                  </U>
+                </V>
+                <E n="who">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <T n="requires_seasons_pack">True</T>
+                <L n="seasons">
+                  <E>WINTER</E>
+                </L>
+                <V n="time_of_season" t="enabled">
+                  <L n="enabled">
+                    <E>LATE</E>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">2363848465<!--Pisces--></T>
+      </U>
+    </V>
+  </L>
+</I>

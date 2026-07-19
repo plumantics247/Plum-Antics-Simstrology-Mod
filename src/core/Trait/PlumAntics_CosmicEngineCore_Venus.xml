@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: D4F497B29B2B1C32 -->
+<I c="Trait" s="15345056623721389106" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_Venus_Hidden">
+  <T n="display_name_gender_neutral">0xBD50B2BB<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0x978ED44E<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:8d91b3934b41e5cd</T>
+  <T n="display_name">0xBD50B2BB<!--display_name--></T>
+  <E n="trait_type">HIDDEN</E>
+</I>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="16612142675425005782" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_FirstHouse_MarsTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0xB1032623<!--You want to win (even at things nobody else is competing in).--></T>
+  <T n="icon">2f7d0004:00000000:f78fef9af9f01a60</T>
+  <T n="buff_name">0x39D9B1DE<!--Mars Transiting The 1st House: Competitive Edge--></T>
+  <T n="mood_type">14639</T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

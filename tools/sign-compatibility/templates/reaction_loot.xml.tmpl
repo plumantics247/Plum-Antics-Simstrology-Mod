@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="__NAME__" s="__INSTANCE__">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">__TIER_BUFF_ID__<!--__TIER_BUFF_NAME__--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">__OVERLAY_BUFF_ID__<!--__OVERLAY_BUFF_NAME__--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">__VISIBLE_BUFF_ID__<!--__VISIBLE_BUFF_NAME__--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">__COOLDOWN_BUFF_ID__<!--__COOLDOWN_BUFF_NAME__--></T>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+__PREFERENCE_TEST_BLOCK__
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">TargetSim</E>
+          <L n="whitelist_traits">
+            <T>__TARGET_CORE_TRAIT_ID__<!--__TARGET_CORE_TRAIT_NAME__--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>__COOLDOWN_BUFF_ID__<!--__COOLDOWN_BUFF_NAME__--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

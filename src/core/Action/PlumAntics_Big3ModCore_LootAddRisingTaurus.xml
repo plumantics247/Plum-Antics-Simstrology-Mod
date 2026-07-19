@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="3353923623" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddRisingTaurus">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+      <E n="subject">Actor</E>
+      <T n="trait">2588878312<!--Taurus Rising--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">820000000000000011<!--PlumAntics_Big3Mod_TaurusRisingOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

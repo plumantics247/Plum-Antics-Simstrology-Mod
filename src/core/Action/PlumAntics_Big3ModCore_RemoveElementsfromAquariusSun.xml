@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000F415029F -->
+<I c="LootActions" s="4095017631" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_RemoveElementsfromAquariusSun">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3268539798<!--PlumAntics_Big3Mod_Fixed--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2915077253<!--PlumAntics_Big3Mod_Saturn--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 000000000F2C1697 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AllSunBuffsLoot" s="254547607">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">17456558612441427633<!--PlumAntics_Big3Mod_AquariusSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_AquariusSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">16992797574124448420<!--PlumAntics_Big3Mod_AriesSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_AriesSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">14883350845130788426<!--PlumAntics_Big3Mod_CancerSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_CancerSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">16979547114479075722<!--PlumAntics_Big3Mod_CapSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_CapSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">17972920786895609611<!--PlumAntics_Big3Mod_GeminiSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_GeminiSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">9390012854365387374<!--PlumAntics_Big3Mod_LeoSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_LeoSunBuffsLoot--> 
+    </V>
+    <V t="actions">
+      <T n="actions">17316065983722624464<!--PlumAntics_Big3Mod_LibraSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_LibraSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">13927883769927900301<!--PlumAntics_Big3Mod_PiscesSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_PiscesSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">10342935820850980165<!--PlumAntics_Big3Mod_SagSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_SagSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">12631619560531681469<!--PlumAntics_Big3Mod_ScorpioSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_ScorpioSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">17885894480526974266<!--PlumAntics_Big3Mod_TaurusSunBuffsLoot--></T>
+      <!--PlumAntics_Big3_TaurusSunBuffsLoot-->
+    </V>
+    <V t="actions">
+      <T n="actions">12114092011940874011<!--PlumAntics_Big3Mod_VirgoSunBuffsLoot--></T>
+    </V>
+  </L>
+</I>

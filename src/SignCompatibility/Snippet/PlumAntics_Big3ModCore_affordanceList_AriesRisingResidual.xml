@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: F0E741E561A30FFC -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_AriesRisingResidual' s='17358915742164258812'>
+  <L n='value'>
+    <T>160986<!--mixer_social_ActTough_Mean_AlwaysOn_Teen--></T>
+    <T>108605<!--mixer_social_BearRoar_Imitate--></T>
+    <T>108438<!--mixer_social_BearRoar--></T>
+    <T>282556<!--mixer_Social_HighSchoolFestival_TauntRival--></T>
+    <T>25886<!--mixer_social_Provoke_targeted_mean_emotionSpecific--></T>
+    <T>27704<!--mixer_social_RileUp_targeted_mean_alwaysOn--></T>
+    <T>277640<!--mixer_social_Targeted_Mean_AlwaysOn_Teens_MockRival--></T>
+    <T>226662<!--mixer_Social_UniversityRivalry_TauntAboutUniversitySuperiority--></T>
+    <T>33754<!--mixer_social_WritingJournalism_ArticleNegative_YellAT_targeted_mean--></T>
+    <T>26151<!--mixer_social_YellAT_targeted_mean--></T>
+    <T>222377<!--mixer_social_YellAT_targeted_mean_StudentCommons_GrumpyProfessor--></T>
+    <T>244398<!--mixer_social_YellAT_targeted_mean_Knitting_SweaterCurse--></T>
+    <T>286664<!--mixer_social_YellAT_targeted_mean_Werewolf--></T>
+    <T>258939<!--socials_Targeted_Mean_AlwaysOn_STC_InteriorDecorator_Reveal_Yell--></T>
+    <T>160962<!--socials_Targeted_Mean_Unfeeling_RileUp--></T>
+    <T>307438<!--socialSuperInteraction_Child_Confidence_Admonish--></T>
+    <T>26878<!--mixer_social_DareToStreak_targeted_mischief_skills--></T>
+    <T>26574<!--mixer_social_PretendToBeSlapped_targeted_mischief_skills--></T>
+  </L>
+</I>

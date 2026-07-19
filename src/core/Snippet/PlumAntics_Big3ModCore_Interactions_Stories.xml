@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AffordanceList" i="snippet" m="snippets" n="PlumAntics_Big3Mod_Interactions_Stories" s="12001818155183118183">
+  <L n="value">
+    <T>162394<!--mixer_social_AskAboutNegativeMood_Targeted_Friendly_AlwaysOn--></T>
+    <T>162532<!--mixer_social_BackInMyDay_targeted_friendly_alwaysOn--></T>
+    <T>166478<!--mixer_social_BackInMyDay_targeted_friendly_alwaysOn_ParentOnly--></T>
+    <T>238178<!--mixer_social_Batuu_Reputation_TellTalesOfGalacticAdventure--></T>
+    <T>238176<!--mixer_social_Batuu_Reputation_TellTalesofGalacticConquest--></T>
+    <T>238177<!--mixer_social_Batuu_Reputation_TellTalesofSmuggling--></T>
+    <T>204275<!--mixer_social_BragAboutBeatingMotherPlant--></T>
+    <T>26155<!--mixer_social_DescribeRobotInvasion_group_funny_highScore--></T>
+    <T>127029<!--mixer_social_InsiderTrait_TellInsiderStory_Friendly_MiddleScore--></T>
+    <T>309462<!--mixer_social_LifeMilestone_TellEpicTales--></T>
+    <T>284836<!--mixer_social_PartyAnimal_TalkAboutPastParties--></T>
+    <T>284090<!--mixer_social_ReminisceAboutWedding_targeted_Friendly_alwaysOn--></T>
+    <T>215486<!--mixer_social_ShareMerfolkLore_target_Friendly_AlwaysOn--></T>
+    <T>30896<!--mixer_social_TellCrowdPleasingStory_group_funny_alwaysOn_skills--></T>
+    <T>26916<!--mixer_social_TellDramaticStory_group_Friendly_MiddleScore--></T>
+    <T>26915<!--mixer_social_TellEngagingStory_group_Friendly_MiddleScore--></T>
+    <T>31029<!--mixer_social_TellMakeBelieveStory_targeted_Friendly_alwaysOn_child_skills--></T>
+    <T>26409<!--mixer_social_TellOutrageousStory_group_Funny_HighScore--></T>
+    <T>26333<!--mixer_social_TellUnbelievableStory_group_friendly_emotionspecific--></T>
+    <T>153301<!--mixer_social_Toddler_TalkAbout_Tell_Goofy_Story--></T>
+    <T>143952<!--mixer_social_Toddler_TalkAbout_Tell_Story--></T>
+    <T>286184<!--mixer_socials_SwapBabyMilestoneStories_Targeted_Friendly_AlwaysOn_STC--></T>
+    <T>26407<!--mixer_socials_TellFunnyStory_group_Funny_alwaysOn--></T>
+    <T>157663<!--mixer_socials_TellFunnyStory_group_Funny_alwaysOn_toddler--></T>
+    <T>102275<!--Social_Ghost_To_Ghost_Reminisce--></T>
+    <T>276451<!--social_WeddingTradition_TellWeddingStory--></T>
+    <T>314192<!--socials_Friendly_CrossAge_Interactions_ReminisceOnGoodTimes--></T>
+    <T>314198<!--socials_Friendly_CrossAge_Interactions_TalkAboutWorseThings--></T>
+    <T>202892<!--socials_Targeted_Celebrity_SharePersonalStory--></T>
+    <T>258469<!--socials_Targeted_Friendly_AlwaysOn_STC_InteriorDecorator_Followup_RecountRenovation--></T>
+    <T>187618<!--socials_Targeted_Friendly_AlwaysOn_STC_Scouting_TellSpookyStory--></T>
+    <T>156209<!--socials_Targeted_Friendly_AlwaysOn_STC_Toddler_TellStory--></T>
+  </L>
+</I>

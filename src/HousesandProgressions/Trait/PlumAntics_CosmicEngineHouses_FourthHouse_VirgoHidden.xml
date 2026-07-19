@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FourthHouse_VirgoHidden" s="2237001310">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+        <T n="display_name">0xF01AF8A5<!--PlumAntics_CosmicEngineHouses_FourthHouse_VirgoHidden--></T>
+    <T n="display_name_gender_neutral">0xF01AF8A5<!--PlumAntics_CosmicEngineHouses_FourthHouse_VirgoHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

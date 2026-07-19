@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000A72EF801 -->
+<I c="LootActions" s="2804873217" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddMoonAries">
+  <L n="loot_actions">
+    <!-- Add the Aries Moon trait -->
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">4080273607<!--PlumAntics_Big3Mod_AriesMoon--></T>
+        <!-- Aries Moon TRAIT tuning id -->
+      </U>
+    </V>
+  </L>
+</I>

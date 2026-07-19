@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CosmicEngineClearKnownChemistryLoot" i="action" m="cosmic_engine.loot_actions" n="PlumAntics_CosmicEngineCore_ClearKnownChemistryFromSunChange" s="830000000000009604">
+  <T n="layer_name">sun</T>
+</I>

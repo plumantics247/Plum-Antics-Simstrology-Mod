@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CosmicEnginePrettyCommandLoot" i="action" m="cosmic_engine.loot_actions" n="PlumAntics_CosmicEngineCore_PrettyTransitCommandLoot" s="830000000000009104">
+  <T n="command_name">ce.transit.pretty</T>
+</I>

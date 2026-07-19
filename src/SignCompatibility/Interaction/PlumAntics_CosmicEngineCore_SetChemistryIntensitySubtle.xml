@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ImmediateSuperInteraction" i="interaction" m="interactions.base.immediate_interaction" n="PlumAntics_CosmicEngineCore_SetChemistryIntensitySubtle" s="830000000000009121">
+  <T n="allow_autonomous">False</T>
+  <T n="allow_user_directed">True</T>
+  <T n="category">830000000000009116<!--PlumAntics_CosmicEngineCore_SimstrologyChemistry_PieMenu--></T>
+  <T n="display_name">0xA53F1E31<!--Subtle--></T>
+  <V n="display_tooltip" t="enabled">
+    <T n="enabled">0xA53F1E34<!--This affects all Sims in the current save.--></T>
+  </V>
+  <T n="pie_menu_priority">6</T>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">TARGET</E>
+  <L n="tests">
+    <L>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+            <L n="specified">
+              <E>TEEN</E>
+              <E>YOUNGADULT</E>
+              <E>ADULT</E>
+              <E>ELDER</E>
+            </L>
+          </V>
+          <V n="species" t="specified">
+            <U n="specified">
+              <L n="species">
+                <E>HUMAN</E>
+              </L>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="identity">
+        <U n="identity">
+          <E n="subject_b">TargetSim</E>
+          <T n="subjects_match">True</T>
+        </U>
+      </V>
+    </L>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>830000000000009117<!--PlumAntics_CosmicEngineCore_SetChemistryProfileSubtle--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+</I>

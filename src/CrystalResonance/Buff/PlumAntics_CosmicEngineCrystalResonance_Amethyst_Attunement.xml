@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 0BA8478CAB542397 -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineCrystalResonance_Amethyst_Attunement" s="840000000000009111">
+  <T n="audio_sting_on_add">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x717D27A5<!--A recently gifted Amethyst is fully attuned to the Aquarius signature in this Sim's Big 3, making the resonance feel stronger.--></T>
+  <T n="icon">2f7d0004:00000000:b681e4a5e381494d</T>
+  <T n="buff_name">0x24EBF5F7<!--Amethyst Attunement--></T>
+  <T n="mood_type">14634</T>
+  <T n="mood_weight">2</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">True</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

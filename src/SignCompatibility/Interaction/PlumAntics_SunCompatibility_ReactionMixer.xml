@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SocialMixerInteraction" i="interaction" m="interactions.social.social_mixer_interaction" n="PlumAntics_SunCompatibility_ReactionMixer" s="830000000000042301">
+  <T n="allow_autonomous">True</T>
+  <T n="allow_user_directed">False</T>
+  <T n="visible">False</T>
+  <E n="target_type">TARGET</E>
+  <L n="interaction_category_tags">
+    <E>Interaction_Mixer</E>
+    <E>Interaction_All</E>
+    <E>Interaction_SocialAll</E>
+    <E>Interaction_SocialMixer</E>
+    <E>Interaction_Friendly</E>
+  </L>
+  <L n="basic_extras">
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>830000000000042401<!--PlumAntics_SunCompatibility_AriesCompatibleReactionLoot--></T>
+          <T>830000000000042402<!--PlumAntics_SunCompatibility_AriesIncompatibleReactionLoot--></T>
+          <T>830000000000042403<!--PlumAntics_SunCompatibility_AriesNeutralReactionLoot--></T>
+          <T>830000000000042404<!--PlumAntics_SunCompatibility_TaurusCompatibleReactionLoot--></T>
+          <T>830000000000042405<!--PlumAntics_SunCompatibility_TaurusIncompatibleReactionLoot--></T>
+          <T>830000000000042406<!--PlumAntics_SunCompatibility_TaurusNeutralReactionLoot--></T>
+          <T>830000000000042407<!--PlumAntics_SunCompatibility_GeminiCompatibleReactionLoot--></T>
+          <T>830000000000042408<!--PlumAntics_SunCompatibility_GeminiIncompatibleReactionLoot--></T>
+          <T>830000000000042409<!--PlumAntics_SunCompatibility_GeminiNeutralReactionLoot--></T>
+          <T>830000000000042410<!--PlumAntics_SunCompatibility_CancerCompatibleReactionLoot--></T>
+          <T>830000000000042411<!--PlumAntics_SunCompatibility_CancerIncompatibleReactionLoot--></T>
+          <T>830000000000042412<!--PlumAntics_SunCompatibility_CancerNeutralReactionLoot--></T>
+          <T>830000000000042413<!--PlumAntics_SunCompatibility_LeoCompatibleReactionLoot--></T>
+          <T>830000000000042414<!--PlumAntics_SunCompatibility_LeoIncompatibleReactionLoot--></T>
+          <T>830000000000042415<!--PlumAntics_SunCompatibility_LeoNeutralReactionLoot--></T>
+          <T>830000000000042416<!--PlumAntics_SunCompatibility_VirgoCompatibleReactionLoot--></T>
+          <T>830000000000042417<!--PlumAntics_SunCompatibility_VirgoIncompatibleReactionLoot--></T>
+          <T>830000000000042418<!--PlumAntics_SunCompatibility_VirgoNeutralReactionLoot--></T>
+          <T>830000000000042419<!--PlumAntics_SunCompatibility_LibraCompatibleReactionLoot--></T>
+          <T>830000000000042420<!--PlumAntics_SunCompatibility_LibraIncompatibleReactionLoot--></T>
+          <T>830000000000042421<!--PlumAntics_SunCompatibility_LibraNeutralReactionLoot--></T>
+          <T>830000000000042422<!--PlumAntics_SunCompatibility_ScorpioCompatibleReactionLoot--></T>
+          <T>830000000000042423<!--PlumAntics_SunCompatibility_ScorpioIncompatibleReactionLoot--></T>
+          <T>830000000000042424<!--PlumAntics_SunCompatibility_ScorpioNeutralReactionLoot--></T>
+          <T>830000000000042425<!--PlumAntics_SunCompatibility_SagittariusCompatibleReactionLoot--></T>
+          <T>830000000000042426<!--PlumAntics_SunCompatibility_SagittariusIncompatibleReactionLoot--></T>
+          <T>830000000000042427<!--PlumAntics_SunCompatibility_SagittariusNeutralReactionLoot--></T>
+          <T>830000000000042428<!--PlumAntics_SunCompatibility_CapricornCompatibleReactionLoot--></T>
+          <T>830000000000042429<!--PlumAntics_SunCompatibility_CapricornIncompatibleReactionLoot--></T>
+          <T>830000000000042430<!--PlumAntics_SunCompatibility_CapricornNeutralReactionLoot--></T>
+          <T>830000000000042431<!--PlumAntics_SunCompatibility_AquariusCompatibleReactionLoot--></T>
+          <T>830000000000042432<!--PlumAntics_SunCompatibility_AquariusIncompatibleReactionLoot--></T>
+          <T>830000000000042433<!--PlumAntics_SunCompatibility_AquariusNeutralReactionLoot--></T>
+          <T>830000000000042434<!--PlumAntics_SunCompatibility_PiscesCompatibleReactionLoot--></T>
+          <T>830000000000042435<!--PlumAntics_SunCompatibility_PiscesIncompatibleReactionLoot--></T>
+          <T>830000000000042436<!--PlumAntics_SunCompatibility_PiscesNeutralReactionLoot--></T>
+        </L>
+        <V n="timing" t="at_end">
+          <U n="at_end"/>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

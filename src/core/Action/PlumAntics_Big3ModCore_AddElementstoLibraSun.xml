@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000B1760606 -->
+<I c="LootActions" s="2977302022" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddElementstoLibraSun">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3493848740<!--PlumAntics_Big3Mod_Cardinal--></T>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">2846662727<!--PlumAntics_Big3Mod_Venus--></T>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

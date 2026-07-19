@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CasPreferenceCategory" i="cas_preference_category" m="cas.cas_preference_category" n="PlumAntics_MoonCompatibility_CasPreferenceCategory" s="4100000002">
+  <V n="_display_data" t="optional_display_mixin">
+    <U n="optional_display_mixin">
+      <V n="instance_display_description" t="enabled_display_description">
+        <T n="enabled_display_description">0xA5401201</T>
+      </V>
+      <V n="instance_display_icon" t="enabled_display_icon">
+        <T n="enabled_display_icon">2f7d0004:00000000:a4aa05c7a31e7f14</T>
+      </V>
+      <V n="instance_display_name" t="enabled_display_name">
+        <T n="enabled_display_name">0xA5401200</T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled_display_tooltip">
+        <T n="enabled_display_tooltip">0xA5401202</T>
+      </V>
+    </U>
+  </V>
+  <U n="_randomization_number_of_preferences">
+    <T n="lower_bound">2</T>
+    <T n="upper_bound">6</T>
+  </U>
+</I>

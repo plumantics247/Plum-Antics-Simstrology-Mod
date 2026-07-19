@@ -1,0 +1,16 @@
+<I c="LootActions" s="429587337" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddSunAries">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">810000000000000002<!--PlumAntics_Big3Mod_AriesSunOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FourthHouse_JupiterTransitMarker" s="18302151835383566448">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x568A949D<!--Jupiter Transiting The 4th House: Blessed Shelter--></T>
+    <T n="display_name_gender_neutral">0x568A949D<!--Jupiter Transiting The 4th House: Blessed Shelter--></T>
+        <T n="icon">2f7d0004:00000000:ceaf0651b4ef56f9</T>
+    <T n="trait_description">0x9D452131<!--Home feels spacious, forgiving, and full of second chances.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

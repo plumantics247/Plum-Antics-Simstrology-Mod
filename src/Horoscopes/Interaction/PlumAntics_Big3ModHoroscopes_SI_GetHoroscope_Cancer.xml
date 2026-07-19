@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: E882D22F, Group: 00000000, Instance: 00000000D4583424 -->
+<I c="ImmediateSuperInteraction" i="interaction" m="interactions.base.immediate_interaction" n="PlumAntics_Big3_SI_GetHoroscope_Cancer" s="3562550308">
+  <T n="allow_user_directed">True</T>
+  <T n="category">3724778905<!--PlumAntics_Big3Mod_Discover_Natal_PieMenu--></T>
+  <T n="display_name">0x28DA39EF<!--display_name--></T>
+  <V n="display_tooltip" t="enabled">
+    <T n="enabled">0xA53F1E70<!--Shows this Sim's personalized horoscope reading for their sign. Consider it premium cosmic gossip with zero editorial standards.--></T>
+  </V>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>585362<!--Cancer Get Horoscope--></T>
+          <T>1025719431<!--Cancer Get Horoscope--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+  <T n="pie_menu_priority">10</T>
+  <E n="target_type">ACTOR</E>
+</I>

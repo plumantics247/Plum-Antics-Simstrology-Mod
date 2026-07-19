@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 000000008D22043D -->
+<I c="LootActions" s="2367816765" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddElementstoSagittariusSun">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">2904895862<!--PlumAntics_Big3Mod_Mutable--></T>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3236555963<!--PlumAntics_Big3Mod_Jupiter--></T>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

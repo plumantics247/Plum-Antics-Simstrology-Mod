@@ -1,0 +1,40 @@
+schema_version: 1
+notes:
+  - This file maps signal keys to existing buff tuning IDs.
+  - Buff IDs come from ids.registry.json maps.
+  - Python does not apply buffs directly; metadata is used for routing, conflicts, and debug.
+
+templates:
+  - key_template: SKY_SUN_SIGN_{SIGN}
+    buff_source_map: sun_base_buffs
+    duration_sim_minutes: 0
+    stacking_policy: REPLACE
+    intensity: 0.35
+    scope: sim
+    effect_group: background_sun
+
+  - key_template: SKY_MOON_SIGN_{SIGN}
+    buff_source_map: moon_base_buffs
+    duration_sim_minutes: 0
+    stacking_policy: REPLACE
+    intensity: 0.35
+    scope: sim
+    effect_group: background_moon
+
+  - key_template: SKY_RISING_SIGN_{SIGN}
+    buff_source_map: rising_base_buffs
+    duration_sim_minutes: 0
+    stacking_policy: REPLACE
+    intensity: 0.35
+    scope: sim
+    effect_group: background_rising
+
+  - key_template: FLARE_SUN_{SIGN}
+    buff_source_map: sun_base_buffs
+    duration_sim_minutes: 120
+    stacking_policy: REPLACE
+    intensity: 0.9
+    scope: sim
+    effect_group: flare_sun
+
+signals: {}

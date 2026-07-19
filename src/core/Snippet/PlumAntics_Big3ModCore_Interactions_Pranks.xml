@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AffordanceList" i="snippet" m="snippets" n="PlumAntics_Big3Mod_Interactions_Pranks" s="14029388175093318457">
+  <L n="value">
+    <T>25583<!--mixer_social_AirHorn_targeted_mischief_skills--></T>
+    <T>25577<!--mixer_social_AskDueDate_targeted_mischief_skills--></T>
+    <T>31095<!--mixer_social_AskImpossibleRiddle_targeted_mischief_alwaysOn_child_skills--></T>
+    <T>25575<!--mixer_social_AttemptToScare_targeted_mischief_skills--></T>
+    <T>121339<!--mixer_social_ChillingTouch_targeted_mischief_skills--></T>
+    <T>26878<!--mixer_social_DareToStreak_targeted_mischief_skills--></T>
+    <T>161664<!--mixer_Social_FlickNose_SiblingRivalry_AlwaysOn--></T>
+    <T>210304<!--mixer_social_JuiceKeg_CheckThisNoise_Mischief_alwaysOn--></T>
+    <T>40562<!--mixer_social_MonkeyAround_targeted_mischief_alwaysOn_child--></T>
+    <T>25578<!--mixer_social_NoxiousCloud_targeted_mischief_skills--></T>
+    <T>25672<!--mixer_social_PlayAPrank_targeted_mischief_skills--></T>
+    <T>26574<!--mixer_social_PretendToBeSlapped_targeted_mischief_skills--></T>
+    <T>35137<!--mixer_social_Sabotage_targeted_mischief_alwaysOn_trait--></T>
+    <T>25582<!--mixer_social_SlapEmSilly_targeted_mischief_skills--></T>
+    <T>177494<!--mixer_social_Targeted_Friendly_MiddleScore_STC_WhatsThatSpot_Child--></T>
+    <T>285097<!--mixer_social_Targeted_TeenPranks_UrbanMyth--></T>
+    <T>161663<!--mixer_Social_Tease_SiblingRivalry_AlwaysOn--></T>
+    <T>31562<!--mixer_social_TranquilizingHandshake_targeted_mischief_alwaysOn_career--></T>
+    <T>154642<!--mixer_social_Vampire_PretendToBite_Targeted_Mischief_AlwaysOn--></T>
+    <T>246098<!--mixer_socials_DareToAttemptRiskySlope_Targeted_Mischief_Snowboarding--></T>
+    <T>102228<!--Social_Ghost_PassThrough--></T>
+    <T>129292<!--social_JumpStand_Dare--></T>
+    <T>154189<!--socials_Targeted_Mischief_TransitionToTouching_LampFestival_HandBuzzer--></T>
+    <T>154226<!--socials_Targeted_Mischief_TransitionToTouching_LampFestival_SlapSilly--></T>
+  </L>
+</I>

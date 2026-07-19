@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineReturns_CancerSunReturnHidden" s="3419544620">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x868B55D6<!--PlumAntics_CosmicEngineReturns_CancerSunReturnHidden--></T>
+    <T n="display_name_gender_neutral">0x868B55D6<!--PlumAntics_CosmicEngineReturns_CancerSunReturnHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

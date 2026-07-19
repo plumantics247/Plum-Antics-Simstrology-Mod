@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: C149C87EE37B1C8D -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_PiscesSunBuffsLoot" s="13927883769927900301">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">16562858525901626750<!--PlumAntics_Big3Mod_AddPiscesSun--></T>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

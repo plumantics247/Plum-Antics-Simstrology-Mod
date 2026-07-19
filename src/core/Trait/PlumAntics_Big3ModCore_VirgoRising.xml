@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 000000009EE13E69 -->
+<I c="Trait" s="2665561705" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_VirgoRising">
+  <T n="display_name_gender_neutral">0xFD871B56<!--Virgo Rising--></T>
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="bb_filter_tags">
+    <E>Func_RobotVacuum</E>
+    <E>Func_VacuumCleaner</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17328064852541690698<!--PlumAntics_Big3Mod_VirgoRisingBuffHidden--></T>
+    </U>
+  </L>
+  
+  
+  <T n="trait_description">0x9266CA68<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:cb8f4bcd1a766ca0</T>
+  <T n="display_name">0xFD871B56<!--Virgo Rising--></T>
+  <E n="trait_type">GAMEPLAY</E>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <!-- Chart marker traits now sync here, after Rising completes the full natal chart. -->
+      <T>830000000000009103<!--PlumAntics_CosmicEngineCore_SyncChartCompositionPythonLoot--></T>
+      <T>15701100331319163107<!--Instance Rising Sign Notices--></T>
+      <T>13736671501533187746<!--PlumAntics_Big3ModCore_EnsureBig3OverlaysPythonLoot--></T>
+    </L>
+  </V>
+  
+</I>
+

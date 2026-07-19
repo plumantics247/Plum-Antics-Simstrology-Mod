@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: C38DB9AC3FAD717A -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_SagittariusRisingResidual' s='14091122958565994874'>
+  <L n='value'>
+    <T>223554<!--mixer_social_CollegeOrganizations_SchoolSpirit_Prank_TellJokeAboutScienceUniversity--></T>
+    <T>30898<!--mixer_social_JokeAboutFashion_targeted_funny_alwaysOn_Skills--></T>
+    <T>30759<!--mixer_social_KnockKnockJoke_targeted_funny_alwaysOn_skills--></T>
+    <T>31692<!--mixer_social_MakeFunOfNoobs_targeted_funny_alwaysOn_skills--></T>
+    <T>25907<!--mixer_social_SelfDeprecatingJoke_group_funny_emotionSpecific--></T>
+    <T>147465<!--mixer_Socials_JokeAboutPi_Targeted_Funny_AlwaysOn_STC_LogicFestival--></T>
+    <T>147466<!--mixer_Socials_JokeAboutRocketWoohoo_Targeted_Funny_AlwaysOn_STC_LogicFestival--></T>
+    <T>147292<!--socials_Targeted_Funny_AlwaysOn_STC_LampFestival_JokeAboutDarkTeam--></T>
+  </L>
+</I>

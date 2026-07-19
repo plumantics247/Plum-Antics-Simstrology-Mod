@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 00000000EDD44116 -->
+<I c="Buff" s="3990110486" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_CancerMoonFullMoonBuff">
+  <T n="buff_description">0x9F07463C<!--buff_description--></T>
+  <T n="icon">2f7d0004:00000000:bf82bbd4b003f581</T>
+  <T n="buff_name">0xF0105DFD<!--buff_name--></T>
+  <T n="mood_type">12984624083398897387<!--mood_type--></T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">16650</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">1.1</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="stat_use_multiplier">
+            <U>
+              <T n="key">160504</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">1.1</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">117858</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">1.2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>
+

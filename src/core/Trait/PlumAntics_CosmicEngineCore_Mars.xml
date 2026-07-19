@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" s="14595238808715947030" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_Mars_Hidden">
+  <T n="display_name_gender_neutral">0xEB972081<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0xBBBC0B2E<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:f78fef9af9f01a60</T>
+  <T n="display_name">0xEB972081<!--display_name--></T>
+  <E n="trait_type">HIDDEN</E>
+</I>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000B62B82DC -->
+<I c="Trait" s="3056304860" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_ElementAir">
+  <T n="display_name_gender_neutral">0xBF99374A<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="icon">2f7d0004:00000000:86508681104b79d5</T>
+  <T n="display_name">0xBF99374A<!--display_name--></T>
+  <E n="trait_type">GAMEPLAY</E>
+  <T n="trait_description">0xCBB4F1EA<!--trait_description--></T>
+</I>

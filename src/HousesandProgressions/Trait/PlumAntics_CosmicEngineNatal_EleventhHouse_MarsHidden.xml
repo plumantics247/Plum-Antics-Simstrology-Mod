@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineNatal_EleventhHouse_MarsHidden" s="3751910386">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0xF22038AC<!--PlumAntics_CosmicEngineNatal_EleventhHouse_MarsHidden--></T>
+    <T n="display_name_gender_neutral">0xF22038AC<!--PlumAntics_CosmicEngineNatal_EleventhHouse_MarsHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

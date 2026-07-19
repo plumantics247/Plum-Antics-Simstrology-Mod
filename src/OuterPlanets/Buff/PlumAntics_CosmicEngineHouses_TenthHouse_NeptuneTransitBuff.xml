@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="1246739696282758079" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_TenthHouse_NeptuneTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x995CD8D9<!--Your reputation takes on glamour, mystery, or projection from others.--></T>
+  <T n="icon">2f7d0004:00000000:b61c9d4f7ae20358</T>
+  <T n="buff_name">0x6C010191<!--Neptune Transiting The 10th House: Mythmaking Season--></T>
+  <T n="mood_type">9986929074150603838</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

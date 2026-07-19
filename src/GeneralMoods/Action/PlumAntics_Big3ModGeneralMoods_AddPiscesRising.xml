@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: DF16B143EB7D45FE -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddPiscesRising" s="16075230825217345022">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xA1433D12<!--enabled--></T>
+          </V>
+          <T n="buff_type">3480183840<!--PlumAntics_Big3Mod_PiscesRisingBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

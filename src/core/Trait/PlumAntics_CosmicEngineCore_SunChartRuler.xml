@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" s="16719930145011223341" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_SunChartRuler">
+  <T n="display_name_gender_neutral">0xDF45BE83<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0x5E8B5ABF<!--The Sun now rules your chart. All houses express through identity and purpose—whatever house is activated, your Sim will try to lead, define, and be seen for it.--></T>
+  <T n="icon">2f7d0004:00000000:7e185894186a3d07</T>
+  <T n="display_name">0xA04FA059<!--Chart Ruler: Solar Sovereign--></T>
+    <L n="conflicting_traits">
+    <T>16719930145011223342<!--PlumAntics_CosmicEngineCore_MoonChartRuler--></T>
+    <T>16719930145011223343<!--PlumAntics_CosmicEngineCore_MercuryChartRuler--></T>
+    <T>16719930145011223344<!--PlumAntics_CosmicEngineCore_VenusChartRuler--></T>
+    <T>16719930145011223345<!--PlumAntics_CosmicEngineCore_MarsChartRuler--></T>
+    <T>16719930145011223346<!--PlumAntics_CosmicEngineCore_JupiterChartRuler--></T>
+    <T>16719930145011223347<!--PlumAntics_CosmicEngineCore_SaturnChartRuler--></T>
+  </L>
+<E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" s="16719930145011223344" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_VenusChartRuler">
+  <T n="display_name_gender_neutral">0xBD50B2BB<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0x114CA083<!--Venus now rules your chart. All houses express through values, beauty, and connection—every life area asks: Is this worth it? Does it harmonize? Who do I want beside me?--></T>
+  <T n="icon">2f7d0004:00000000:390963a9d3f885b9</T>
+  <T n="display_name">0xE1295C7E<!--Chart Ruler: Venusian Patron--></T>
+    <L n="conflicting_traits">
+    <T>16719930145011223341<!--PlumAntics_CosmicEngineCore_SunChartRuler--></T>
+    <T>16719930145011223342<!--PlumAntics_CosmicEngineCore_MoonChartRuler--></T>
+    <T>16719930145011223343<!--PlumAntics_CosmicEngineCore_MercuryChartRuler--></T>
+    <T>16719930145011223345<!--PlumAntics_CosmicEngineCore_MarsChartRuler--></T>
+    <T>16719930145011223346<!--PlumAntics_CosmicEngineCore_JupiterChartRuler--></T>
+    <T>16719930145011223347<!--PlumAntics_CosmicEngineCore_SaturnChartRuler--></T>
+  </L>
+<E n="trait_type">GAMEPLAY</E>
+</I>

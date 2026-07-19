@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_SunCompatibility_AquariusIncompatibleReactionLoot" s="830000000000042432">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000043103<!--PlumAntics_SunCompatibility_Tier_Incompatible--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000043403<!--PlumAntics_SunCompatibility_Overlay_Incompatible--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000042103<!--PlumAntics_SunCompatibility_IncompatibleReactionBuff--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000042201<!--PlumAntics_SunCompatibility_ReactionCooldownBuff--></T>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>4100030011<!--PlumAntics_SunCompatibility_AquariusDislikePreferenceTrait--></T>
+          </L>
+        </U>
+      </V>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">TargetSim</E>
+          <L n="whitelist_traits">
+            <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>830000000000042201<!--PlumAntics_SunCompatibility_ReactionCooldownBuff--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

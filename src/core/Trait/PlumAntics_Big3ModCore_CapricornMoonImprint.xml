@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 7AFF765C2D1B85CA -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3ModCore_CapricornMoonImprint" s="8862932729954272714">
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <L n="conflicting_traits">
+    <T>8115911397757131098<!--PlumAntics_Big3ModCore_AquariusMoonImprint--></T>
+    <T>841670843030487305<!--PlumAntics_Big3ModCore_AriesMoonImprint--></T>
+    <T>2840214014826731753<!--PlumAntics_Big3ModCore_CancerMoonImprint--></T>
+    <T>9139740040414431088<!--PlumAntics_Big3ModCore_GeminiMoonImprint--></T>
+    <T>6867043335706161275<!--PlumAntics_Big3ModCore_LeoMoonImprint--></T>
+    <T>7308639024214314997<!--PlumAntics_Big3ModCore_LibraMoonImprint--></T>
+    <T>8152742865163779286<!--PlumAntics_Big3ModCore_PiscesMoonImprint--></T>
+    <T>9080151272040798293<!--PlumAntics_Big3ModCore_SagittariusMoonImprint--></T>
+    <T>2238310432893619440<!--PlumAntics_Big3ModCore_ScorpioMoonImprint--></T>
+    <T>8193006601517012377<!--PlumAntics_Big3ModCore_TaurusMoonImprint--></T>
+    <T>2765589636358458606<!--PlumAntics_Big3ModCore_VirgoMoonImprint--></T>
+  </L>
+  <T n="display_name">0xE07C7722<!--display_name--></T>
+  <T n="display_name_gender_neutral">0xE07C7722<!--display_name--></T>
+  <T n="icon">2f7d0004:00000000:da4e19e28a0820b1</T>
+  <L n="initial_commodities">
+    <T>11377001230017307557<!--PlumAntics_SimstrologyMoonController--></T>
+  </L>
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <T n="trait_description">0xBAAA4B4C<!--trait_description--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

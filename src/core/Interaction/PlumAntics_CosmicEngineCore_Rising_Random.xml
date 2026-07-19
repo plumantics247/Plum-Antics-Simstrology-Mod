@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<I c="ImmediateSuperInteraction" i="interaction" m="interactions.base.immediate_interaction" n="PlumAntics_CosmicEngineCore_Rising_Random" s="484998191268879100">
+  <T n="allow_autonomous">False</T>
+  <T n="allow_user_directed">True</T>
+  <T n="category">3724778905<!--PlumAntics_Big3Mod_Discover_Natal_PieMenu--></T>
+  <T n="display_name">0xA1B2C3D5<!--display_name--></T>
+  <V n="display_tooltip" t="enabled">
+    <T n="enabled">0xA53F1E65<!--Assigns a Rising sign at random if your Sim does not already have one. The first-impression generator is now running entirely on vibes.--></T>
+  </V>
+  <T n="pie_menu_priority">8</T>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">TARGET</E>
+  <L n="tests">
+    <L>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+                    <L n="specified">
+                        <E>TEEN</E>
+                        <E>YOUNGADULT</E>
+                        <E>ADULT</E>
+                        <E>ELDER</E>
+                    </L>
+                </V>
+        </U>
+      </V>
+      <V t="identity">
+        <U n="identity">
+          <E n="subject_b">TargetSim</E>
+          <T n="subjects_match">True</T>
+        </U>
+      </V>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="blacklist_traits">
+            <T>2297406366<!--PlumAntics_CosmicEngineCore_AriesRising--></T>
+            <T>16761871892616728776<!--PlumAntics_CosmicEngineCore_AriesRising_Marker--></T>
+            <T>2588878312<!--PlumAntics_CosmicEngineCore_TaurusRising--></T>
+            <T>11175056517398517295<!--PlumAntics_CosmicEngineCore_TaurusRising_Marker--></T>
+            <T>4242808797<!--PlumAntics_CosmicEngineCore_GeminiRising--></T>
+            <T>9692131357347781131<!--PlumAntics_CosmicEngineCore_GeminiRising_Marker--></T>
+            <T>2154635568<!--PlumAntics_CosmicEngineCore_CancerRising--></T>
+            <T>1381248803109246197<!--PlumAntics_CosmicEngineCore_CancerRising_Marker--></T>
+            <T>3739357428<!--PlumAntics_CosmicEngineCore_LeoRising--></T>
+            <T>3793302558151472525<!--PlumAntics_CosmicEngineCore_LeoRising_Marker--></T>
+            <T>2665561705<!--PlumAntics_CosmicEngineCore_VirgoRising--></T>
+            <T>5430967048860416012<!--PlumAntics_CosmicEngineCore_VirgoRising_Marker--></T>
+            <T>3123976786<!--PlumAntics_CosmicEngineCore_LibraRising--></T>
+            <T>2833538433433103528<!--PlumAntics_CosmicEngineCore_LibraRising_Marker--></T>
+            <T>3923158167<!--PlumAntics_CosmicEngineCore_ScorpioRising--></T>
+            <T>15335252023511564677<!--PlumAntics_CosmicEngineCore_ScorpioRising_Marker--></T>
+            <T>2405249506<!--PlumAntics_CosmicEngineCore_SagittariusRising--></T>
+            <T>17200683087698565611<!--PlumAntics_CosmicEngineCore_SagittariusRising_Marker--></T>
+            <T>3178572581<!--PlumAntics_CosmicEngineCore_CapricornRising--></T>
+            <T>9263783293184932856<!--PlumAntics_CosmicEngineCore_CapricornRising_Marker--></T>
+            <T>2243949835<!--PlumAntics_CosmicEngineCore_AquariusRising--></T>
+            <T>2536309387367529460<!--PlumAntics_CosmicEngineCore_AquariusRising_Marker--></T>
+            <T>3588503643<!--PlumAntics_CosmicEngineCore_PiscesRising--></T>
+            <T>5851936451986304843<!--PlumAntics_CosmicEngineCore_PiscesRising_Marker--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>13736671501533187748<!--PlumAntics_CosmicEngineCore_SetModeCosmicPythonLoot--></T>
+          <T>13736671501533187753<!--PlumAntics_Big3ModCore_AssignRisingRandomPythonLoot--></T>
+          <T>1004717949285038159<!--PlumAntics_CosmicEngineCore_LootApplyChartRulerFromRising--></T>
+          <T>11593030835386645003<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_Router--></T>
+          <T>17129410494824426042<!--PlumAntics_CosmicEngineCore_NatalOnboardActiveHousehold_RandomSunMoon_Loot--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+</I>
+
+
+
+

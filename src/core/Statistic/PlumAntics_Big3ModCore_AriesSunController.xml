@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 339BC5BD, Group: 00000000, Instance: 4F42A01236A20196 -->
+<I c="Commodity" i="statistic" m="statistics.commodity" n="PlumAntics_Big3Mod_AriesSunController" s="5711303277545652630">
+  <T n="_default_convergence_value">100</T>
+  <T n="_add_if_not_in_tracker">True</T>
+  <U n="arrow_data">
+    <T n="negative_double_arrow">-20</T>
+    <T n="negative_single_arrow">-1</T>
+    <T n="negative_triple_arrow">-30</T>
+    <T n="positive_double_arrow">20</T>
+    <T n="positive_single_arrow">1</T>
+    <T n="positive_triple_arrow">30</T>
+  </U>
+  <T n="auto_satisfy_curve_random_time_offset">120</T>
+  <T n="decay_rate">0.06944444444444445</T>
+  <!--one sim day-->
+  <U n="initial_tuning">
+    <T n="_use_auto_satisfy_curve_as_initial_value">False</T>
+    <T n="_value">0</T>
+    <T n="_use_stat_value_on_init">True</T>
+  </U>
+  <T n="max_value_tuning">100</T>
+  <T n="maximum_auto_satisfy_time">1440</T>
+  <T n="min_value_tuning">0</T>
+  <T n="persisted_tuning">True</T>
+  <T n="remove_on_convergence">False</T>
+  <L n="states">
+    <U>
+      <T n="apply_loot_on_load">True</T>
+      <L n="loot_list_on_enter_always">
+        <T>16992797574124448420<!--PlumAntics_Big3Mod_AriesSunBuffsLoot--></T>
+        <T>15922310201711322612<!--PlumAntics_Big3Mod_SimstrologyController_RefreshFireBuffs--></T>
+      </L>
+      <T n="value">50</T>
+    </U>
+    <U>
+      <T n="apply_loot_on_load">True</T>
+      <L n="loot_list_on_enter_always">
+        <T>1623030285640981666<!-- PlumAntics_Big3_Reset_SunSignsController --></T>
+      </L>
+      <T n="value">99</T>
+    </U>
+  </L>
+  <T n="ui_sort_order">0</T>
+  <U n="ui_visible_distress_threshold">
+    <T n="threshold_value">0</T>
+  </U>
+  <T n="weight">1</T>
+</I>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 0F81CA6A83F61CF1 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_CapricornNotification_Loot" s="1117396741393882353">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="icon_override_participant" t="enabled">
+              <E n="enabled">Actor</E>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xA6FBC2E5<!--1st House â€“ (Identity) Capricorn / \n  2nd House â€“ (Possessions) Aquarius / \n  3rd House â€“ (Communication) Pisces / \n  4th House â€“ (Home) Aries / \n  5th House â€“ (Romance) Taurus / \n  6th House â€“ (Health) Gemini / \n  7th House â€“ (Partnerships) Cancer / \n  8th House â€“ (Intimacy) Leo / \n  9th House â€“ (Philosophy) Virgo / \n  10th House â€“ (Reputation) Libra / \n  11th House â€“ (Community) Scorpio / \n  12th House â€“ (Spirituality) Sagittarius \n  Capricorn in your 1st House structures life around responsibility, endurance, and long-term vision. You approach challenges strategically, building steadily toward defined goals. Over time, discipline becomes the framework that supports meaningful achievement.--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x66EE12FF<!--{0.SimFirstName}'s House Wheel Revealed--></T>
+            </V>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>3178572581<!--PlumAntics_CosmicEngineCore_CapricornRising--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+          </L>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

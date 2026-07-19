@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3_Loot_Horoscope_Virgo_E" s="3645654121">
+  <L n="loot_actions">
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <U n="chance">
+          <T n="base_chance">100</T>
+        </U>
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key">2f7d0004:00000000:cf969d1aba8ed2da</T>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xCF927FC3<!--single--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x1F1AACB8<!--enabled--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

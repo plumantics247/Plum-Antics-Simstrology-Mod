@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SimData u="0x00000000" version="0x00000101">
+  <Instances>
+    <I name="PlumAntics_Big3Mod_ProgressedSun_Gemini" schema="Trait" type="Object">
+      <L name="ages">
+        <T type="Int64">2</T>
+        <T type="Int64">4</T>
+        <T type="Int64">128</T>
+      </L>
+      <L name="bb_filter_styles" />
+      <L name="bb_filter_tags" />
+      <T name="cas_allowed_pack">0</T>
+      <T name="cas_idle_asm_key">00000000-00000000-0000000000000000</T>
+      <T name="cas_idle_asm_state">None</T>
+      <T name="cas_selected_icon">00000000-00000000-0000000000000000</T>
+      <T name="cas_trait_asm_param">None</T>
+      <T name="cas_trait_hidden">1</T>
+      <T name="cas_trait_vfx" />
+      <L name="conflicting_traits">
+        <T type="TableSetReference">2430415371153613317</T>
+        <T type="TableSetReference">8960710436078173163</T>
+        <T type="TableSetReference">9482021035416149987</T>
+        <T type="TableSetReference">12757816750258922783</T>
+        <T type="TableSetReference">14016795132588088885</T>
+        <T type="TableSetReference">10569329109792809204</T>
+        <T type="TableSetReference">12963778258377165850</T>
+        <T type="TableSetReference">11835246999168645709</T>
+        <T type="TableSetReference">6149863072453466546</T>
+        <T type="TableSetReference">1637815211027082137</T>
+        <T type="TableSetReference">5224110435693224387</T>
+      </L>
+      <T name="display_name">0x00000000</T>
+      <L name="display_overrides" />
+      <L name="genders" />
+      <T name="icon">00000000-00000000-0000000000000000</T>
+      <L name="occults" />
+      <T name="refresh_sim_thumbnail">0</T>
+      <L name="species">
+        <T type="Int64">1</T>
+      </L>
+      <L name="tags" />
+      <T name="thumbnail_type_asm_param" />
+      <T name="trait_description">0x00000000</T>
+      <T name="trait_origin_description">0x00000000</T>
+      <T name="trait_type">4</T>
+      <V name="ui_category" variant="0xC1A03855" />
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Trait" schema_hash="0xC8782638">
+      <Columns>
+        <Column flags="0x00000000" name="ages" type="Vector" />
+        <Column flags="0x00000000" name="bb_filter_styles" type="Vector" />
+        <Column flags="0x00000000" name="bb_filter_tags" type="Vector" />
+        <Column flags="0x00000000" name="cas_allowed_pack" type="Int64" />
+        <Column flags="0x00000000" name="cas_idle_asm_key" type="ResourceKey" />
+        <Column flags="0x00000000" name="cas_idle_asm_state" type="String" />
+        <Column flags="0x00000000" name="cas_selected_icon" type="ResourceKey" />
+        <Column flags="0x00000000" name="cas_trait_asm_param" type="String" />
+        <Column flags="0x00000000" name="cas_trait_hidden" type="Boolean" />
+        <Column flags="0x00000000" name="cas_trait_vfx" type="String" />
+        <Column flags="0x00000000" name="conflicting_traits" type="Vector" />
+        <Column flags="0x00000000" name="display_name" type="LocalizationKey" />
+        <Column flags="0x00000000" name="display_overrides" type="Vector" />
+        <Column flags="0x00000000" name="genders" type="Vector" />
+        <Column flags="0x00000000" name="icon" type="ResourceKey" />
+        <Column flags="0x00000000" name="occults" type="Vector" />
+        <Column flags="0x00000000" name="refresh_sim_thumbnail" type="Boolean" />
+        <Column flags="0x00000000" name="species" type="Vector" />
+        <Column flags="0x00000000" name="tags" type="Vector" />
+        <Column flags="0x00000000" name="thumbnail_type_asm_param" type="String" />
+        <Column flags="0x00000000" name="trait_description" type="LocalizationKey" />
+        <Column flags="0x00000000" name="trait_origin_description" type="LocalizationKey" />
+        <Column flags="0x00000000" name="trait_type" type="Int64" />
+        <Column flags="0x00000000" name="ui_category" type="Variant" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

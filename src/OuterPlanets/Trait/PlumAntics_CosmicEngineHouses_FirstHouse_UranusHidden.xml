@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FirstHouse_UranusHidden" s="4375910500592703586">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0xE30D50F1<!--PlumAntics_CosmicEngineHouses_FirstHouse_UranusHidden--></T>
+    <T n="display_name_gender_neutral">0xE30D50F1<!--PlumAntics_CosmicEngineHouses_FirstHouse_UranusHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

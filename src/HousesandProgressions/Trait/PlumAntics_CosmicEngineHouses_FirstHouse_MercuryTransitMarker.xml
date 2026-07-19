@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FirstHouse_MercuryTransitMarker" s="13620354875893555290">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x911DA3CC<!--Mercury Transiting The 1st House: Fast Mouth, Fast Mind--></T>
+    <T n="display_name_gender_neutral">0x911DA3CC<!--Mercury Transiting The 1st House: Fast Mouth, Fast Mind--></T>
+        <T n="icon">2f7d0004:00000000:e92d9aeb74b1320c</T>
+    <T n="trait_description">0x9B1677A5<!--Words come quick; you're witty, restless, and hard to ignore.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

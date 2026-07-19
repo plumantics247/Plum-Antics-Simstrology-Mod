@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance:  -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_JupiterIntense" s="17131770190011200035">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">17131770190011200009<!--PlumAntics_Big3ModHousesProgressions_Assign_TeenPlusTwo--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200011<!--PlumAntics_Big3ModHousesProgressions_Assign_YoungAdultPlusTwo--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200013<!--PlumAntics_Big3ModHousesProgressions_Assign_AdultPlusTwo--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200007<!--PlumAntics_Big3ModHousesProgressions_Assign_ElderPlusTwo--></T>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="buff">
+        <U n="buff">
+          <V n="whitelist" t="enabled">
+            <L n="enabled">
+              <T>4606640800008067724<!--PlumAntics_Big3Mod_Retrogrades_JupiterRetrogradeIntense--></T>
+            </L>
+          </V>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+  </L>
+  </L>
+</I>

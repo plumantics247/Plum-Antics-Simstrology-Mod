@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="2393511253" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddSunCancer">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">810000000000000003<!--PlumAntics_Big3Mod_CancerSunOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

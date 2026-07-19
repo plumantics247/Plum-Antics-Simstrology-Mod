@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_VirgoRising" s="10245920579355064395">
+  <L n="loot_actions">
+    <V n="Remove Existing House Markers" t="actions">
+      <T n="actions">18286994604049546963<!--PlumAntics_CosmicEngineHouses_RemoveAllHouseSignMarkers--></T>
+    </V>
+    <V n="Assign First House -> Virgo" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">88897080<!--PlumAntics_CosmicEngineHouses_FirstHouse_VirgoHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Second House -> Libra" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">3340005717<!--PlumAntics_CosmicEngineHouses_SecondHouse_LibraHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Third House -> Scorpio" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">874264453<!--PlumAntics_CosmicEngineHouses_ThirdHouse_ScorpioHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Fourth House -> Sagittarius" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">3693203813<!--PlumAntics_CosmicEngineHouses_FourthHouse_SagittariusHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Fifth House -> Capricorn" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">3192567675<!--PlumAntics_CosmicEngineHouses_FifthHouse_CapricornHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Sixth House -> Aquarius" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">2039048710<!--PlumAntics_CosmicEngineHouses_SixthHouse_AquariusHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Seventh House -> Pisces" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">3753777401<!--PlumAntics_CosmicEngineHouses_SeventhHouse_PiscesHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Eighth House -> Aries" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">1858872908<!--PlumAntics_CosmicEngineHouses_EighthHouse_AriesHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Ninth House -> Taurus" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">1335919378<!--PlumAntics_CosmicEngineHouses_NinthHouse_TaurusHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Tenth House -> Gemini" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">3816054141<!--PlumAntics_CosmicEngineHouses_TenthHouse_GeminiHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Eleventh House -> Cancer" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">1842873430<!--PlumAntics_CosmicEngineHouses_EleventhHouse_CancerHidden--></T>
+      </U>
+    </V>
+    <V n="Assign Twelfth House -> Leo" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">2548456433<!--PlumAntics_CosmicEngineHouses_TwelfthHouse_LeoHidden--></T>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>2665561705<!--PlumAntics_CosmicEngineCore_VirgoRising--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>
+

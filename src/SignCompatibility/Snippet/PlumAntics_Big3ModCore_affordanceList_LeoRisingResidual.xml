@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: CB2B885ACAB47873 -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_LeoRisingResidual' s='14639944937227188339'>
+  <L n='value'>
+    <T>192508<!--celebrity_Socials_Acquaintance_Low_ExclaimAdoration--></T>
+    <T>187811<!--mixer_social_ComplimentCostume_Targeted_Friendly--></T>
+    <T>35495<!--mixer_social_ComplimentCostume_targeted_Friendly_alwaysOn_situation_Day1DLC--></T>
+    <T>75758<!--mixer_social_HighFive_targeted_friendly_alwaysOn_teen--></T>
+    <T>308756<!--mixer_Social_JobLoss_CongratulateOnNewJob--></T>
+    <T>107173<!--mixer_social_OffertoPumpup_targeted_Friendly_Athlete_AlwaysOn_STC--></T>
+    <T>98977<!--mixer_social_PraiseForGoodGrades_targeted_Friendly_alwaysOn_child_teen--></T>
+    <T>307437<!--socialSuperInteraction_Child_Confidence_PraiseEffort--></T>
+  </L>
+</I>

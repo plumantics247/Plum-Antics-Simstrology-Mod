@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 000000009AD782FE -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_FullMoonBuffLoot" s="2597815038">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">14156328260249158250<!--PlumAntics_Big3Mod_RemoveAllMoonBuffs--></T>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xD9E6C085<!--enabled--></T>
+          </V>
+          <T n="buff_type">3273113732<!--PlumAntics_Big3Mod_AriesMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>4080273607<!--PlumAntics_Big3Mod_AriesMoon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>3273113732<!--PlumAntics_Big3Mod_AriesMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xE9C483D2<!--enabled--></T>
+          </V>
+          <T n="buff_type">3684867566<!--PlumAntics_Big3Mod_TaurusMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3434935389<!--Taurus Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>3684867566<!--PlumAntics_Big3Mod_TaurusMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xCE11A860<!--enabled--></T>
+          </V>
+          <T n="buff_type">3587010239<!--PlumAntics_Big3Mod_GeminiMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2968393124<!--Gemini Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>3587010239<!--PlumAntics_Big3Mod_GeminiMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xBE3F5A62<!--enabled--></T>
+          </V>
+          <T n="buff_type">3990110486<!--PlumAntics_Big3Mod_CancerMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>4264462837<!--Cancer Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>3990110486<!--PlumAntics_Big3Mod_CancerMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x91107DAD<!--enabled--></T>
+          </V>
+          <T n="buff_type">4214480770<!--PlumAntics_Big3Mod_LeoMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3468113049<!--Leo Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>4214480770<!--PlumAntics_Big3Mod_LeoMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xB565F27E<!--enabled--></T>
+          </V>
+          <T n="buff_type">4168129475<!--PlumAntics_Big3Mod_VirgoMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3315030320<!--Virgo Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>4168129475<!--PlumAntics_Big3Mod_VirgoMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x806764E4<!--enabled--></T>
+          </V>
+          <T n="buff_type">3228832320<!--PlumAntics_Big3Mod_LibraMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2266439355<!--Libra Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>3228832320<!--PlumAntics_Big3Mod_LibraMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xCFE8981B<!--enabled--></T>
+          </V>
+          <T n="buff_type">2340660993<!--PlumAntics_Big3Mod_ScorpioMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2620839130<!--Scorpio Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>2340660993<!--PlumAntics_Big3Mod_ScorpioMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xF8BB52DF<!--enabled--></T>
+          </V>
+          <T n="buff_type">2988914320<!--PlumAntics_Big3Mod_SagittariusMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3557938955<!--Sag Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>2988914320<!--PlumAntics_Big3Mod_SagittariusMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xB1F0650E<!--enabled--></T>
+          </V>
+          <T n="buff_type">3315570999<!--PlumAntics_Big3Mod_CapricornMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>4251664764<!--Cap Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>3315570999<!--PlumAntics_Big3Mod_CapricornMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xF89D4A7E<!--enabled--></T>
+          </V>
+          <T n="buff_type">3276048109<!--PlumAntics_Big3Mod_AquariusMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2783528558<!--Aquarius Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>3276048109<!--PlumAntics_Big3Mod_AquariusMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xF5D053AB<!--enabled--></T>
+          </V>
+          <T n="buff_type">3198299805<!--PlumAntics_Big3Mod_PiscesMoonFullMoonBuff--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2174778494<!--Pisces Moon--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>3198299805<!--PlumAntics_Big3Mod_PiscesMoonFullMoonBuff--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: A873229FA3786AE1 -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently" s="12138083489731341025">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">60</T>
+    </U>
+  </V>
+  <T n="visible">False</T>
+</I>

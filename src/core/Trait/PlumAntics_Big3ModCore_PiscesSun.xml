@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 000000008CE57711 -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_PiscesSun" s="2363848465">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="cas_allowed_pack">BASE_GAME</E>
+  <L n="conflicting_traits">
+    <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+    <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+    <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+    <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+    <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+    <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+    <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+    <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+    <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+    <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+    <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+  </L>
+  <L n="bb_filter_tags">
+    <E>Func_Easel</E>
+    <E>Func_Guitar</E>
+    <E>Func_Piano</E>
+    <E>Func_Computer</E>
+  </L>
+  
+  
+  <T n="display_name">0xC0FEE6D8<!--Pisces Sun--></T>
+  <T n="display_name_gender_neutral">0xC0FEE6D8<!--Pisces Sun--></T>
+  <T n="icon">2f7d0004:00000000:9d7a6b4811fc73e2</T>
+  
+    <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>9503206159864251573<!--Instance Sun Sign Notices--></T>
+      <T>13736671501533187746<!--PlumAntics_Big3ModCore_EnsureBig3OverlaysPythonLoot--></T>
+    </L>
+  </V>
+<L n="super_affordances">
+    <T>2345428971<!--Pisces Horoscope Access--></T>
+  </L>
+<L n="species">
+    <E>HUMAN</E>
+  </L>
+  <T n="trait_description">0xEBF31217<!--trait_description--></T>
+  <E n="trait_type">GAMEPLAY</E>
+  <V n="ui_category" t="disabled"/>
+  
+  
+</I>

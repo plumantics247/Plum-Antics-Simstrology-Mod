@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 03E9D964, Group: 00000000, Instance: B2A1F677C51B0107 -->
+<I c="PieMenuCategory" i="pie_menu_category" m="interactions.pie_menu_category" n="PlumAntics_Big3Mod_SimstrologyHubCheatSunSign" s="12871840204270010631">
+  <T n="_collapsible">False</T>
+  <T n="_display_name">0xE833C0CC<!--Change My Sun Sign--></T>
+  <T n="_display_priority">5</T>
+  <T n="_icon">2f7d0004:00000000:ded106f4b50bc238</T>
+  <T n="_parent">17585182514099890486<!--PlumAntics_Big3Mod_SimstrologyHubCheat--></T>
+</I>

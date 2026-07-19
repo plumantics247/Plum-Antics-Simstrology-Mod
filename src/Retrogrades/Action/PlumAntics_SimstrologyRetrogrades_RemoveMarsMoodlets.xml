@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance:  -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_SimstrologyRetrogrades_RemoveMarsMoodlets" s="11800000000000000014">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>7862920393933891901<!--PlumAntics_Big3Mod_Retrogrades_MarsRetrograde--></T>
+          <T>1530688080417339088<!--PlumAntics_Big3Mod_Retrogrades_MarsRetrogradeIntense--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

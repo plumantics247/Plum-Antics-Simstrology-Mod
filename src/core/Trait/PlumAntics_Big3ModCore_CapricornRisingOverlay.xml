@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0B6139A7CBD20004 -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_CapricornRisingOverlay" s="820000000000000004">
+<L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+<T n="display_name">0xF9105B5E<!--Capricorn Rising--></T>
+<T n="display_name_gender_neutral">0xF9105B5E<!--Capricorn Rising--></T>
+<T n="icon">2f7d0004:00000000:a7baf83f0239d3ac</T>
+<L n="initial_commodities">
+    <T>833423400495499473<!--PlumAntics_Big3Mod_CapricornRisingController--></T>
+  </L>
+<V n="whim_set" t="enabled">
+    <T n="enabled">34810<!--ObjectivelessWhimSet: whimset_HasTraitSnob--></T>
+  </V>
+<T n="trait_description">0xE66A0D74<!--trait_description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

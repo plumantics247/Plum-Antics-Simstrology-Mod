@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 0000000089543992 -->
+<I c="Buff" s="2303998354" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_RemoveElementsfromAllBuff">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">1</T>
+    </U>
+  </V>
+  <L n="_loot_on_addition">
+    <T>2793971831<!--_loot_on_addition--></T>
+  </L>
+  <T n="visible">False</T>
+</I>

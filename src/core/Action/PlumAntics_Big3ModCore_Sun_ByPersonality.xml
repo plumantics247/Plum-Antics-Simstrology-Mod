@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 000000007784B0EE -->
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_Sun_ByPersonality" s="2005184750">
+  <L n="random_loot_actions">
+    <!-- Aries (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">429587337<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Aries match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>27419</T>
+                      <!-- Active (BG) -->
+                      <T>16824</T>
+                      <!-- Self-Assured (BG) -->
+                      <T>16845</T>
+                      <!-- Hot-Headed (BG) -->
+                      <T>16823</T>
+                      <!-- Ambitious (BG) -->
+                      <T>16826</T>
+                      <!-- Bro (BG) -->
+                      <T>27914</T>
+                      <!-- Loves Outdoors (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9599</T>
+                      <!-- Lazy (BG) -->
+                      <T>132589</T>
+                      <!-- Unflirty (BG) -->
+                      <T>9602</T>
+                      <!-- Loner (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Aries match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>27419</T>
+                      <T>16824</T>
+                      <T>16845</T>
+                      <T>16823</T>
+                      <T>16826</T>
+                      <T>27914</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9599</T>
+                      <T>132589</T>
+                      <T>9602</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Taurus (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">506944317<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Taurus match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>27176</T>
+                      <!-- Foodie (BG) -->
+                      <T>27913</T>
+                      <!-- Materialistic (BG) -->
+                      <T>27914</T>
+                      <!-- Loves Outdoors (BG) -->
+                      <T>9604</T>
+                      <!-- Music Lover (BG) -->
+                      <T>9620</T>
+                      <!-- Snob (BG) -->
+                      <T>27915</T>
+                      <!-- Good (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16848</T>
+                      <!-- Erratic (BG) -->
+                      <T>16833</T>
+                      <!-- Noncommittal (BG) -->
+                      <T>16860</T>
+                      <!-- Slob (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Taurus match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>27176</T>
+                      <T>27913</T>
+                      <T>27914</T>
+                      <T>9604</T>
+                      <T>9620</T>
+                      <T>27915</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16848</T>
+                      <T>16833</T>
+                      <T>16860</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Gemini (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">1512857696<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Gemini match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>29571</T>
+                      <!-- Outgoing (BG) -->
+                      <T>9322</T>
+                      <!-- Cheerful (BG) -->
+                      <T>27087</T>
+                      <!-- Gregarious (BG reward) -->
+                      <T>9337</T>
+                      <!-- Goofball (BG) -->
+                      <T>16850</T>
+                      <!-- Creative (BG) -->
+                      <T>16833</T>
+                      <!-- Noncommittal (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9602</T>
+                      <!-- Loner (BG) -->
+                      <T>132589</T>
+                      <!-- Unflirty (BG) -->
+                      <T>124879</T>
+                      <!-- Jealous (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Gemini match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>29571</T>
+                      <T>9322</T>
+                      <T>27087</T>
+                      <T>9337</T>
+                      <T>16850</T>
+                      <T>16833</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9602</T>
+                      <T>132589</T>
+                      <T>124879</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Cancer (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">2393511253<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Cancer match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16838</T>
+                      <!-- Family-Oriented (BG) -->
+                      <T>27915</T>
+                      <!-- Good (BG) -->
+                      <T>16858</T>
+                      <!-- Neat (BG) -->
+                      <T>27454</T>
+                      <!-- Romantic (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16833</T>
+                      <!-- Noncommittal (BG) -->
+                      <T>16857</T>
+                      <!-- Mean (BG) -->
+                      <T>16844</T>
+                      <!-- Hates Children (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Cancer match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16838</T>
+                      <T>27915</T>
+                      <T>16858</T>
+                      <T>27454</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16833</T>
+                      <T>16857</T>
+                      <T>16844</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Leo (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">2407078947<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Leo match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16824</T>
+                      <!-- Self-Assured (BG) -->
+                      <T>29571</T>
+                      <!-- Outgoing (BG) -->
+                      <T>16823</T>
+                      <!-- Ambitious (BG) -->
+                      <T>27913</T>
+                      <!-- Materialistic (BG) -->
+                      <T>9322</T>
+                      <!-- Cheerful (BG) -->
+                      <T>27454</T>
+                      <!-- Romantic (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9332</T>
+                      <!-- Gloomy (BG) -->
+                      <T>132589</T>
+                      <!-- Unflirty (BG) -->
+                      <T>9602</T>
+                      <!-- Loner (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Leo match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16824</T>
+                      <T>29571</T>
+                      <T>16823</T>
+                      <T>27913</T>
+                      <T>9322</T>
+                      <T>27454</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9332</T>
+                      <T>132589</T>
+                      <T>9602</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Virgo (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">437426406<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Virgo match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16858</T>
+                      <!-- Neat (BG) -->
+                      <T>9617</T>
+                      <!-- Perfectionist (BG) -->
+                      <T>16823</T>
+                      <!-- Ambitious (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9599</T>
+                      <!-- Lazy (BG) -->
+                      <T>16848</T>
+                      <!-- Erratic (BG) -->
+                      <T>16860</T>
+                      <!-- Slob (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Virgo match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16858</T>
+                      <T>9617</T>
+                      <T>16823</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9599</T>
+                      <T>16848</T>
+                      <T>16860</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Libra (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">122628565<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Libra match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>27454</T>
+                      <!-- Romantic (BG) -->
+                      <T>29571</T>
+                      <!-- Outgoing (BG) -->
+                      <T>27915</T>
+                      <!-- Good (BG) -->
+                      <T>16850</T>
+                      <!-- Creative (BG) -->
+                      <T>16833</T>
+                      <!-- Noncommittal (BG) -->
+                      <T>27913</T>
+                      <!-- Materialistic (BG) -->
+                      <T>27087</T>
+                      <!-- Gregarious (BG reward) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16845</T>
+                      <!-- Hot-Headed (BG) -->
+                      <T>16857</T>
+                      <!-- Mean (BG) -->
+                      <T>124879</T>
+                      <!-- Jealous (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Libra match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>27454</T>
+                      <T>29571</T>
+                      <T>27915</T>
+                      <T>16850</T>
+                      <T>16833</T>
+                      <T>27913</T>
+                      <T>27087</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16845</T>
+                      <T>16857</T>
+                      <T>124879</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Scorpio (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">1564554120<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Scorpio match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>124879</T>
+                      <!-- Jealous (BG) -->
+                      <T>9332</T>
+                      <!-- Gloomy (BG) -->
+                      <T>9617</T>
+                      <!-- Perfectionist (BG) -->
+                      <T>16845</T>
+                      <!-- Hot-Headed (BG) -->
+                      <T>9602</T>
+                      <!-- Loner (BG) -->
+                      <T>16850</T>
+                      <!-- Creative (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16833</T>
+                      <!-- Noncommittal (BG) -->
+                      <T>9337</T>
+                      <!-- Goofball (BG) -->
+                      <T>9322</T>
+                      <!-- Cheerful (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Scorpio match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>124879</T>
+                      <T>9332</T>
+                      <T>9617</T>
+                      <T>16845</T>
+                      <T>9602</T>
+                      <T>16850</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16833</T>
+                      <T>9337</T>
+                      <T>9322</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Sagittarius (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">1453199743<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Sagittarius match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>29571</T>
+                      <!-- Outgoing (BG) -->
+                      <T>9337</T>
+                      <!-- Goofball (BG) -->
+                      <T>27419</T>
+                      <!-- Active (BG) -->
+                      <T>9322</T>
+                      <!-- Cheerful (BG) -->
+                      <T>16823</T>
+                      <!-- Ambitious (BG) -->
+                      <T>27176</T>
+                      <!-- Foodie (BG) -->
+                      <T>27914</T>
+                      <!-- Loves Outdoors (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9602</T>
+                      <!-- Loner (BG) -->
+                      <T>124879</T>
+                      <!-- Jealous (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Sagittarius match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>29571</T>
+                      <T>9337</T>
+                      <T>27419</T>
+                      <T>9322</T>
+                      <T>16823</T>
+                      <T>27176</T>
+                      <T>27914</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9602</T>
+                      <T>124879</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Capricorn (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">2192525866<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Capricorn match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16823</T>
+                      <!-- Ambitious (BG) -->
+                      <T>9617</T>
+                      <!-- Perfectionist (BG) -->
+                      <T>16858</T>
+                      <!-- Neat (BG) -->
+                      <T>9620</T>
+                      <!-- Snob (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9599</T>
+                      <!-- Lazy (BG) -->
+                      <T>9337</T>
+                      <!-- Goofball (BG) -->
+                      <T>16848</T>
+                      <!-- Erratic (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Capricorn match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16823</T>
+                      <T>9617</T>
+                      <T>16858</T>
+                      <T>9620</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>9599</T>
+                      <T>9337</T>
+                      <T>16848</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Aquarius (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">1271968254<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Aquarius match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>27917</T>
+                      <!-- Genius (BG) -->
+                      <T>16850</T>
+                      <!-- Creative (BG) -->
+                      <T>16841</T>
+                      <!-- Geek (BG) -->
+                      <T>132589</T>
+                      <!-- Unflirty (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>27913</T>
+                      <!-- Materialistic (BG) -->
+                      <T>124879</T>
+                      <!-- Jealous (BG) -->
+                      <T>16857</T>
+                      <!-- Mean (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Aquarius match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>27917</T>
+                      <T>16850</T>
+                      <T>16841</T>
+                      <T>132589</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>27913</T>
+                      <T>124879</T>
+                      <T>16857</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <!-- Pisces (Base Game only) -->
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">3877182070<!--actions--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+        <L n="multipliers">
+          <!-- STRONG Pisces match -->
+          <U>
+            <T n="multiplier">100</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">2</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16850</T>
+                      <!-- Creative (BG) -->
+                      <T>9604</T>
+                      <!-- Music Lover (BG) -->
+                      <T>27915</T>
+                      <!-- Good (BG) -->
+                      <T>27454</T>
+                      <!-- Romantic (BG) -->
+                      <T>9602</T>
+                      <!-- Loner (BG) -->
+                      <T>9332</T>
+                      <!-- Gloomy (BG) -->
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16857</T>
+                      <!-- Mean (BG) -->
+                      <T>9620</T>
+                      <!-- Snob (BG) -->
+                      <T>16823</T>
+                      <!-- Ambitious (BG) -->
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+          <!-- LIGHT Pisces match -->
+          <U>
+            <T n="multiplier">50</T>
+            <L n="tests">
+              <L>
+                <V t="trait">
+                  <U n="trait">
+                    <T n="num_blacklist_allowed">0</T>
+                    <T n="num_whitelist_required">1</T>
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                      <T>16850</T>
+                      <T>9604</T>
+                      <T>27915</T>
+                      <T>27454</T>
+                      <T>9602</T>
+                      <T>9332</T>
+                    </L>
+                    <L n="blacklist_traits">
+                      <T>16857</T>
+                      <T>9620</T>
+                      <T>16823</T>
+                    </L>
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+  </L>
+</I>

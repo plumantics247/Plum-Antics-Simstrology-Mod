@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: F093453F296E7A66 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_RemoveAllRisingCheat" s="17335275528259533414">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>2243949835<!--PlumAntics_Big3Mod_AquariusRising--></T>
+              <T>2297406366<!--PlumAntics_Big3Mod_AriesRising--></T>
+              <T>2154635568<!--PlumAntics_Big3Mod_CancerRising--></T>
+              <T>3178572581<!--PlumAntics_Big3Mod_CapricornRising--></T>
+              <T>4242808797<!--PlumAntics_Big3Mod_GeminiRising--></T>
+              <T>3739357428<!--PlumAntics_Big3Mod_LeoRising--></T>
+              <T>3123976786<!--PlumAntics_Big3Mod_LibraRising--></T>
+              <T>3588503643<!--PlumAntics_Big3Mod_PiscesRising--></T>
+              <T>2405249506<!--PlumAntics_Big3Mod_SagittariusRising--></T>
+              <T>3923158167<!--PlumAntics_Big3Mod_ScorpioRising--></T>
+              <T>2588878312<!--PlumAntics_Big3Mod_TaurusRising--></T>
+              <T>2665561705<!--PlumAntics_Big3Mod_VirgoRising--></T>
+              <T>820000000000000001<!--PlumAntics_Big3Mod_AquariusRisingOverlay--></T>
+              <T>820000000000000002<!--PlumAntics_Big3Mod_AriesRisingOverlay--></T>
+              <T>820000000000000003<!--PlumAntics_Big3Mod_CancerRisingOverlay--></T>
+              <T>820000000000000004<!--PlumAntics_Big3Mod_CapricornRisingOverlay--></T>
+              <T>820000000000000005<!--PlumAntics_Big3Mod_GeminiRisingOverlay--></T>
+              <T>820000000000000006<!--PlumAntics_Big3Mod_LeoRisingOverlay--></T>
+              <T>820000000000000007<!--PlumAntics_Big3Mod_LibraRisingOverlay--></T>
+              <T>820000000000000008<!--PlumAntics_Big3Mod_PiscesRisingOverlay--></T>
+              <T>820000000000000009<!--PlumAntics_Big3Mod_SagittariusRisingOverlay--></T>
+              <T>820000000000000010<!--PlumAntics_Big3Mod_ScorpioRisingOverlay--></T>
+              <T>820000000000000011<!--PlumAntics_Big3Mod_TaurusRisingOverlay--></T>
+              <T>820000000000000012<!--PlumAntics_Big3Mod_VirgoRisingOverlay--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V n="Remove Shared Rising State" t="actions">
+      <T n="actions">615017686899673760<!--PlumAntics_CosmicEngineCore_RemoveAllRisingCheat--></T>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>4257687088<!--PlumAntics_Big3Mod_AquariusRisingBuff--></T>
+          <T>15208459190816520284<!--PlumAntics_Big3Mod_AquariusRisingBuffHidden--></T>
+          <T>2826991637<!--PlumAntics_Big3Mod_AriesRisingBuff--></T>
+          <T>12918265563991796165<!--PlumAntics_Big3Mod_AriesRisingBuffHidden--></T>
+          <T>3185436139<!--PlumAntics_Big3Mod_CancerRisingBuff--></T>
+          <T>17650666585668845927<!--PlumAntics_Big3Mod_CancerRisingBuffHidden--></T>
+          <T>4277672694<!--PlumAntics_Big3Mod_CapricornRisingBuff--></T>
+          <T>15126636509739300526<!--PlumAntics_Big3Mod_CapricornRisingBuffHidden--></T>
+          <T>3760591758<!--PlumAntics_Big3Mod_GeminiRisingBuff--></T>
+          <T>15318617036624185942<!--PlumAntics_Big3Mod_GeminiRisingBuffHidden--></T>
+          <T>3909395815<!--PlumAntics_Big3Mod_LeoRisingBuff--></T>
+          <T>17353441854101996323<!--PlumAntics_Big3Mod_LeoRisingBuffHidden--></T>
+          <T>3212600625<!--PlumAntics_Big3Mod_LibraRisingBuff--></T>
+          <T>18010668368502624721<!--PlumAntics_Big3Mod_LibraRisingBuffHidden--></T>
+          <T>3480183840<!--PlumAntics_Big3Mod_PiscesRisingBuff--></T>
+          <T>16033514376581042540<!--PlumAntics_Big3Mod_PiscesRisingBuffHidden--></T>
+          <T>3709549729<!--PlumAntics_Big3Mod_SagittariusRisingBuff--></T>
+          <T>12690836346523195841<!--PlumAntics_Big3Mod_SagittariusRisingBuffHidden--></T>
+          <T>3040384500<!--PlumAntics_Big3Mod_ScorpioRisingBuff--></T>
+          <T>9663775449722735088<!--PlumAntics_Big3Mod_ScorpioRisingBuffHidden--></T>
+          <T>2894645123<!--PlumAntics_Big3Mod_TaurusRisingBuff--></T>
+          <T>16781599041655572655<!--PlumAntics_Big3Mod_TaurusRisingBuffHidden--></T>
+          <T>2681600402<!--PlumAntics_Big3Mod_VirgoRisingBuff--></T>
+          <T>17328064852541690698<!--PlumAntics_Big3Mod_VirgoRisingBuffHidden--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

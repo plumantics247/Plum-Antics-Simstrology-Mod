@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: E4D0838026D6E457 -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineCore_GeminiRisingResidual_Subtle" s="16487822822234055767">
+  <T n="buff_name">0x00000000<!--PlumAntics_CosmicEngineCore_GeminiRisingResidual_Subtle--></T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="affordance_modifier">
+        <U n="affordance_modifier">
+          <L n="affordance_lists">
+            <T>9903202078949011863<!--PlumAntics_Big3Mod_affordanceList_GeminiRisingResidual--></T>
+          </L>
+          <T n="content_score_bonus">2</T>
+        </U>
+      </V>
+    </L>
+  </U>
+  <T n="icon" p="InGame\\UI\\Icons\\Debug\\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+</I>
+

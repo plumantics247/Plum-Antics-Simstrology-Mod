@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: D21E36DCEDC096EE -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_VirgoRisingResidual' s='15140599319775713006'>
+  <L n='value'>
+    <T>147450<!--mixer_Social_ArgueGif_Targeted_Friendly_AlwaysOn_STC_LogicFestival--></T>
+    <T>223220<!--mixer_social_CollegeOrganizations_SchoolSpirit_Prank_AskToPaint--></T>
+    <T>29411<!--mixer_social_DiscussLogicalPuzzles_targeted_Friendly_alwaysOn_skills--></T>
+    <T>224115<!--mixer_social_Friendly_CollegeOrganizations_Debate_DiscussDebate--></T>
+    <T>224116<!--mixer_social_Friendly_CollegeOrganizations_Debate_Inquire--></T>
+    <T>224117<!--mixer_social_Friendly_CollegeOrganizations_Debate_OfferFeedback--></T>
+    <T>147449<!--mixer_Social_TalkAboutCosplayers_Targeted_Friendly_AlwaysOn_STC_LogicFestival--></T>
+    <T>31002<!--mixer_social_TalkAboutSchool_targeted_Friendly_alwaysOn_child_skills--></T>
+    <T>206356<!--socials_Targeted_Friendly_Conservationist_EnthuseAboutEatingOrganic--></T>
+    <T>248689<!--socials_Targeted_Friendly_CorporateWorker_EnthuseAboutCompany--></T>
+  </L>
+</I>

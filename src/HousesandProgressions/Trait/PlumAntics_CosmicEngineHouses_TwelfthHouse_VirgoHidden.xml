@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_TwelfthHouse_VirgoHidden" s="615902644">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+        <T n="display_name">0x414425CD<!--PlumAntics_CosmicEngineHouses_TwelfthHouse_VirgoHidden--></T>
+    <T n="display_name_gender_neutral">0x414425CD<!--PlumAntics_CosmicEngineHouses_TwelfthHouse_VirgoHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

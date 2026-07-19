@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_CosmicEngineCore_RemoveAllMoonCheat" s="15371094919169874855">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>10695278403245366863<!--PlumAntics_CosmicEngineCore_AquariusMoon_Hidden--></T>
+              <T>11650509921942411200<!--PlumAntics_CosmicEngineCore_AriesMoon_Hidden--></T>
+              <T>10210395513972085902<!--PlumAntics_CosmicEngineCore_CancerMoon_Hidden--></T>
+              <T>15419029532620477613<!--PlumAntics_CosmicEngineCore_CapricornMoon_Hidden--></T>
+              <T>15098505637711985297<!--PlumAntics_CosmicEngineCore_GeminiMoon_Hidden--></T>
+              <T>14380993687067909978<!--PlumAntics_CosmicEngineCore_LeoMoon_Hidden--></T>
+              <T>10904194554514963844<!--PlumAntics_CosmicEngineCore_LibraMoon_Hidden--></T>
+              <T>11195456322365565579<!--PlumAntics_CosmicEngineCore_PiscesMoon_Hidden--></T>
+              <T>13888295933713094476<!--PlumAntics_CosmicEngineCore_SagittariusMoon_Hidden--></T>
+              <T>14531262052241215371<!--PlumAntics_CosmicEngineCore_ScorpioMoon_Hidden--></T>
+              <T>15981172008232333206<!--PlumAntics_CosmicEngineCore_TaurusMoon_Hidden--></T>
+              <T>15759714517750486241<!--PlumAntics_CosmicEngineCore_VirgoMoon_Hidden--></T>
+              <T>3537915219<!--PlumAntics_Big3Mod_Moon--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>11864550853147570951<!--PlumAntics_CosmicEngineCore_AquariusMoonBuff--></T>
+          <T>15042406954046093058<!--PlumAntics_CosmicEngineCore_AriesMoonBuff--></T>
+          <T>9925752661642414296<!--PlumAntics_CosmicEngineCore_CancerMoonBuff--></T>
+          <T>13149311619248349021<!--PlumAntics_CosmicEngineCore_CapricornMoonBuff--></T>
+          <T>11763036083550247545<!--PlumAntics_CosmicEngineCore_GeminiMoonBuff--></T>
+          <T>17037063141287468620<!--PlumAntics_CosmicEngineCore_LeoMoonBuff--></T>
+          <T>12367177018649285822<!--PlumAntics_CosmicEngineCore_LibraMoonBuff--></T>
+          <T>12271917696207961691<!--PlumAntics_CosmicEngineCore_PiscesMoonBuff--></T>
+          <T>9648149702778566966<!--PlumAntics_CosmicEngineCore_SagittariusMoonBuff--></T>
+          <T>13191358955225640283<!--PlumAntics_CosmicEngineCore_ScorpioMoonBuff--></T>
+          <T>17376468783523417808<!--PlumAntics_CosmicEngineCore_TaurusMoonBuff--></T>
+          <T>17973265476346425769<!--PlumAntics_CosmicEngineCore_VirgoMoonBuff--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" s="16904598435992729626" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_Mercury_Hidden">
+  <T n="display_name_gender_neutral">0xCF930E03<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0x91EE0740<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:e92d9aeb74b1320c</T>
+  <T n="display_name">0xCF930E03<!--display_name--></T>
+  <E n="trait_type">HIDDEN</E>
+</I>

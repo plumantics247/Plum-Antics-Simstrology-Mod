@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FirstHouse_JupiterTransitMarker" s="17122273517087950043">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x846194FC<!--Jupiter Transiting The 1st House: Bigger Than Life--></T>
+    <T n="display_name_gender_neutral">0x846194FC<!--Jupiter Transiting The 1st House: Bigger Than Life--></T>
+        <T n="icon">2f7d0004:00000000:ceaf0651b4ef56f9</T>
+    <T n="trait_description">0x3C1F0BDE<!--Confidence swells, risks feel worth it, and the mirror looks like a hype man.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

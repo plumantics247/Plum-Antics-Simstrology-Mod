@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000BA341A52 -->
+<I c="Trait" s="3123976786" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_LibraRising">
+  <T n="display_name_gender_neutral">0x9684D5D2<!--Libra Rising--></T>
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">18010668368502624721<!--PlumAntics_Big3Mod_LibraRisingBuffHidden--></T>
+    </U>
+  </L>
+  
+          <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <!-- Chart marker traits now sync here, after Rising completes the full natal chart. -->
+      <T>830000000000009103<!--PlumAntics_CosmicEngineCore_SyncChartCompositionPythonLoot--></T>
+      <T>15701100331319163107<!--Instance Rising Sign Notices--></T>
+      <T>13736671501533187746<!--PlumAntics_Big3ModCore_EnsureBig3OverlaysPythonLoot--></T>
+    </L>
+  </V>
+  <T n="trait_description">0x92C933F1<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:c6ab1ef7b863eee5</T>
+  <T n="display_name">0x9684D5D2<!--Libra Rising--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>
+

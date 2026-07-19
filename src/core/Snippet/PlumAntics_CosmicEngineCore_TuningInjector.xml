@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="PlumAntics_CosmicEngineCore_TuningInjector" s="5299607792965976743">
+  <T n="minimum_core_version">1.3.0</T>
+  <T n="mod_name">Cosmic Engine</T>
+  <T n="creator_name">Plum Antics</T>
+  <L n="inject_by_object_tuning">
+    <U>
+      <T n="query">14965<!--object_sim--></T>
+      <L n="affordances">
+        <T>830000000000009139<!--PlumAntics_CosmicEngineCore_SimstrologyHubLauncher--></T>
+        <T>830000000000009115<!--PlumAntics_CosmicEngineCore_RemoveAllNonHumanCheat--></T>
+      </L>
+    </U>
+  </L>
+  <L n="inject_by_affordance">
+    <U>
+      <T n="query">225064<!--computer_Locking_LockForEveryone--></T>
+      <V n="object_locking_component" t="enabled">
+        <U n="enabled">
+          <L n="super_affordances">
+            <T>5146860073747661105<!--PlumAntics_CosmicEngineCore_RisingbySeasonComputer--></T>
+            <T>7350925566642120423<!--PlumAntics_CosmicEngineCore_Rising_RandomComputer--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+  </L>
+  <L n="inject_to_mixer_list">
+    <U>
+      <T n="mixer_list">24508<!--AffordanceList: social_Mixers_Friendly_NonTouching--></T>
+      <L n="mixers">
+        <T>9115971081531931478<!--PlumAntics_CosmicEngineCore_Compatibility_SocialInteraction--></T>
+      </L>
+    </U>
+  </L>
+  <L n="inject_to_traits">
+    <U>
+      <T n="trait">2297406366<!--PlumAntics_CosmicEngineCore_AriesRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">17558926221677793347<!--PlumAntics_CosmicEngineCore_AriesRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_AriesRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2588878312<!--PlumAntics_CosmicEngineCore_TaurusRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">13647601875535910433<!--PlumAntics_CosmicEngineCore_TaurusRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_TaurusRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">4242808797<!--PlumAntics_CosmicEngineCore_GeminiRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">12465479366524855088<!--PlumAntics_CosmicEngineCore_GeminiRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_GeminiRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2154635568<!--PlumAntics_CosmicEngineCore_CancerRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">12379457436240851241<!--PlumAntics_CosmicEngineCore_CancerRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_CancerRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3739357428<!--PlumAntics_CosmicEngineCore_LeoRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">12369151251870317965<!--PlumAntics_CosmicEngineCore_LeoRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_LeoRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2665561705<!--PlumAntics_CosmicEngineCore_VirgoRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">14765527775646719456<!--PlumAntics_CosmicEngineCore_VirgoRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_VirgoRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3123976786<!--PlumAntics_CosmicEngineCore_LibraRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">14850758616715938239<!--PlumAntics_CosmicEngineCore_LibraRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_LibraRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3923158167<!--PlumAntics_CosmicEngineCore_ScorpioRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">15145327010575156506<!--PlumAntics_CosmicEngineCore_ScorpioRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_ScorpioRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2405249506<!--PlumAntics_CosmicEngineCore_SagittariusRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">16388053520431016087<!--PlumAntics_CosmicEngineCore_SagittariusRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_SagittariusRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3178572581<!--PlumAntics_CosmicEngineCore_CapricornRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">15146455120476281844<!--PlumAntics_CosmicEngineCore_CapricornRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_CapricornRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2243949835<!--PlumAntics_CosmicEngineCore_AquariusRising_Hidden--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">9284797153638321798<!--PlumAntics_CosmicEngineCore_AquariusRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_AquariusRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3588503643<!--PlumAntics_CosmicEngineCore_PiscesRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">14060186215043560986<!--PlumAntics_CosmicEngineCore_PiscesRisingBuffHidden--></T>
+          <!--PlumAntics_CosmicEngineCore_PiscesRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+  </L>
+</I>
+

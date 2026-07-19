@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 90195028484BBBDF -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_ScorpioRisingBuffsLoot" s="10383418549821225951">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">15935438692703548252<!--PlumAntics_Big3Mod_AddScorpioRising--></T>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>3923158167<!--Scorpio Rising--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

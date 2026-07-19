@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: BD49E2479DDCC4BF -->
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="PlumAntics_Big3Mod_testSetAquariusSun" s="13639681743687304383">
+  <L n="test">
+    <L>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+            <L n="specified">
+              <E>INFANT</E>
+              <E>TODDLER</E>
+              <E>CHILD</E>
+            </L>
+          </V>
+          <V n="species" t="specified">
+            <U n="specified">
+              <L n="species">
+                <E>HUMAN</E>
+              </L>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="season">
+        <U n="season">
+          <T n="requires_seasons_pack">True</T>
+          <L n="seasons">
+            <E>WINTER</E>
+          </L>
+          <V n="time_of_season" t="enabled">
+            <L n="enabled">
+              <E>MID</E>
+            </L>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

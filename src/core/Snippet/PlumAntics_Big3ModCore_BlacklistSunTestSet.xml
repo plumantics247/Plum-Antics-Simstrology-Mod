@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: EB21F7AC88F1947B -->
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="PlumAntics_Big3Mod_BlacklistSunTestSet" s="16943095593548485755">
+  <L n="test">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+            <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+            <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+            <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+            <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+            <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+            <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+            <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+            <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+            <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+            <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+            <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

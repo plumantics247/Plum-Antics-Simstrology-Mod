@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RelationshipBit" i="relbit" m="relationships.relationship_bit" n="PlumAntics_CosmicEngineCore_Relbit_MoonCompatibility_Neutral" s="830000000000043012">
+  <T n="display_name">0x00000000</T>
+  <E n="directionality">BIDIRECTIONAL</E>
+  <T n="persisted_tuning">True</T>
+  <T n="visible">False</T>
+  <T n="remove_on_threshold">False</T>
+</I>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0000000087171EBB -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_LibraMoon" s="2266439355">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>9302141831991662778<!--Instance Moon Sign Notices--></T>
+    
+      <T>8184301291437052211<!--PlumAntics_Big3ModCore_AddAllMoonBuffLoot--></T>
+</L>
+  </V>
+<L n="conflicting_traits">
+    <T>2174778494<!--Pisces Moon--></T>
+    <T>2783528558<!--Aquarius Moon--></T>
+    <T>4080273607<!--Aries Moon--></T>
+    <T>4264462837<!--Cancer Moon--></T>
+    <T>4251664764<!--Capricorn Moon--></T>
+    <T>2968393124<!--Gemini Moon--></T>
+    <T>3468113049<!--Leo Moon--></T>
+    <T>3557938955<!--Sagittarius Moon--></T>
+    <T>2620839130<!--Scorpio Moon--></T>
+    <T>3434935389<!--Taurus Moon--></T>
+    <T>3315030320<!--Virgo Moon--></T>
+  </L>
+  <T n="display_name">0xE2CFE294<!--Libra Moon--></T>
+  <T n="display_name_gender_neutral">0xE2CFE294<!--Libra Moon--></T>
+  <T n="icon">2f7d0004:00000000:eae18f05b6660da0</T>
+  <L n="initial_commodities">
+    <T>11377001230017307557<!--PlumAntics_SimstrologyMoonController--></T>
+  </L>
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <T n="trait_description">0xD1815E06<!--trait_description--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

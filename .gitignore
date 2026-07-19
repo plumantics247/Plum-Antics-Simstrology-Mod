@@ -1,0 +1,40 @@
+# Generated and release artifacts
+out/
+dist/
+build/
+release/
+releases/
+*.package
+*.ts4script
+*.zip
+*.7z
+*.rar
+BuildSummary.json
+
+# Local runtimes and dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local tools and logs
+.worktrees/
+.vscode/
+.idea/
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+credentials*
+secrets*

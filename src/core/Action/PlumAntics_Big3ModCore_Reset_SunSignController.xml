@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 168629721354DCA2 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_Reset_SunSignController" s="1623030285640981666">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">12711389161455735749<!--PlumAntics_Big3Mod_AquariusSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">5711303277545652630<!--PlumAntics_Big3Mod_AriesSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">18148062171200382060<!--PlumAntics_Big3Mod_CancerSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">11453318407634917827<!--PlumAntics_Big3Mod_CapricornSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">6352552984223102523<!--PlumAntics_Big3Mod_GeminiSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">16316066975693411712<!--PlumAntics_Big3Mod_LeoSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">14498606621753889290<!--PlumAntics_Big3Mod_LibraSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">5705931553488072245<!--PlumAntics_Big3Mod_PiscesSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">16250200748000336282<!--PlumAntics_Big3Mod_SagittariusSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">5638655988366650689<!--PlumAntics_Big3Mod_ScorpioSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">2145855411911679460<!--PlumAntics_Big3Mod_TaurusSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">15342940745898194103<!--PlumAntics_Big3Mod_VirgoSunController--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">5</T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

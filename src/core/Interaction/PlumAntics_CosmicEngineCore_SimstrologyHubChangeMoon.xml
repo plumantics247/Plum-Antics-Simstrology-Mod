@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimstrologyHubPickerInteraction" i="interaction" m="cosmic_engine.settings_picker" n="PlumAntics_CosmicEngineCore_SimstrologyHubChangeMoon" s="830000000000009145">
+  <T n="allow_autonomous">False</T><T n="allow_user_directed">True</T><T n="category">3724778905<!--PlumAntics_Big3Mod_Discover_Natal_PieMenu--></T><T n="cheat">True</T><T n="debug">True</T><T n="display_name">0xA53F1EA2<!--Change Moon Sign--></T><T n="pie_menu_priority">1</T>
+  <V n="picker_dialog" t="item_picker"><U n="item_picker"><V n="title" t="enabled"><T n="enabled">0xA53F1EA2<!--Change Moon Sign--></T></V></U></V><E n="target_type">OBJECT</E>
+  <L n="test_globals"><V t="sim_info"><U n="sim_info"><V n="ages" t="specified"><L n="specified"><E>TEEN</E><E>YOUNGADULT</E><E>ADULT</E><E>ELDER</E></L></V><V n="species" t="specified"><U n="specified"><L n="species"><E>HUMAN</E></L></U></V><E n="who">TargetSim</E></U></V></L>
+  <L n="choices">
+    <U><L n="continuation"><U><T n="affordance">11352331106226534188<!--Aries Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA4D4BE1A<!--Aries Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">10684745281908483484<!--Taurus Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xF0C1ED83<!--Taurus Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">12342186103915397493<!--Gemini Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xD16E3229<!--Gemini Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">17269331389197702476<!--Cancer Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xD3A8936C<!--Cancer Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">17924974926359566718<!--Leo Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA512D222<!--Leo Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">16238072616728788707<!--Virgo Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xB4F03256<!--Virgo Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">11959241278883574912<!--Libra Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xE2CFE294<!--Libra Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">10953984098240952117<!--Scorpio Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xC52BD98C<!--Scorpio Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">13423822307046732480<!--Sagittarius Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xBC7FE7F4<!--Sagittarius Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">16041544549441433159<!--Capricorn Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xE66EFC06<!--Capricorn Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">10358677090544268311<!--Aquarius Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xFD05E903<!--Aquarius Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">17647571779517026891<!--Pisces Moon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xB1C53812<!--Pisces Moon--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">830000000000009139<!--Simstrology Hub--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1E55<!--Return to main menu--></T></V></U>
+  </L><U n="progress_bar_enabled"><T n="bar_enabled">False</T></U>
+</I>

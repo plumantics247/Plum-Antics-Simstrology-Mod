@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: DEFBC0701F1819FC -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_StartupSeen" s="16067647683364919804">
+  <T n="display_name">0x21208995<!--display_name--></T>
+  <T n="display_name_gender_neutral">0x21208995<!--display_name_gender_neutral--></T>
+  <T n="icon"/>
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

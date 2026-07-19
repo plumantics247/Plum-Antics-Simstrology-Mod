@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 000000001266A3FB -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_Reset_MoonController" s="308716539">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_min">
+        <U n="statistic_set_min">
+          <T n="stat">11377001230017307557<!--PlumAntics_Big3Mod_SimstrologyMoonController--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

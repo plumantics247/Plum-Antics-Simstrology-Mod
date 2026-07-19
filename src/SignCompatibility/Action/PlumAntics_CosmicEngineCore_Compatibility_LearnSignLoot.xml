@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance:  -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_CosmicEngineCore_Compatibility_LearnSignLoot" s="1053048148584884323">
+  <L n="loot_actions">
+    <V t="know_other_sims_trait">
+      <U n="know_other_sims_trait">
+        <V n="notification" t="enabled">
+          <U n="enabled">
+            <V n="dialog" t="single">
+              <V n="single" t="literal">
+                <U n="literal">
+                  <V n="text" t="single">
+                    <T n="single">0x1883D451<!--{0.SimFirstName} has learned the following traits about {1.SimFirstName}:\n{2.String}--></T>
+                  </V>
+                  <V n="text_tokens" t="enabled"/>
+                </U>
+              </V>
+            </V>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+        <E n="target_participant_type">TargetSim</E>
+        <V n="traits" t="specified">
+          <U n="specified">
+            <L n="potential_traits">
+              <T>2243949835<!--PlumAntics_CosmicEngineCore_AquariusRising_Hidden--></T>
+              <T>2297406366<!--PlumAntics_CosmicEngineCore_AriesRising--></T>
+              <T>2154635568<!--PlumAntics_CosmicEngineCore_CancerRising--></T>
+              <T>3178572581<!--PlumAntics_CosmicEngineCore_CapricornRising--></T>
+              <T>4242808797<!--PlumAntics_CosmicEngineCore_GeminiRising--></T>
+              <T>3739357428<!--PlumAntics_CosmicEngineCore_LeoRising--></T>
+              <T>3123976786<!--PlumAntics_CosmicEngineCore_LibraRising--></T>
+              <T>3588503643<!--PlumAntics_CosmicEngineCore_PiscesRising--></T>
+              <T>2405249506<!--PlumAntics_CosmicEngineCore_SagittariusRising--></T>
+              <T>3923158167<!--PlumAntics_CosmicEngineCore_ScorpioRising--></T>
+              <T>2588878312<!--PlumAntics_CosmicEngineCore_TaurusRising--></T>
+              <T>2665561705<!--PlumAntics_CosmicEngineCore_VirgoRising--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="know_other_sims_trait">
+      <U n="know_other_sims_trait">
+        <V n="notification" t="enabled">
+          <U n="enabled">
+            <V n="dialog" t="single">
+              <V n="single" t="literal">
+                <U n="literal">
+                  <V n="text" t="single">
+                    <T n="single">0x1883D451<!--{0.SimFirstName} has learned the following traits about {1.SimFirstName}:\n{2.String}--></T>
+                  </V>
+                  <V n="text_tokens" t="enabled"/>
+                </U>
+              </V>
+            </V>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+        <E n="target_participant_type">Actor</E>
+        <V n="traits" t="specified">
+          <U n="specified">
+            <L n="potential_traits">
+              <T>2243949835<!--PlumAntics_CosmicEngineCore_AquariusRising_Hidden--></T>
+              <T>2297406366<!--PlumAntics_CosmicEngineCore_AriesRising--></T>
+              <T>2154635568<!--PlumAntics_CosmicEngineCore_CancerRising--></T>
+              <T>3178572581<!--PlumAntics_CosmicEngineCore_CapricornRising--></T>
+              <T>4242808797<!--PlumAntics_CosmicEngineCore_GeminiRising--></T>
+              <T>3739357428<!--PlumAntics_CosmicEngineCore_LeoRising--></T>
+              <T>3123976786<!--PlumAntics_CosmicEngineCore_LibraRising--></T>
+              <T>3588503643<!--PlumAntics_CosmicEngineCore_PiscesRising--></T>
+              <T>2405249506<!--PlumAntics_CosmicEngineCore_SagittariusRising--></T>
+              <T>3923158167<!--PlumAntics_CosmicEngineCore_ScorpioRising--></T>
+              <T>2588878312<!--PlumAntics_CosmicEngineCore_TaurusRising--></T>
+              <T>2665561705<!--PlumAntics_CosmicEngineCore_VirgoRising--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+
+    <V n="Discover Aries Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xA8066E56<!--{1.SimFirstName}'s Rising Sign is Aries.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2297406366<!--PlumAntics_CosmicEngineCore_AriesRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Taurus Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x5F9699BF<!--{1.SimFirstName}'s Rising Sign is Taurus.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2588878312<!--PlumAntics_CosmicEngineCore_TaurusRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Gemini Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xE5E7E76D<!--{1.SimFirstName}'s Rising Sign is Gemini.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>4242808797<!--PlumAntics_CosmicEngineCore_GeminiRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Cancer Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x07473FA7<!--{1.SimFirstName}'s Rising Sign is Cancer.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2154635568<!--PlumAntics_CosmicEngineCore_CancerRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Leo Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xE3486074<!--{1.SimFirstName}'s Rising Sign is Leo.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3739357428<!--PlumAntics_CosmicEngineCore_LeoRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Virgo Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xC30EA34B<!--{1.SimFirstName}'s Rising Sign is Virgo.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2665561705<!--PlumAntics_CosmicEngineCore_VirgoRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Libra Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xB534993C<!--{1.SimFirstName}'s Rising Sign is Libra.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3123976786<!--PlumAntics_CosmicEngineCore_LibraRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Scorpio Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xA54F4BDB<!--{1.SimFirstName}'s Rising Sign is Scorpio.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3923158167<!--PlumAntics_CosmicEngineCore_ScorpioRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Sagittarius Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x91D72717<!--{1.SimFirstName}'s Rising Sign is Sagittarius.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2405249506<!--PlumAntics_CosmicEngineCore_SagittariusRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Capricorn Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x42BF6E55<!--{1.SimFirstName}'s Rising Sign is Capricorn.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3178572581<!--PlumAntics_CosmicEngineCore_CapricornRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Aquarius Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x81501F9E<!--{1.SimFirstName}'s Rising Sign is Aquarius.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2243949835<!--PlumAntics_CosmicEngineCore_AquariusRising_Hidden--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Discover Pisces Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x3C4959EB<!--{1.SimFirstName}'s Rising Sign is Pisces.--></T>
+            </V>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3588503643<!--PlumAntics_CosmicEngineCore_PiscesRising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

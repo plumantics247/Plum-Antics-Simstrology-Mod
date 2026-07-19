@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 00000000B2C3941A -->
+<I c="Buff" s="2999161882" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_PiscesSunBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0xF3BE8BD2<!--buff_description--></T>
+  <T n="icon">2f7d0004:00000000:83f145fbd7358400</T>
+  <T n="buff_name">0xAC98C832<!--buff_name--></T>
+  <T n="mood_type">14641</T>
+  <T n="mood_weight">1</T>
+    <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+</I>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<I c="Preference" s="4100030004" i="trait" m="traits.preference" n="PlumAntics_SunCompatibility_CancerDislikePreferenceTrait">
+  <T n="trait_origin_description">0x00000000</T>
+  <T n="preference_item">4100010004</T>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="icon">2f7d0004:00000000:acfcb3c2a1fc9ded</T>
+  <T n="display_name">0xA541000E</T>
+  <T n="display_name_gender_neutral">0xA541000E</T>
+  <T n="trait_description">0xA541000F</T>
+  <E n="trait_type">DISLIKE</E>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">830000000000041102</T>
+    </U>
+  </L>
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <L n="conflicting_traits">
+    <T>4100020004</T>
+  </L>
+</I>

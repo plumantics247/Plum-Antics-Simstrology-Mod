@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_SunCompatibility_ReactionCooldownBuff" s="830000000000042201">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">60</T>
+    </U>
+  </V>
+  <T n="visible">False</T>
+</I>

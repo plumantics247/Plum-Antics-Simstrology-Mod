@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_CosmicEngineCore_RemoveAllRisingCheat" s="615017686899673760">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>2297406366<!--PlumAntics_CosmicEngineCore_AriesRising--></T>
+              <T>2588878312<!--PlumAntics_CosmicEngineCore_TaurusRising--></T>
+              <T>4242808797<!--PlumAntics_CosmicEngineCore_GeminiRising--></T>
+              <T>2154635568<!--PlumAntics_CosmicEngineCore_CancerRising--></T>
+              <T>3739357428<!--PlumAntics_CosmicEngineCore_LeoRising--></T>
+              <T>2665561705<!--PlumAntics_CosmicEngineCore_VirgoRising--></T>
+              <T>3123976786<!--PlumAntics_CosmicEngineCore_LibraRising--></T>
+              <T>3923158167<!--PlumAntics_CosmicEngineCore_ScorpioRising--></T>
+              <T>2405249506<!--PlumAntics_CosmicEngineCore_SagittariusRising--></T>
+              <T>3178572581<!--PlumAntics_CosmicEngineCore_CapricornRising--></T>
+              <T>2243949835<!--PlumAntics_CosmicEngineCore_AquariusRising--></T>
+              <T>3588503643<!--PlumAntics_CosmicEngineCore_PiscesRising--></T>
+              <T>14595238808715947030<!--PlumAntics_CosmicEngineCore_Mars_Hidden--></T>
+              <T>15345056623721389106<!--PlumAntics_CosmicEngineCore_Venus_Hidden--></T>
+              <T>16904598435992729626<!--PlumAntics_CosmicEngineCore_Mercury_Hidden--></T>
+              <T>17239223782097826302<!--PlumAntics_CosmicEngineCore_Moon_Hidden--></T>
+              <T>9347662265918957273<!--PlumAntics_CosmicEngineCore_Sun_Hidden--></T>
+              <T>9922924821041816598<!--PlumAntics_CosmicEngineCore_Jupiter_Hidden--></T>
+              <T>14935865373790362108<!--PlumAntics_CosmicEngineCore_Saturn_Hidden--></T>
+              <T>16719930145011223341<!--PlumAntics_CosmicEngineCore_SunChartRuler--></T>
+              <T>16719930145011223342<!--PlumAntics_CosmicEngineCore_MoonChartRuler--></T>
+              <T>16719930145011223343<!--PlumAntics_CosmicEngineCore_MercuryChartRuler--></T>
+              <T>16719930145011223344<!--PlumAntics_CosmicEngineCore_VenusChartRuler--></T>
+              <T>16719930145011223345<!--PlumAntics_CosmicEngineCore_MarsChartRuler--></T>
+              <T>16719930145011223346<!--PlumAntics_CosmicEngineCore_JupiterChartRuler--></T>
+              <T>16719930145011223347<!--PlumAntics_CosmicEngineCore_SaturnChartRuler--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V n="Remove Existing House Sign Markers" t="actions">
+      <T n="actions">18286994604049546963<!--PlumAntics_CosmicEngineHouses_RemoveAllHouseSignMarkers--></T>
+    </V>
+    <V n="Clear Known Chemistry Pair Memory" t="actions">
+      <T n="actions">830000000000009603<!--PlumAntics_CosmicEngineCore_ClearKnownChemistryFromRisingChange--></T>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>16522918576503384103<!--PlumAntics_CosmicEngineCore_AriesRisingBuff--></T>
+          <T>17558926221677793347<!--PlumAntics_CosmicEngineCore_AriesRisingBuffHidden--></T>
+          <T>10332357662782123169<!--PlumAntics_CosmicEngineCore_TaurusRisingBuff--></T>
+          <T>13647601875535910433<!--PlumAntics_CosmicEngineCore_TaurusRisingBuffHidden--></T>
+          <T>16722396680508236916<!--PlumAntics_CosmicEngineCore_GeminiRisingBuff--></T>
+          <T>12465479366524855088<!--PlumAntics_CosmicEngineCore_GeminiRisingBuffHidden--></T>
+          <T>12941051291039755033<!--PlumAntics_CosmicEngineCore_CancerRisingBuff--></T>
+          <T>12379457436240851241<!--PlumAntics_CosmicEngineCore_CancerRisingBuffHidden--></T>
+          <T>14219887360342883853<!--PlumAntics_CosmicEngineCore_LeoRisingBuff--></T>
+          <T>12369151251870317965<!--PlumAntics_CosmicEngineCore_LeoRisingBuffHidden--></T>
+          <T>14215500031738564964<!--PlumAntics_CosmicEngineCore_VirgoRisingBuff--></T>
+          <T>14765527775646719456<!--PlumAntics_CosmicEngineCore_VirgoRisingBuffHidden--></T>
+          <T>9725815557765184659<!--PlumAntics_CosmicEngineCore_LibraRisingBuff--></T>
+          <T>14850758616715938239<!--PlumAntics_CosmicEngineCore_LibraRisingBuffHidden--></T>
+          <T>13787503968827152546<!--PlumAntics_CosmicEngineCore_ScorpioRisingBuff--></T>
+          <T>15145327010575156506<!--PlumAntics_CosmicEngineCore_ScorpioRisingBuffHidden--></T>
+          <T>15795693121118363547<!--PlumAntics_CosmicEngineCore_SagittariusRisingBuff--></T>
+          <T>16388053520431016087<!--PlumAntics_CosmicEngineCore_SagittariusRisingBuffHidden--></T>
+          <T>14896628767639491928<!--PlumAntics_CosmicEngineCore_CapricornRisingBuff--></T>
+          <T>15146455120476281844<!--PlumAntics_CosmicEngineCore_CapricornRisingBuffHidden--></T>
+          <T>14031000847034127550<!--PlumAntics_CosmicEngineCore_AquariusRisingBuff--></T>
+          <T>9284797153638321798<!--PlumAntics_CosmicEngineCore_AquariusRisingBuffHidden--></T>
+          <T>15019313421663375778<!--PlumAntics_CosmicEngineCore_PiscesRisingBuff--></T>
+          <T>14060186215043560986<!--PlumAntics_CosmicEngineCore_PiscesRisingBuffHidden--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>
+

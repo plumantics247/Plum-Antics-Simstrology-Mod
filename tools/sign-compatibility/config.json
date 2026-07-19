@@ -1,0 +1,315 @@
+{
+  "stringTablePath": "src/String/SimstrologicalMod_English.stbl.json",
+  "categoryFolder": "src/SignCompatibility/CASPreferenceCategory",
+  "preferenceFolder": "src/SignCompatibility/PreferenceItem",
+  "traitFolder": "src/SignCompatibility/Trait",
+  "buffFolder": "src/SignCompatibility/Buff",
+  "statisticFolder": "src/SignCompatibility/Statistic",
+  "templateFolder": "tools/sign-compatibility/templates",
+  "coreTraitFolder": "src/core/Trait",
+  "reaction": {
+    "actionFolder": "src/SignCompatibility/Action",
+    "visibleBuffFolder": "src/SignCompatibility/BuffVisible",
+    "hiddenBuffFolder": "src/SignCompatibility/BuffHidden",
+    "tierBuffFolder": "src/SignCompatibility/BuffTier",
+    "overlayBuffFolder": "src/SignCompatibility/BuffOverlay",
+    "interactionFolder": "src/SignCompatibility/Interaction",
+    "injectorFolder": "src/SignCompatibility/Injector",
+    "outcomes": [
+      "Compatible",
+      "Neutral",
+      "Incompatible"
+    ],
+    "injector": {
+      "name": "PlumAntics_SignCompatibility_TuningInjector",
+      "instance": "830000000000042701"
+    },
+    "friendlyMixerLists": [
+      {
+        "id": "24508",
+        "comment": "AffordanceList: social_Mixers_Friendly_NonTouching"
+      },
+      {
+        "id": "163702",
+        "comment": "AffordanceList: social_Mixers_Friendly_NonTouching_ForReference"
+      }
+    ],
+    "channels": [
+      {
+        "slug": "Sun",
+        "actionBase": "830000000000042400",
+        "cooldownBuff": {
+          "name": "PlumAntics_SunCompatibility_ReactionCooldownBuff",
+          "instance": "830000000000042201"
+        },
+        "visibleBuffs": {
+          "compatible": {
+            "name": "PlumAntics_SunCompatibility_CompatibleReactionBuff",
+            "instance": "830000000000042101",
+            "nameKey": "0xA5431000",
+            "descriptionKey": "0xA5431001"
+          },
+          "neutral": {
+            "name": "PlumAntics_SunCompatibility_NeutralReactionBuff",
+            "instance": "830000000000042102",
+            "nameKey": "0xA5431002",
+            "descriptionKey": "0xA5431003"
+          },
+          "incompatible": {
+            "name": "PlumAntics_SunCompatibility_IncompatibleReactionBuff",
+            "instance": "830000000000042103",
+            "nameKey": "0xA5431004",
+            "descriptionKey": "0xA5431005"
+          }
+        },
+        "tierBuffs": {
+          "compatible": {
+            "name": "PlumAntics_SunCompatibility_Tier_Compatible",
+            "instance": "830000000000043101"
+          },
+          "neutral": {
+            "name": "PlumAntics_SunCompatibility_Tier_Neutral",
+            "instance": "830000000000043102"
+          },
+          "incompatible": {
+            "name": "PlumAntics_SunCompatibility_Tier_Incompatible",
+            "instance": "830000000000043103"
+          }
+        },
+        "overlayBuffs": {
+          "compatible": {
+            "name": "PlumAntics_SunCompatibility_Overlay_Compatible",
+            "instance": "830000000000043401"
+          },
+          "neutral": {
+            "name": "PlumAntics_SunCompatibility_Overlay_Neutral",
+            "instance": "830000000000043402"
+          },
+          "incompatible": {
+            "name": "PlumAntics_SunCompatibility_Overlay_Incompatible",
+            "instance": "830000000000043403"
+          }
+        },
+        "mixer": {
+          "name": "PlumAntics_SunCompatibility_ReactionMixer",
+          "instance": "830000000000042301"
+        }
+      },
+      {
+        "slug": "Moon",
+        "actionBase": "830000000000042500",
+        "cooldownBuff": {
+          "name": "PlumAntics_MoonCompatibility_ReactionCooldownBuff",
+          "instance": "830000000000042202"
+        },
+        "visibleBuffs": {
+          "compatible": {
+            "name": "PlumAntics_MoonCompatibility_CompatibleReactionBuff",
+            "instance": "830000000000042104",
+            "nameKey": "0xA5431100",
+            "descriptionKey": "0xA5431101"
+          },
+          "neutral": {
+            "name": "PlumAntics_MoonCompatibility_NeutralReactionBuff",
+            "instance": "830000000000042105",
+            "nameKey": "0xA5431102",
+            "descriptionKey": "0xA5431103"
+          },
+          "incompatible": {
+            "name": "PlumAntics_MoonCompatibility_IncompatibleReactionBuff",
+            "instance": "830000000000042106",
+            "nameKey": "0xA5431104",
+            "descriptionKey": "0xA5431105"
+          }
+        },
+        "tierBuffs": {
+          "compatible": {
+            "name": "PlumAntics_MoonCompatibility_Tier_Compatible",
+            "instance": "830000000000043201"
+          },
+          "neutral": {
+            "name": "PlumAntics_MoonCompatibility_Tier_Neutral",
+            "instance": "830000000000043202"
+          },
+          "incompatible": {
+            "name": "PlumAntics_MoonCompatibility_Tier_Incompatible",
+            "instance": "830000000000043203"
+          }
+        },
+        "overlayBuffs": {
+          "compatible": {
+            "name": "PlumAntics_MoonCompatibility_Overlay_Compatible",
+            "instance": "830000000000043404"
+          },
+          "neutral": {
+            "name": "PlumAntics_MoonCompatibility_Overlay_Neutral",
+            "instance": "830000000000043405"
+          },
+          "incompatible": {
+            "name": "PlumAntics_MoonCompatibility_Overlay_Incompatible",
+            "instance": "830000000000043406"
+          }
+        },
+        "mixer": {
+          "name": "PlumAntics_MoonCompatibility_ReactionMixer",
+          "instance": "830000000000042302"
+        }
+      },
+      {
+        "slug": "Rising",
+        "actionBase": "830000000000042600",
+        "cooldownBuff": {
+          "name": "PlumAntics_RisingCompatibility_ReactionCooldownBuff",
+          "instance": "830000000000042203"
+        },
+        "visibleBuffs": {
+          "compatible": {
+            "name": "PlumAntics_RisingCompatibility_CompatibleReactionBuff",
+            "instance": "830000000000042107",
+            "nameKey": "0xA5431200",
+            "descriptionKey": "0xA5431201"
+          },
+          "neutral": {
+            "name": "PlumAntics_RisingCompatibility_NeutralReactionBuff",
+            "instance": "830000000000042108",
+            "nameKey": "0xA5431202",
+            "descriptionKey": "0xA5431203"
+          },
+          "incompatible": {
+            "name": "PlumAntics_RisingCompatibility_IncompatibleReactionBuff",
+            "instance": "830000000000042109",
+            "nameKey": "0xA5431204",
+            "descriptionKey": "0xA5431205"
+          }
+        },
+        "tierBuffs": {
+          "compatible": {
+            "name": "PlumAntics_RisingCompatibility_Tier_Compatible",
+            "instance": "830000000000043301"
+          },
+          "neutral": {
+            "name": "PlumAntics_RisingCompatibility_Tier_Neutral",
+            "instance": "830000000000043302"
+          },
+          "incompatible": {
+            "name": "PlumAntics_RisingCompatibility_Tier_Incompatible",
+            "instance": "830000000000043303"
+          }
+        },
+        "overlayBuffs": {
+          "compatible": {
+            "name": "PlumAntics_RisingCompatibility_Overlay_Compatible",
+            "instance": "830000000000043407"
+          },
+          "neutral": {
+            "name": "PlumAntics_RisingCompatibility_Overlay_Neutral",
+            "instance": "830000000000043408"
+          },
+          "incompatible": {
+            "name": "PlumAntics_RisingCompatibility_Overlay_Incompatible",
+            "instance": "830000000000043409"
+          }
+        },
+        "mixer": {
+          "name": "PlumAntics_RisingCompatibility_ReactionMixer",
+          "instance": "830000000000042303"
+        }
+      }
+    ]
+  },
+  "channels": [
+    {
+      "slug": "Sun",
+      "categoryName": "PlumAntics_SunCompatibility_CasPreferenceCategory",
+      "categoryInstance": "4100000001",
+      "categoryDisplayNameKey": "0xA5401100",
+      "categoryDescriptionKey": "0xA5401101",
+      "categoryTooltipKey": "0xA5401102",
+      "categoryIconKey": "2f7d0004:00000000:88cb95441f5ca21d",
+      "itemBase": "4100010000",
+      "likeTraitBase": "4100020000",
+      "dislikeTraitBase": "4100030000",
+      "preferenceStringBase": "0xA5410000",
+      "buffs": {
+        "like": {
+          "name": "PlumAntics_SunCompatibility_LikeBuff",
+          "instance": "830000000000041101",
+          "nameKey": "0xA5402100",
+          "descriptionKey": "0xA5402101"
+        },
+        "dislike": {
+          "name": "PlumAntics_SunCompatibility_DislikeBuff",
+          "instance": "830000000000041102",
+          "nameKey": "0xA5402102",
+          "descriptionKey": "0xA5402103"
+        }
+      },
+      "statistic": {
+        "name": "PlumAntics_SunCompatibility_Controller",
+        "instance": "830000000000041201"
+      }
+    },
+    {
+      "slug": "Moon",
+      "categoryName": "PlumAntics_MoonCompatibility_CasPreferenceCategory",
+      "categoryInstance": "4100000002",
+      "categoryDisplayNameKey": "0xA5401200",
+      "categoryDescriptionKey": "0xA5401201",
+      "categoryTooltipKey": "0xA5401202",
+      "categoryIconKey": "2f7d0004:00000000:a4aa05c7a31e7f14",
+      "itemBase": "4100110000",
+      "likeTraitBase": "4100120000",
+      "dislikeTraitBase": "4100130000",
+      "preferenceStringBase": "0xA5420000",
+      "buffs": {
+        "like": {
+          "name": "PlumAntics_MoonCompatibility_LikeBuff",
+          "instance": "830000000000041103",
+          "nameKey": "0xA5402200",
+          "descriptionKey": "0xA5402201"
+        },
+        "dislike": {
+          "name": "PlumAntics_MoonCompatibility_DislikeBuff",
+          "instance": "830000000000041104",
+          "nameKey": "0xA5402202",
+          "descriptionKey": "0xA5402203"
+        }
+      },
+      "statistic": {
+        "name": "PlumAntics_MoonCompatibility_Controller",
+        "instance": "830000000000041202"
+      }
+    },
+    {
+      "slug": "Rising",
+      "categoryName": "PlumAntics_RisingCompatibility_CasPreferenceCategory",
+      "categoryInstance": "4100000003",
+      "categoryDisplayNameKey": "0xA5401300",
+      "categoryDescriptionKey": "0xA5401301",
+      "categoryTooltipKey": "0xA5401302",
+      "categoryIconKey": "2f7d0004:00000000:fe122ad453f80e09",
+      "itemBase": "4100210000",
+      "likeTraitBase": "4100220000",
+      "dislikeTraitBase": "4100230000",
+      "preferenceStringBase": "0xA5430000",
+      "buffs": {
+        "like": {
+          "name": "PlumAntics_RisingCompatibility_LikeBuff",
+          "instance": "830000000000041105",
+          "nameKey": "0xA5402300",
+          "descriptionKey": "0xA5402301"
+        },
+        "dislike": {
+          "name": "PlumAntics_RisingCompatibility_DislikeBuff",
+          "instance": "830000000000041106",
+          "nameKey": "0xA5402302",
+          "descriptionKey": "0xA5402303"
+        }
+      },
+      "statistic": {
+        "name": "PlumAntics_RisingCompatibility_Controller",
+        "instance": "830000000000041203"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="4124722691617307083" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_FourthHouse_UranusTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x1F3B2FEF<!--Home life wants fresh air, rearrangement, and one unexpected detour.--></T>
+  <T n="icon">2f7d0004:00000000:a8f7344c2d7b91e1</T>
+  <T n="buff_name">0xEA66F6A7<!--Uranus Transiting The 4th House: Restless Nest--></T>
+  <T n="mood_type">15799275429558895056</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

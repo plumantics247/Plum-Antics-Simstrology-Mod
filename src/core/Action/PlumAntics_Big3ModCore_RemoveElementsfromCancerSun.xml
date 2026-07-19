@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" s="2808542826" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_RemoveElementsfromCancerSun">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3493848740<!--PlumAntics_Big3Mod_Cardinal--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3537915219<!--PlumAntics_Big3Mod_Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    </L>
+</I>

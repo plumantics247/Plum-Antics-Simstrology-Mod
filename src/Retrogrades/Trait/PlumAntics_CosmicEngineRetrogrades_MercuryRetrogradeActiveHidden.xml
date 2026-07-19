@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineRetrogrades_MercuryRetrogradeActiveHidden" s="2821920925">
+    <L n="ages">
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x387EF920<!--PlumAntics_CosmicEngineRetrogrades_MercuryRetrogradeActiveHidden--></T>
+    <T n="display_name_gender_neutral">0x387EF920<!--PlumAntics_CosmicEngineRetrogrades_MercuryRetrogradeActiveHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

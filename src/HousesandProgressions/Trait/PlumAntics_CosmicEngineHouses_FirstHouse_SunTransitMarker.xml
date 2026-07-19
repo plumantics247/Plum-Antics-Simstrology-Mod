@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FirstHouse_SunTransitMarker" s="11913722775053046351">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0xD50FAD6C<!--Sun Transiting The 1st House: Main Character Transit--></T>
+    <T n="display_name_gender_neutral">0xD50FAD6C<!--Sun Transiting The 1st House: Main Character Transit--></T>
+        <T n="icon">2f7d0004:00000000:ded106f4b50bc238</T>
+    <T n="trait_description">0xE8E1CE33<!--Vitality rises and your presence takes up more space (in a good way).--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

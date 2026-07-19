@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" s="16719930145011223343" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_MercuryChartRuler">
+  <T n="display_name_gender_neutral">0xCF930E03<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0xA34E97AC<!--Mercury now rules your chart. All houses express through thoughts, words, and timing—each life area becomes a puzzle to solve, a skill to learn, or a conversation to master.--></T>
+  <T n="icon">2f7d0004:00000000:e7e48ff42c4ca7ad</T>
+  <T n="display_name">0xF34C49FD<!--Chart Ruler: Mercurial Navigator--></T>
+    <L n="conflicting_traits">
+    <T>16719930145011223341<!--PlumAntics_CosmicEngineCore_SunChartRuler--></T>
+    <T>16719930145011223342<!--PlumAntics_CosmicEngineCore_MoonChartRuler--></T>
+    <T>16719930145011223344<!--PlumAntics_CosmicEngineCore_VenusChartRuler--></T>
+    <T>16719930145011223345<!--PlumAntics_CosmicEngineCore_MarsChartRuler--></T>
+    <T>16719930145011223346<!--PlumAntics_CosmicEngineCore_JupiterChartRuler--></T>
+    <T>16719930145011223347<!--PlumAntics_CosmicEngineCore_SaturnChartRuler--></T>
+  </L>
+<E n="trait_type">GAMEPLAY</E>
+</I>

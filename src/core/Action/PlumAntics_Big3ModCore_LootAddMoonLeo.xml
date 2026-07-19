@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 000000009417C6CB -->
+<I c="LootActions" s="2484586187" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddMoonLeo">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3468113049<!--Leo Moon--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

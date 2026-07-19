@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="1564554120" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddSunScorpio">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">810000000000000010<!--PlumAntics_Big3Mod_ScorpioSunOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

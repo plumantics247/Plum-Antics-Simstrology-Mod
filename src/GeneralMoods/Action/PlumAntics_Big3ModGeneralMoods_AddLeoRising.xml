@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: D2A4A70F692D493F -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddLeoRising" s="15178440328776337727">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xFE078ED2<!--from Leo Rising trait--></T>
+          </V>
+          <T n="buff_type">3909395815<!--PlumAntics_Big3Mod_LeoRisingBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

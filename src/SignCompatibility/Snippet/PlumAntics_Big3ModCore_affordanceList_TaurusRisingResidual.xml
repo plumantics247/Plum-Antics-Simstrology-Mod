@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: 0519FDA0B663AA87 -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_TaurusRisingResidual' s='367603711303985799'>
+  <L n='value'>
+    <T>125528<!--mixer_social_DiscussDJMusic_targeted_Friendly_alwaysOn_STC--></T>
+    <T>221627<!--mixer_social_DiscussFavoriteArtPieces_targeted_Friendly_alwaysOn_STC--></T>
+    <T>221211<!--mixer_Social_DiscussStrategy_Targeted_Friendly_AlwaysOn_SoccerTeam--></T>
+    <T>186898<!--mixer_social_EnthuseAboutGardenerCareer_targeted_Friendly_alwaysOn--></T>
+    <T>28611<!--mixer_social_GiveCookingTips_targeted_Friendly_alwaysOn_skills--></T>
+    <T>118544<!--mixer_social_OfferMentalRelaxationTips_targeted_Friendly_alwaysOn--></T>
+    <T>28607<!--mixer_social_ShareCookingSecrets_targeted_Friendly_alwaysOn_skills--></T>
+    <T>28610<!--mixer_social_TalkAboutCooking_targeted_Friendly_alwaysOn_skills--></T>
+    <T>29582<!--mixer_social_TalkAboutDrinkMaking_targeted_Friendly_alwaysOn_skills--></T>
+    <T>131910<!--socials_Targeted_Friendly_AlwaysOn_STC_NPC_Service_Gardener_AskFor_GardeningAdvice--></T>
+    <T>131912<!--socials_Targeted_Friendly_AlwaysOn_STC_NPC_Service_Gardener_DiscussGardening_Techniques--></T>
+    <T>259504<!--socials_Targeted_Friendly_SimPreference_Recent_Likes_Cooking--></T>
+    <T>264447<!--socials_Targeted_Friendly_SimPreference_Recent_Likes_Gardening--></T>
+    <T>274563<!--socials_Targeted_Friendly_SimPreference_Recent_Likes_Knitting--></T>
+    <T>119534<!--mixer_social_TryForBabyInSteamRoom_targeted_romance_transition--></T>
+    <T>119533<!--mixer_social_WooHooInSteamRoom_targeted_romance_transition--></T>
+  </L>
+</I>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000000">
+  <Instances>
+    <I name="PlumAntics_CosmicEngineCore_Relbit_MoonCompatibility_Compatible" schema="RelationshipBit" type="Object">
+      <T name="bit_description">0x00000000</T>
+      <L name="collection_ids"/>
+      <T name="directionality">0</T>
+      <T name="display_name">0x00000000</T>
+      <T name="display_priority">0</T>
+      <T name="group_id">9</T>
+      <T name="icon">00000000-00000000-0000000000000000</T>
+      <V name="sim_profile_background" variant="0xC1A03855"/>
+      <V name="small_icon" variant="0xF8CBBF4C">
+        <T type="ResourceKey">00000000-00000000-0000000000000000</T>
+      </V>
+      <T name="visible">0</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="RelationshipBit" schema_hash="0xF94B8FE1">
+      <Columns>
+        <Column name="bit_description" type="LocalizationKey" flags="0x00000000"/>
+        <Column name="collection_ids" type="Vector" flags="0x00000000"/>
+        <Column name="directionality" type="UInt32" flags="0x00000000"/>
+        <Column name="display_name" type="LocalizationKey" flags="0x00000000"/>
+        <Column name="display_priority" type="Int32" flags="0x00000000"/>
+        <Column name="group_id" type="UInt32" flags="0x00000000"/>
+        <Column name="icon" type="ResourceKey" flags="0x00000000"/>
+        <Column name="sim_profile_background" type="Variant" flags="0x00000000"/>
+        <Column name="small_icon" type="Variant" flags="0x00000000"/>
+        <Column name="visible" type="Boolean" flags="0x00000000"/>
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_SecondHouse_MoonHidden" s="3214597682">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x942229C3<!--PlumAntics_CosmicEngineHouses_SecondHouse_MoonHidden--></T>
+    <T n="display_name_gender_neutral">0x942229C3<!--PlumAntics_CosmicEngineHouses_SecondHouse_MoonHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

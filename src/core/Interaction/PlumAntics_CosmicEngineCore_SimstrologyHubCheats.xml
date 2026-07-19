@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimstrologyHubPickerInteraction" i="interaction" m="cosmic_engine.settings_picker" n="PlumAntics_CosmicEngineCore_SimstrologyHubCheats" s="830000000000009142">
+  <T n="allow_autonomous">False</T>
+  <T n="allow_user_directed">True</T>
+  <T n="category">3724778905<!--PlumAntics_Big3Mod_Discover_Natal_PieMenu--></T>
+  <T n="cheat">True</T>
+  <T n="debug">True</T>
+  <T n="display_name">0xA53F1E97<!--Cheats and Repairs--></T>
+  <T n="pie_menu_priority">1</T>
+  <V n="picker_dialog" t="item_picker"><U n="item_picker"><V n="title" t="enabled"><T n="enabled">0xA53F1E97<!--Cheats and Repairs--></T></V></U></V>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals"><V t="sim_info"><U n="sim_info"><V n="ages" t="specified"><L n="specified"><E>TEEN</E><E>YOUNGADULT</E><E>ADULT</E><E>ELDER</E></L></V><V n="species" t="specified"><U n="specified"><L n="species"><E>HUMAN</E></L></U></V><E n="who">TargetSim</E></U></V></L>
+  <L n="choices">
+    <U><L n="continuation"><U><T n="affordance">830000000000009143<!--PlumAntics_CosmicEngineCore_SimstrologyHubChangeSign--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1EA0<!--Change a Sign--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">830000000000009106<!--PlumAntics_CosmicEngineCore_CheatPrettyTransit--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1E11<!--Show Transit Snapshot--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">830000000000009136<!--PlumAntics_CosmicEngineCore_CheatReseedMarsPlus--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1E15<!--Reseed Mars+ Transit Sky--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">830000000000009109<!--PlumAntics_CosmicEngineCore_CheatRepairTeenHandoff--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1E12<!--Repair Childhood Trait Handoff--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">12964943365501611110<!--PlumAntics_CosmicEngineCore_RemoveAllCheat--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0x7C367724<!--Remove All Simstrology Traits--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">830000000000009139<!--PlumAntics_CosmicEngineCore_SimstrologyHubLauncher--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1E55<!--Return to main menu--></T></V></U>
+  </L>
+  <U n="progress_bar_enabled"><T n="bar_enabled">False</T></U>
+</I>

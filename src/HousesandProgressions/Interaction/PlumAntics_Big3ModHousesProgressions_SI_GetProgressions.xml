@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: E882D22F, Group: 00000000, Instance: 88D4B390D3D70682 -->
+<I c="ImmediateSuperInteraction" i="interaction" m="interactions.base.immediate_interaction" n="PlumAntics_Big3ModHousesProgressions_SI_GetProgressions" s="9859702918831605378">
+  <T n="allow_user_directed">True</T>
+  <T n="allow_autonomous">False</T>
+  <T n="category">3724778905<!--PlumAntics_Big3Mod_Discover_Natal_PieMenu--></T>
+  <T n="display_name">0x27E04C38<!--Calculate Your Current Sun Progression--></T>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>5885820251439532618<!--PlumAntics_Big3ModHousesProgressions_ProgressionsLootRouter--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+  <L n="tests">
+    <L>
+      <V t="skill_test">
+        <U n="skill_test">
+          <T n="skill">17669575907783292335<!--PlumAntics_Big3Mod_SimstrologySkill_Skill--></T>
+          <V n="skill_range" t="interval">
+            <U n="interval">
+              <U n="skill_interval">
+                <T n="lower_bound">4</T>
+              </U>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+  <T n="pie_menu_priority">10</T>
+  <E n="target_type">ACTOR</E>
+</I>

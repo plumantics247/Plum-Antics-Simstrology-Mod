@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" s="17239223782097826302" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_Moon_Hidden">
+  <T n="display_name_gender_neutral">0x8AC7AE46<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0xB761AAB5<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:ed7513e6668b03df</T>
+  <T n="display_name">0x8AC7AE46<!--display_name--></T>
+  <E n="trait_type">HIDDEN</E>
+</I>

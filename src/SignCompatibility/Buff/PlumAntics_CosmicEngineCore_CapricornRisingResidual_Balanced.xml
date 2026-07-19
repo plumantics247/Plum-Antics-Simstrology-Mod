@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 8D7A82121C5C825C -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineCore_CapricornRisingResidual_Balanced" s="10194603720803385948">
+  <T n="buff_name">0x00000000<!--PlumAntics_CosmicEngineCore_CapricornRisingResidual_Balanced--></T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="affordance_modifier">
+        <U n="affordance_modifier">
+          <L n="affordance_lists">
+            <T>6453716410869278234<!--PlumAntics_Big3Mod_affordanceList_CapricornRisingResidual--></T>
+          </L>
+          <T n="content_score_bonus">4</T>
+        </U>
+      </V>
+    </L>
+  </U>
+  <T n="icon" p="InGame\\UI\\Icons\\Debug\\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+</I>
+

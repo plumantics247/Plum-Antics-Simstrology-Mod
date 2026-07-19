@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AffordanceList" i="snippet" m="snippets" n="PlumAntics_Big3Mod_Interactions_Deception" s="2680312040151898153">
+  <L n="value">
+    <T>132481<!--mixer_social_AskAbout_PrizedPossessions_mischief_alwaysOn_trait--></T>
+    <T>150760<!--mixer_social_Career_Activist_MakeEmptyPromises_alwaysOn--></T>
+    <T>26650<!--mixer_social_ClaimCriminalMastermind_targeted_mischief_skills--></T>
+    <T>26318<!--mixer_social_DescribeApocalypse_group_mischief_skills--></T>
+    <T>106825<!--mixer_social_GiveBadMedicalAdvice_targeted_Mischief_alwaysOn_ActiveCareer_Doctor--></T>
+    <T>26707<!--mixer_social_GiveFakeBadNews_targeted_mischief_skills--></T>
+    <T>107455<!--mixer_social_GiveFakeInvestmentTips_Targeted_Mischief_AlwaysOn_career--></T>
+    <T>26685<!--mixer_social_InstillWithFalseConfidence_targeted_mischief_skills--></T>
+    <T>28743<!--mixer_social_InviteToFakeParty_targeted_mischief_alwaysOn--></T>
+    <T>26693<!--mixer_social_LieAboutCareer_group_mischief_skills--></T>
+    <T>108039<!--mixer_social_MemoryErase_Targeted_Mischief_AlwaysOn_Alien--></T>
+    <T>206075<!--mixer_social_Mermaid_ImpersonateMerfolk_Mischief_alwaysOn--></T>
+    <T>29513<!--mixer_social_Pickpocket_targeted_mischief_career--></T>
+    <T>113729<!--mixer_social_Pickpocket_targeted_mischief_career_household--></T>
+    <T>35124<!--mixer_social_PlantSeedsOfDoubt_targeted_mischief_alwaysOn_trait--></T>
+    <T>25653<!--mixer_social_RevealEvilPlans_targeted_mischief_traits--></T>
+    <T>107840<!--mixer_social_ScareWithProbe_Targeted_Mischief_AlwaysOn_Alien--></T>
+    <T>25609<!--mixer_social_ShareConspiracyTheory_targeted_mischief_alwaysOn--></T>
+    <T>160988<!--mixer_social_SpreadRumorsAboutWoohoo_Mischief_AlwaysOn_Teen--></T>
+    <T>26683<!--mixer_social_StartPreposterousRumor_group_mischief_skills--></T>
+    <T>35132<!--mixer_social_SubtleyDebase_targeted_mischief_alwaysOn_trait--></T>
+    <T>35128<!--mixer_social_TellAViciousRumor_targeted_mischief_alwaysOn_trait--></T>
+    <T>160987<!--mixer_social_TellUrbanLegend_Mischief_AlwaysOn_Teen--></T>
+    <T>126702<!--mixer_social_Trick_Targeted_Mischief_AlwaysOn_STC--></T>
+    <T>154547<!--mixer_social_Vampire_ClaimToBeMasterVampire_Targeted_Mischief_AlwaysOn--></T>
+    <T>154548<!--mixer_social_Vampire_LieAboutBadPlasma_Targeted_Mischief_AlwaysOn--></T>
+    <T>128917<!--mixer_socials_SpreadFakeSpoilers_targeted_Mischief_AlwaysOn_STC--></T>
+    <T>147271<!--socials_Targeted_Mischief_AlwaysOn_STC_LampFestival_ConvinceLifeHack--></T>
+    <T>147268<!--socials_Targeted_Mischief_AlwaysOn_STC_LampFestival_DescribeTea--></T>
+    <T>147270<!--socials_Targeted_Mischief_AlwaysOn_STC_LampFestival_ImplySabotage--></T>
+    <T>147269<!--socials_Targeted_Mischief_AlwaysOn_STC_LampFestival_SingNaughtySong--></T>
+  </L>
+</I>

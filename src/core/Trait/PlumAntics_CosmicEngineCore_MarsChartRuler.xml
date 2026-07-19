@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" s="16719930145011223345" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_MarsChartRuler">
+  <T n="display_name_gender_neutral">0xEB972081<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0x61C09B0B<!--Mars now rules your chart. All houses express through action and courage—each life area becomes a challenge to face, a boundary to set, or a target to pursue.--></T>
+  <T n="icon">2f7d0004:00000000:bd641c75d086548d</T>
+  <T n="display_name">0x448DF7D1<!--Chart Ruler: Martian Vanguard--></T>
+    <L n="conflicting_traits">
+    <T>16719930145011223341<!--PlumAntics_CosmicEngineCore_SunChartRuler--></T>
+    <T>16719930145011223342<!--PlumAntics_CosmicEngineCore_MoonChartRuler--></T>
+    <T>16719930145011223343<!--PlumAntics_CosmicEngineCore_MercuryChartRuler--></T>
+    <T>16719930145011223344<!--PlumAntics_CosmicEngineCore_VenusChartRuler--></T>
+    <T>16719930145011223346<!--PlumAntics_CosmicEngineCore_JupiterChartRuler--></T>
+    <T>16719930145011223347<!--PlumAntics_CosmicEngineCore_SaturnChartRuler--></T>
+  </L>
+<E n="trait_type">GAMEPLAY</E>
+</I>

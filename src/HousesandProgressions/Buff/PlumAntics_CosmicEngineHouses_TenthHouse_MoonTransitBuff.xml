@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="6851004552529615443" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_TenthHouse_MoonTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x9198C104<!--Emotions leak into your reputation; you're more sensitive to feedback.--></T>
+  <T n="icon">2f7d0004:00000000:ed7513e6668b03df</T>
+  <T n="buff_name">0xC9C30FF8<!--Moon Transiting The 10th House: Public Feelings--></T>
+  <T n="mood_type">14643</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

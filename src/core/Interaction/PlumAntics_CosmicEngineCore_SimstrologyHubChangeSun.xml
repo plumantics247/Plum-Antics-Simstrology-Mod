@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimstrologyHubPickerInteraction" i="interaction" m="cosmic_engine.settings_picker" n="PlumAntics_CosmicEngineCore_SimstrologyHubChangeSun" s="830000000000009144">
+  <T n="allow_autonomous">False</T><T n="allow_user_directed">True</T><T n="category">3724778905<!--PlumAntics_Big3Mod_Discover_Natal_PieMenu--></T><T n="cheat">True</T><T n="debug">True</T><T n="display_name">0xA53F1EA1<!--Change Sun Sign--></T><T n="pie_menu_priority">1</T>
+  <V n="picker_dialog" t="item_picker"><U n="item_picker"><V n="title" t="enabled"><T n="enabled">0xA53F1EA1<!--Change Sun Sign--></T></V></U></V><E n="target_type">OBJECT</E>
+  <L n="test_globals"><V t="sim_info"><U n="sim_info"><V n="ages" t="specified"><L n="specified"><E>TEEN</E><E>YOUNGADULT</E><E>ADULT</E><E>ELDER</E></L></V><V n="species" t="specified"><U n="specified"><L n="species"><E>HUMAN</E></L></U></V><E n="who">TargetSim</E></U></V></L>
+  <L n="choices">
+    <U><L n="continuation"><U><T n="affordance">15225843418917850863<!--Aries Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xE5077B83<!--Aries Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">16234308290902336767<!--Taurus Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xE3E8E3DB<!--Taurus Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">14384109549496465292<!--Gemini Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xDA996F50<!--Gemini Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">15751853361776334223<!--Cancer Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xAAB647DD<!--Cancer Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">12329027688043807697<!--Leo Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xCD018DE3<!--Leo Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">9554877926903586418<!--Virgo Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xB4947974<!--Virgo Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">18343499715956195323<!--Libra Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA6CA7984<!--Libra Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">11466260588100176204<!--Scorpio Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xC5903A6C<!--Scorpio Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">16503356723797990971<!--Sagittarius Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xB4AEFED9<!--Sagittarius Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">13507900748351533310<!--Capricorn Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xAEB4F9E8<!--Capricorn Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">13519283555355382062<!--Aquarius Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0x968907CE<!--Aquarius Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">17409822613036764122<!--Pisces Sun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xC0FEE6D8<!--Pisces Sun--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">830000000000009139<!--Simstrology Hub--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1E55<!--Return to main menu--></T></V></U>
+  </L><U n="progress_bar_enabled"><T n="bar_enabled">False</T></U>
+</I>

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: EDC04638453E7208 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModHousesProgressions_Assign_TeenPlusOne" s="17131770190011200008">
+  <L n="loot_actions">
+    <V n="Remove All" t="actions">
+      <T n="actions">16976730625710540831<!--PlumAntics_Big3ModHousesProgressions_RemoveAllProgTraits--></T>
+    </V>
+    <V n="Aries to Gemini" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">3020418863475258838<!--PlumAntics_Big3Mod_ProgressedSun_Gemini--></T>
+      </U>
+    </V>
+    <V n="Taurus to Cancer" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">9482021035416149987<!--PlumAntics_Big3Mod_ProgressedSun_Cancer--></T>
+      </U>
+    </V>
+    <V n="Gemini to Leo" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">14016795132588088885<!--PlumAntics_Big3Mod_ProgressedSun_Leo--></T>
+      </U>
+    </V>
+    <V n="Cancer to Virgo" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">5224110435693224387<!--PlumAntics_Big3Mod_ProgressedSun_Virgo--></T>
+      </U>
+    </V>
+    <V n="Leo to Libra" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">10569329109792809204<!--PlumAntics_Big3Mod_ProgressedSun_Libra--></T>
+      </U>
+    </V>
+    <V n="Virgo to Scorpio" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">6149863072453466546<!--PlumAntics_Big3Mod_ProgressedSun_Scorpio--></T>
+      </U>
+    </V>
+    <V n="Libra to Sagittarius" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">11835246999168645709<!--PlumAntics_Big3Mod_ProgressedSun_Sagittarius--></T>
+      </U>
+    </V>
+    <V n="Scorpio to Capricorn" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">12757816750258922783<!--PlumAntics_Big3Mod_ProgressedSun_Capricorn--></T>
+      </U>
+    </V>
+    <V n="Sagittarius to Aquarius" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">2430415371153613317<!--PlumAntics_Big3Mod_ProgressedSun_Aquarius--></T>
+      </U>
+    </V>
+    <V n="Capricorn to Pisces" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">12963778258377165850<!--PlumAntics_Big3Mod_ProgressedSun_Pisces--></T>
+      </U>
+    </V>
+    <V n="Aquarius to Aries" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">8960710436078173163<!--PlumAntics_Big3Mod_ProgressedSun_Aries--></T>
+      </U>
+    </V>
+    <V n="Pisces to Taurus" t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">1637815211027082137<!--PlumAntics_Big3Mod_ProgressedSun_Taurus--></T>
+      </U>
+    </V>
+  </L>
+    <T n="run_test_first">True</T>
+    <L n="tests">
+        <L>
+            <V t="sim_info">
+                <U n="sim_info">
+                    <V n="ages" t="specified">
+                        <L n="specified">
+                            <E>TEEN</E>
+                        </L>
+                    </V>
+                </U>
+            </V>
+        </L>
+    </L>
+</I>
+

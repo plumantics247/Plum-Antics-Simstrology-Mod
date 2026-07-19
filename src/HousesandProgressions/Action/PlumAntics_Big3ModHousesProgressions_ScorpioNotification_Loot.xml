@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 6EC69E3EE805F6AA -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_ScorpioNotification_Loot" s="7982241382578648746">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="icon_override_participant" t="enabled">
+              <E n="enabled">Actor</E>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x2653930C<!--1st House â€“ (Identity) Scorpio / \n  2nd House â€“ (Possessions) Sagittarius / \n  3rd House â€“ (Communication) Capricorn / \n  4th House â€“ (Home) Aquarius / \n  5th House â€“ (Romance) Pisces / \n  6th House â€“ (Health) Aries / \n  7th House â€“ (Partnerships) Taurus / \n  8th House â€“ (Intimacy) Gemini / \n  9th House â€“ (Philosophy) Cancer / \n  10th House â€“ (Reputation) Leo / \n  11th House â€“ (Community) Virgo / \n  12th House â€“ (Spirituality) Libra \n  Scorpio in your 1st House brings intensity, depth, and transformative focus to your life path. You engage the world with emotional courage and a drive to understand what lies beneath the surface. Over time, this depth becomes a source of resilience, insight, and personal power.--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x66EE12FF<!--{0.SimFirstName}'s House Wheel Revealed--></T>
+            </V>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>3923158167<!--PlumAntics_CosmicEngineCore_ScorpioRising--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+          </L>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

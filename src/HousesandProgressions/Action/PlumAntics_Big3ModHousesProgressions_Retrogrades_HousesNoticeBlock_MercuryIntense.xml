@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance:  -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModHousesProgressions_Retrogrades_HousesNoticeBlock_MercuryIntense" s="17131770190011200005">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="buff">
+        <U n="buff">
+          <V n="whitelist" t="enabled">
+            <L n="enabled">
+              <T>4270170506<!--PlumAntics_Big3Mod_Retrogrades_MercuryRetrogradeIntensifier--></T>
+            </L>
+          </V>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

@@ -1,0 +1,35 @@
+name: Bug report
+description: Report a reproducible problem in a current official release.
+title: "[Bug]: "
+labels: ["status:needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not report GitHub ZIP/source builds here. Install the current official release first.
+  - type: input
+    id: release
+    attributes:
+      label: Official mod release version
+      placeholder: Example: v2.51
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: The Sims 4 game version
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Tell us exactly what you did and what happened.
+    validations:
+      required: true
+  - type: textarea
+    id: mods
+    attributes:
+      label: Relevant dependencies and other mods
+    validations:
+      required: true

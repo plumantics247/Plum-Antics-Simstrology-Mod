@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000D8ED1AD9 -->
+<I c="LootActions" s="3639417561" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_CheatRemoveTraitsSagittariusSunLoot">
+    <L n="loot_actions">
+        <V t="actions">
+            <T n="actions">2315188451<!--PlumAntics_Big3Mod_RemoveElementsfromSagittariusSun--></T>
+        </V>
+    </L>
+</I>

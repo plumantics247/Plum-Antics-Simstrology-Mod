@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" s="9922924821041816598" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_Jupiter_Hidden">
+  <T n="display_name_gender_neutral">0xA3C411F7<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0xBAD8FA0C<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:ceaf0651b4ef56f9</T>
+  <T n="display_name">0xA3C411F7<!--display_name--></T>
+  <E n="trait_type">HIDDEN</E>
+</I>

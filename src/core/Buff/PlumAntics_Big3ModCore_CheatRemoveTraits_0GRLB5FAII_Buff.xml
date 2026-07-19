@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<I c="Buff" s="3500745692" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_CheatRemoveTraits_0GRLB5FAII_Buff">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">1</T>
+    </U>
+  </V>
+  <L n="_loot_on_addition">
+    <T>3579162613<!--_loot_on_addition--></T>
+  </L>
+  <T n="visible">False</T>
+</I>

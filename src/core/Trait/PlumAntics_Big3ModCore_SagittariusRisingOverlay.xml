@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0B6139A7CBD20009 -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_SagittariusRisingOverlay" s="820000000000000009">
+<L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+<T n="display_name">0x8A1F697F<!--Sag Rising--></T>
+<T n="display_name_gender_neutral">0x8A1F697F<!--Sag Rising--></T>
+<T n="icon">2f7d0004:00000000:a335d5ce7eae5685</T>
+<L n="initial_commodities">
+    <T>15697528489462518930<!--initial_commodities--></T>
+  </L>
+<T n="trait_description">0xE6EB1623<!--trait_description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

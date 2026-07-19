@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: E882D22F, Group: 00000000, Instance: B5B0C206926F5E29 -->
+<I c="SuperInteraction" i="interaction" m="interactions.base.super_interaction" n="PlumAntics_Big3ModHousesProgressions_SI_ResearchProgressionsBooks" s="13092177450248396329">
+  <L n="_constraints">
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="circle">
+            <U n="circle">
+              <T n="radius">1.1</T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="value" t="facing"/>
+        </U>
+      </L>
+    </U>
+  </L>
+  <V n="_saveable" t="enabled"/>
+  <T n="allowed_to_combine">False</T>
+  <T n="attention_cost">0.5</T>
+  <V n="basic_content" t="flexible_length">
+    <U n="flexible_length">
+      <L n="conditional_actions">
+        <V t="literal">
+          <U n="literal">
+            <L n="conditions">
+              <V t="time_based">
+                <U n="time_based">
+                  <T n="max_time">40</T>
+                  <T n="min_time">20</T>
+                </U>
+              </V>
+            </L>
+            <E n="interaction_action">EXIT_NATURALLY</E>
+          </U>
+        </V>
+      </L>
+      <V n="content" t="staging_content">
+        <U n="staging_content">
+          <U n="content_set">
+            <L n="affordance_links">
+              <T>146473<!--MixerInteraction: bookThin_Read_Active--></T>
+              <T>146474<!--MixerInteraction: bookThin_Read_PassiveIdle--></T>
+            </L>
+          </U>
+        </U>
+      </V>
+      <V n="periodic_stat_change" t="enabled">
+        <U n="enabled">
+          <L n="operations">
+            <V t="dynamic_skill">
+              <U n="dynamic_skill">
+                <U n="skill_loot_data_override">
+                  <E n="effectiveness">StandardPeriodic</E>
+                  <T n="stat">17669575907783292335<!--Skill: PlumAntics_SimstrologySkill_Skill--></T>
+                </U>
+              </U>
+            </V>
+          </L>
+        </U>
+      </V>
+    </U>
+  </V>
+  <L n="basic_extras">
+    <V t="buff_fire_and_forget">
+      <U n="buff_fire_and_forget">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xE9E3DE4E<!--(From reading Vedic Texts)--></T>
+          </V>
+          <T n="buff_type">9294</T>
+        </U>
+        <U n="success_chance">
+          <T n="base_chance">60</T>
+        </U>
+      </U>
+    </V>
+  </L>
+  <V n="canonical_animation" t="enabled">
+    <U n="enabled">
+      <T n="factory">146465<!--AnimationElement: bookThin_ReadActive--></T>
+    </U>
+  </V>
+  <T n="category">1607461148652549725<!--PlumAntics_Big3Mod_pieMenuCategory_Simstrology_Books--></T>
+  <V n="content_score" t="disabled"/>
+  <T n="display_name">0x27E04C38<!--Calculate Your Current Sun Progression--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>5885820251439532618<!--PlumAntics_Big3ModHousesProgressions_ProgressionsLootRouter--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+  <V n="pie_menu_icon" t="enabled">
+    <V n="enabled" t="resource_key">
+      <U n="resource_key">
+        <T n="key">2f7d0004:00000000:9e70fc72781bf9b1</T>
+      </U>
+    </V>
+  </V>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <V n="super_affordance_compatibility" t="literal">
+    <U n="literal">
+      <V n="default_inclusion" t="exclude_all"/>
+    </U>
+  </V>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals">
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+            <E>YOUNGADULT</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E/>
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="skill_test">
+        <U n="skill_test">
+          <T n="skill">17669575907783292335<!--PlumAntics_Big3Mod_SimstrologySkill_Skill--></T>
+          <V n="skill_range" t="interval">
+            <U n="interval">
+              <U n="skill_interval">
+                <T n="lower_bound">4</T>
+              </U>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+  <T n="time_overhead">30</T>
+</I>

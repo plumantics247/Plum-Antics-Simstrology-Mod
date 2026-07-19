@@ -1,0 +1,17 @@
+name: Feature request
+description: Suggest an idea for a future official release.
+title: "[Idea]: "
+labels: ["status:needs-triage", "type:enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+    validations:
+      required: true
+  - type: textarea
+    id: gameplay
+    attributes:
+      label: How would it improve gameplay?
+    validations:
+      required: true

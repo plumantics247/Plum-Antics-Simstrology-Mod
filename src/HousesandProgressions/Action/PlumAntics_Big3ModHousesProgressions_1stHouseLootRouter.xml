@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: D18C5F895664974E -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModHousesProgressions_1stHouseLootRouter" s="15099548694131021646">
+  <L n="loot_actions">
+    <V n="Python Readout Bridge" t="actions">
+      <T n="actions">1649058878963041712<!--PlumAntics_SimstrologyHouses_PythonReadoutBridge_Loot--></T>
+    </V>
+    <V n="Apply Chart Ruler From Rising" t="actions">
+      <T n="actions">1004717949285038159<!--PlumAntics_CosmicEngineCore_LootApplyChartRulerFromRising--></T>
+    </V>
+    <V n="Assign House Sign Markers" t="actions">
+      <T n="actions">11593030835386645003<!--PlumAntics_SimstrologyHouses_AssignHouseSignMarkers_Router--></T>
+    </V>
+    <V n="Aquarius Notification" t="actions">
+      <T n="actions">11496171549410926301<!--PlumAntics_Big3Mod_AquariusNotification_Loot--></T>
+    </V>
+    <V n="Aries Notification" t="actions">
+      <T n="actions">97932201534315430<!--PlumAntics_Big3Mod_AriesNotification_Loot--></T>
+    </V>
+    <V n="Cancer Notification" t="actions">
+      <T n="actions">1039661398921854596<!--PlumAntics_Big3Mod_CancerNotification_Loot--></T>
+    </V>
+    <V n="Capricorn Notification" t="actions">
+      <T n="actions">1117396741393882353<!--PlumAntics_Big3Mod_CapricornNotification_Loot--></T>
+    </V>
+    <V n="Gemini Notification" t="actions">
+      <T n="actions">11499159365287496408<!--PlumAntics_Big3Mod_GeminiNotification_Loot--></T>
+    </V>
+    <V n="Leo Notification" t="actions">
+      <T n="actions">4431438872431254724<!--PlumAntics_Big3Mod_LeoNotification_Loot--></T>
+    </V>
+    <V n="Libra Notification" t="actions">
+      <T n="actions">18055358178431099330<!--PlumAntics_Big3Mod_LibraNotification_Loot--></T>
+    </V>
+    <V n="Pisces Notification" t="actions">
+      <T n="actions">10355534268030172892<!--PlumAntics_Big3Mod_PiscesNotification_Loot--></T>
+    </V>
+    <V n="Sagittarius Notification" t="actions">
+      <T n="actions">6399055199630821525<!--PlumAntics_Big3Mod_SagittariusNotification_Loot--></T>
+    </V>
+    <V n="Scorpio Notification" t="actions">
+      <T n="actions">7982241382578648746<!--PlumAntics_Big3Mod_ScorpioNotification_Loot--></T>
+    </V>
+    <V n="Taurus Notification" t="actions">
+      <T n="actions">15905974288357010002<!--PlumAntics_Big3Mod_TaurusNotification_Loot--></T>
+    </V>
+    <V n="Virgo Notification" t="actions">
+      <T n="actions">11485692368206791108<!--PlumAntics_Big3Mod_VirgoNotification_Loot--></T>
+    </V>
+  </L>
+</I>

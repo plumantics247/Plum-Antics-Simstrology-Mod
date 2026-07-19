@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance:  -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_SimstrologyRetrogrades_RemoveMercuryMoodlets" s="11800000000000000012">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>4036077646<!--PlumAntics_Big3Mod_Retrogrades_MercuryRetrograde--></T>
+          <T>4270170506<!--PlumAntics_Big3Mod_Retrogrades_MercuryRetrogradeIntensifier--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FourthHouse_SunTransitMarker" s="11464726656518668378">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x62D379CE<!--Sun Transiting The 4th House: Home Base Power--></T>
+    <T n="display_name_gender_neutral">0x62D379CE<!--Sun Transiting The 4th House: Home Base Power--></T>
+        <T n="icon">2f7d0004:00000000:ded106f4b50bc238</T>
+    <T n="trait_description">0x7DDAB636<!--Your confidence returns when your private world feels stable.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

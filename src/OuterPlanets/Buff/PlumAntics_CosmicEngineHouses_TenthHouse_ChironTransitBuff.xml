@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="7730584173122899033" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_TenthHouse_ChironTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0xAE364007<!--Career pressure exposes a sore spot, but it also shows where growth has to happen.--></T>
+  <T n="icon">2f7d0004:00000000:c4e8a91b5fd07236</T>
+  <T n="buff_name">0xFC2B5F50<!--Chiron Transiting The 10th House: Public Bruise, Public Lesson--></T>
+  <T n="mood_type">16174400495578286549</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

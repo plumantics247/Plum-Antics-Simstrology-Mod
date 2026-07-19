@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_EighthHouse_CancerHidden" s="906634178">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+        <T n="display_name">0x6366A0F0<!--PlumAntics_CosmicEngineHouses_EighthHouse_CancerHidden--></T>
+    <T n="display_name_gender_neutral">0x6366A0F0<!--PlumAntics_CosmicEngineHouses_EighthHouse_CancerHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

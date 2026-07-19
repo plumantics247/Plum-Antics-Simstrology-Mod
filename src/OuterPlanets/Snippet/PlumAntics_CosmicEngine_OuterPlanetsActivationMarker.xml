@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="PlumAntics_CosmicEngine_OuterPlanetsActivationMarker" s="830000000000009201">
+  <T n="minimum_core_version">1.3.0</T>
+  <T n="mod_name">Simstrology Outer Planets</T>
+  <T n="creator_name">Plum Antics</T>
+</I>

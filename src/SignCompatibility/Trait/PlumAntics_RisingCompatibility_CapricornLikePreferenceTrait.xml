@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<I c="Preference" s="4100220010" i="trait" m="traits.preference" n="PlumAntics_RisingCompatibility_CapricornLikePreferenceTrait">
+  <T n="trait_origin_description">0x00000000</T>
+  <T n="preference_item">4100210010</T>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="icon">2f7d0004:00000000:a7baf83f0239d3ac</T>
+  <T n="display_name">0xA5430024</T>
+  <T n="display_name_gender_neutral">0xA5430024</T>
+  <T n="trait_description">0xA5430025</T>
+  <E n="trait_type">LIKE</E>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">830000000000041105</T>
+    </U>
+  </L>
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <L n="conflicting_traits">
+    <T>4100230010</T>
+  </L>
+</I>

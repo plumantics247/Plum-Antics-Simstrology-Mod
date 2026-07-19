@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: B898A67850FFB13B -->
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="PlumAntics_Big3_testSet_Lunar_ThirdQMoon" s="13301564535123980603">
+  <L n="test">
+    <L>
+      <V t="lunar_phase">
+        <U n="lunar_phase">
+          <U n="phases_to_check">
+            <V n="whitelist" t="specify">
+              <U n="specify">
+                <L n="whitelist">
+                  <E>THIRD_QUARTER</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

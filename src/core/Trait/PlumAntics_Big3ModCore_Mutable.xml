@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000AD253176 -->
+<I c="Trait" s="2904895862" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_Mutable">
+  <T n="display_name_gender_neutral">0xA0946FCB<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="trait_description">0xB416D6B8<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:a86f76c899d3d83c</T>
+  <T n="display_name">0xA0946FCB<!--display_name--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

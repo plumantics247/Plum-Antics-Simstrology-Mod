@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" s="16719930145011223342" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineCore_MoonChartRuler">
+  <T n="display_name_gender_neutral">0x8AC7AE46<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="trait_description">0xA40A77F9<!--The Moon now rules your chart. All houses express through need and emotional security—every life area becomes a question of comfort, belonging, and what feels safe.--></T>
+  <T n="icon">2f7d0004:00000000:c5fdc6dabccf704f</T>
+  <T n="display_name">0xAB0DF0AE<!--Chart Ruler: Lunar Keeper--></T>
+    <L n="conflicting_traits">
+    <T>16719930145011223341<!--PlumAntics_CosmicEngineCore_SunChartRuler--></T>
+    <T>16719930145011223343<!--PlumAntics_CosmicEngineCore_MercuryChartRuler--></T>
+    <T>16719930145011223344<!--PlumAntics_CosmicEngineCore_VenusChartRuler--></T>
+    <T>16719930145011223345<!--PlumAntics_CosmicEngineCore_MarsChartRuler--></T>
+    <T>16719930145011223346<!--PlumAntics_CosmicEngineCore_JupiterChartRuler--></T>
+    <T>16719930145011223347<!--PlumAntics_CosmicEngineCore_SaturnChartRuler--></T>
+  </L>
+<E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: F9988B9034DCD2AA -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_SimstrologyChannel_Earth" s="17985278563382514346">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+  <T n="buff_description">0x07B53D07<!--Everything just makes sense today. The world feels stable, reliable — and maybe even a little bit rewarding.--></T>
+  <T n="buff_name">0xEB9BD390<!--Grounded and Glowing--></T>
+  <T n="icon">2f7d0004:00000000:956963d2e99e93f5<!--Earth Element--></T>
+  <T n="mood_type">9458162033570690727<!--Mood_Confident--></T>
+  <T n="mood_weight">1</T>
+</I>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: EBB9A6437FDD84C3 -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_PiscesRisingResidual' s='16985790278442779843'>
+  <L n='value'>
+    <T>238178<!--mixer_social_Batuu_Reputation_TellTalesOfGalacticAdventure--></T>
+    <T>238176<!--mixer_social_Batuu_Reputation_TellTalesofGalacticConquest--></T>
+    <T>238177<!--mixer_social_Batuu_Reputation_TellTalesofSmuggling--></T>
+    <T>127029<!--mixer_social_InsiderTrait_TellInsiderStory_Friendly_MiddleScore--></T>
+    <T>309462<!--mixer_social_LifeMilestone_TellEpicTales--></T>
+    <T>284090<!--mixer_social_ReminisceAboutWedding_targeted_Friendly_alwaysOn--></T>
+    <T>215486<!--mixer_social_ShareMerfolkLore_target_Friendly_AlwaysOn--></T>
+    <T>30896<!--mixer_social_TellCrowdPleasingStory_group_funny_alwaysOn_skills--></T>
+    <T>26916<!--mixer_social_TellDramaticStory_group_Friendly_MiddleScore--></T>
+    <T>26915<!--mixer_social_TellEngagingStory_group_Friendly_MiddleScore--></T>
+    <T>31029<!--mixer_social_TellMakeBelieveStory_targeted_Friendly_alwaysOn_child_skills--></T>
+    <T>26409<!--mixer_social_TellOutrageousStory_group_Funny_HighScore--></T>
+    <T>26333<!--mixer_social_TellUnbelievableStory_group_friendly_emotionspecific--></T>
+    <T>153301<!--mixer_social_Toddler_TalkAbout_Tell_Goofy_Story--></T>
+    <T>143952<!--mixer_social_Toddler_TalkAbout_Tell_Story--></T>
+    <T>26407<!--mixer_socials_TellFunnyStory_group_Funny_alwaysOn--></T>
+    <T>157663<!--mixer_socials_TellFunnyStory_group_Funny_alwaysOn_toddler--></T>
+    <T>102275<!--Social_Ghost_To_Ghost_Reminisce--></T>
+  </L>
+</I>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="5922474402605833995" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_TenthHouse_MarsTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x9400E7DE<!--You're pushing for results; bosses may love it or fear it.--></T>
+  <T n="icon">2f7d0004:00000000:f78fef9af9f01a60</T>
+  <T n="buff_name">0x8559B0F2<!--Mars Transiting The 10th House: Ambition Ignition--></T>
+  <T n="mood_type">14639</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

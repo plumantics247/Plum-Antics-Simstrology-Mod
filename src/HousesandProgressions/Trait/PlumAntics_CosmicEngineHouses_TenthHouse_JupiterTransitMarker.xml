@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_TenthHouse_JupiterTransitMarker" s="10668857733920214968">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x9F42BAC6<!--Jupiter Transiting The 10th House: Promotion Weather--></T>
+    <T n="display_name_gender_neutral">0x9F42BAC6<!--Jupiter Transiting The 10th House: Promotion Weather--></T>
+        <T n="icon">2f7d0004:00000000:ceaf0651b4ef56f9</T>
+    <T n="trait_description">0xD07ED304<!--Authority figures notice you—lean in and say yes to the larger role.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

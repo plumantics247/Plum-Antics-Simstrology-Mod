@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0B6139A7CBD2000C -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_VirgoRisingOverlay" s="820000000000000012">
+<L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+<T n="display_name">0xFD871B56<!--Virgo Rising--></T>
+<T n="display_name_gender_neutral">0xFD871B56<!--Virgo Rising--></T>
+<T n="icon">2f7d0004:00000000:cb8f4bcd1a766ca0</T>
+<L n="initial_commodities">
+    <T>16549468548548083549<!--initial_commodities--></T>
+  </L>
+<V n="whim_set" t="enabled">
+    <T n="enabled">26090<!--ObjectivelessWhimSet: whimset_HasTraitNeat--></T>
+  </V>
+<L n="super_affordances">
+    <T>35967<!--SuperInteraction: self_Neat_CleaningFrenzy--></T>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>168037<!--LootActions: loot_Statistic_LifeSkill_Manners_Trait_GainLarge--></T>
+      <T>201219<!--LootActions: loot_Reputation_NPC_Trait_Good_Neat--></T>
+    </L>
+  </V>
+<T n="trait_description">0x9266CA68<!--trait_description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

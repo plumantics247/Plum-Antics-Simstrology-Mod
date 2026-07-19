@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3ModHousesProgressions_GeminiProgressedSun" s="17089497667938906938">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <L n="conflicting_traits">
+    <T>5953957637810307587</T>
+    <T>13216465842102949165</T>
+    <T>7919214858024667693</T>
+    <T>5897751160630956732</T>
+    <T>2112115294144745887</T>
+    <T>14531976952067705793</T>
+    <T>16135404306587182352</T>
+    <T>11076948783815627390</T>
+    <T>17006511625883094722</T>
+    <T>380949979615310389</T>
+    <T>1447257088555882719</T>
+  </L>
+  <E n="cas_allowed_pack">BASE_GAME</E>
+  <T n="display_name">0x53EE9BB5</T>
+  <T n="display_name_gender_neutral">0x53EE9BB5</T>
+  <T n="icon">2f7d0004:00000000:e46e8f96418832c4</T>
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <T n="trait_description">0x566087D9</T>
+  <E n="trait_type">GAMEPLAY</E>
+  <V n="ui_category" t="disabled" />
+</I>

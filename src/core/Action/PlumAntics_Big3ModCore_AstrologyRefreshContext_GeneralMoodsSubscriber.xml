@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: C0A14F4A83E1D212 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModCore_SimstrologyRefreshContext_GeneralMoodsSubscriber" s="13880462707991368210">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">1833257501<!--PlumAntics_Big3Mod_MoonControllerMigration--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">830000000000009103<!--PlumAntics_CosmicEngineCore_SyncChartCompositionPythonLoot--></T>
+    </V>
+  </L>
+</I>

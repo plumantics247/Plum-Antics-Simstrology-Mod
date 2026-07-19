@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: E882D22F, Group: 00000000, Instance: 00000000B524633D -->
+<I c="ImmediateSuperInteraction" i="interaction" m="interactions.base.immediate_interaction" n="PlumAntics_Big3Mod_Sun_ByPersonality_SI" s="3039060797">
+  <T n="allow_autonomous">False</T>
+  <T n="allow_user_directed">True</T>
+  <T n="display_name">0xFB2F014D<!--display_name--></T>
+  <V n="display_tooltip" t="enabled">
+    <T n="enabled">0xA53F1E62<!--Assigns a Sun sign by matching your Sim's personality traits if they do not already have one. It is celestial profiling, but make it personal.--></T>
+  </V>
+  <T n="category">3724778905<!--PlumAntics_Big3Mod_Discover_Natal_PieMenu--></T>
+  <T n="pie_menu_priority">6</T>
+  <E n="target_type">TARGET</E>
+  <L n="tests">
+    <L>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+            <L n="specified">
+              <E>ADULT</E>
+              <E>TEEN</E>
+              <E>YOUNGADULT</E>
+              <E>ELDER</E>
+            </L>
+          </V>
+        </U>
+      </V>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="blacklist_traits">
+            <T>3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+            <T>4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+            <T>3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+            <T>2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+            <T>2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+            <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+            <T>3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+            <T>2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+            <T>3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+            <T>3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+            <T>4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+            <T>2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>13736671501533187747<!--PlumAntics_Big3ModCore_SetModeBig3PythonLoot--></T>
+          <T>2005184750<!--PlumAntics_Big3Mod_Sun_ByPersonality--></T>
+          <T>13880462707991368209<!--PlumAntics_Big3ModCore_SimstrologyRefreshContext_Router--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+</I>

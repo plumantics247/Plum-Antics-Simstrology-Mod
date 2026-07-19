@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: C9656F20177466BA -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_Retrograde_MigrationDone_Buff" s="14512127557894432442">
+  <T n="visible">False</T>
+
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

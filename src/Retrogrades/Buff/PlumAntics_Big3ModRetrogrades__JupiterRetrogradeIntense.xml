@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 3FEE13668C4D5A8C -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_Retrogrades_JupiterRetrogradeIntense" s="4606640800008067724">
+  <T n="buff_description">0x9DE1DFD4<!--buff_description--></T>
+  <T n="icon">2f7d0004:00000000:aaeabe2398198741</T>
+  <T n="buff_name">0x957EC9CF<!--buff_name--></T>
+  <T n="mood_type">3027807324045670738<!--mood_type--></T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">16650<!--LTR_Friendship_Main--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">0.75</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

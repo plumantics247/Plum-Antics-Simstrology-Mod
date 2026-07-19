@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="8848799201164889002" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_FirstHouse_ChironTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x48B476B6<!--Old insecurities sit closer to the surface, but so does the chance to own them.--></T>
+  <T n="icon">2f7d0004:00000000:c4e8a91b5fd07236</T>
+  <T n="buff_name">0x1AA969E1<!--Chiron Transiting The 1st House: Tender Edges--></T>
+  <T n="mood_type">16174400495578286549</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

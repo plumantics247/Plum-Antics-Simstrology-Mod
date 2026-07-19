@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimstrologyHubPickerInteraction" i="interaction" m="cosmic_engine.settings_picker" n="PlumAntics_CosmicEngineCore_SimstrologyHubChangeSign" s="830000000000009143">
+  <T n="allow_autonomous">False</T><T n="allow_user_directed">True</T><T n="category">3724778905<!--PlumAntics_Big3Mod_Discover_Natal_PieMenu--></T><T n="cheat">True</T><T n="debug">True</T><T n="display_name">0xA53F1EA0<!--Change a Sign--></T><T n="pie_menu_priority">1</T>
+  <V n="picker_dialog" t="item_picker"><U n="item_picker"><V n="title" t="enabled"><T n="enabled">0xA53F1EA0<!--Change a Sign--></T></V></U></V><E n="target_type">OBJECT</E>
+  <L n="test_globals"><V t="sim_info"><U n="sim_info"><V n="ages" t="specified"><L n="specified"><E>TEEN</E><E>YOUNGADULT</E><E>ADULT</E><E>ELDER</E></L></V><V n="species" t="specified"><U n="specified"><L n="species"><E>HUMAN</E></L></U></V><E n="who">TargetSim</E></U></V></L>
+  <L n="choices">
+    <U><L n="continuation"><U><T n="affordance">830000000000009144<!--PlumAntics_CosmicEngineCore_SimstrologyHubChangeSun--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1EA1<!--Change Sun Sign--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">830000000000009145<!--PlumAntics_CosmicEngineCore_SimstrologyHubChangeMoon--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1EA2<!--Change Moon Sign--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">830000000000009146<!--PlumAntics_CosmicEngineCore_SimstrologyHubChangeRising--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1EA3<!--Change Rising Sign--></T></V></U>
+    <U><L n="continuation"><U><T n="affordance">830000000000009139<!--PlumAntics_CosmicEngineCore_SimstrologyHubLauncher--></T></U></L><V n="item_name" t="enabled"><T n="enabled">0xA53F1E55<!--Return to main menu--></T></V></U>
+  </L><U n="progress_bar_enabled"><T n="bar_enabled">False</T></U>
+</I>

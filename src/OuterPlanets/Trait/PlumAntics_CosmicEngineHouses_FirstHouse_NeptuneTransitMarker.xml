@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FirstHouse_NeptuneTransitMarker" s="5597102401751210284">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0xD08100BD<!--Neptune Transiting The 1st House: Soft Focus Persona--></T>
+    <T n="display_name_gender_neutral">0xD08100BD<!--Neptune Transiting The 1st House: Soft Focus Persona--></T>
+        <T n="icon">2f7d0004:00000000:b61c9d4f7ae20358</T>
+    <T n="trait_description">0x25DCD9F5<!--You come across dreamier, more porous, and slightly harder to read.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="2793971831" i="action" m="interactions.utils.loot" n="PlumAntics_ExtraElementsandPlanets_RemovefromAll:1QADCO4EI5:Loot">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">3826762029<!--PlumAntics_Big3Mod_RemoveElementsfromVirgoSun--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2271123790<!--PlumAntics_Big3Mod_RemoveElementsfromLeoSun--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2808542826<!--actions--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2552463859<!--PlumAntics_Big3Mod_RemoveElementsfromScorpioSun--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2320707984<!--actions--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2315188451<!--PlumAntics_Big3Mod_RemoveElementsfromSagittariusSun--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2554733836<!--PlumAntics_Big3Mod_RemoveElementsfromLibraSun--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2811485522<!--PlumAntics_Big3Mod_RemoveElementsfromTaurusSun--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2508621029<!--PlumAntics_Big3Mod_RemoveElementsfromGeminiSun--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">3785213474<!--PlumAntics_Big3Mod_RemoveElementsfromCapricornSun--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2758592739<!--PlumAntics_Big3Mod_RemoveElementsfromPiscesSun--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">4095017631<!--PlumAntics_Big3Mod_RemoveElementsfromAquariusSun--></T>
+    </V>
+  </L>
+</I>

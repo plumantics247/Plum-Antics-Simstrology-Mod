@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0904DF10, Group: 00000000, Instance: F0AD31D982F24955 -->
+<I c="RelationshipBit" i="relbit" m="relationships.relationship_bit" n="PlumAntics_Big3Mod_Relbit_KnowsSunSign" s="17340351238158145877">
+  <T n="bit_description">0x01A8CF0F<!--bit_description--></T>
+  <T n="depth">25</T>
+  <T n="display_name">0x23F3E361<!--display_name--></T>
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_RelbitPals.png">2f7d0004:00000000:7933079bb0e61ac8</T>
+  <E n="relationship_culling_prevention">PLAYED_AND_UNPLAYED</E>
+</I>

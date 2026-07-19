@@ -1,0 +1,21 @@
+{
+  "name": "plumantics-simstrologymod",
+  "config": {
+    "ts4scriptBaseName": "PlumAntics_Simstrology"
+  },
+  "scripts": {
+    "build:package": "node .\\tools\\build_s4tk_packages.js --mode build",
+    "build:package:release": "node .\\tools\\build_s4tk_packages.js --mode release",
+    "build:runtime": "powershell -ExecutionPolicy Bypass -File .\\tools\\build_ts4script.ps1 -CleanOutput",
+    "build:runtime:source": "powershell -ExecutionPolicy Bypass -File .\\tools\\build_ts4script.ps1 -CleanOutput -SourceOnly",
+    "audit:src": "node .\\tools\\node-audit\\cli\\audit-src-xml.js",
+    "audit:keys": "node .\\tools\\node-audit\\cli\\check-duplicate-keys.js",
+    "audit:out": "node .\\tools\\node-audit\\cli\\audit-out-artifacts.js",
+    "audit": "npm run audit:src && npm run audit:keys && npm run audit:out"
+  },
+  "dependencies": {
+    "@s4tk/encoding": "^0.1.4",
+    "@s4tk/models": "^0.6.14",
+    "@s4tk/xml-dom": "^0.2.6"
+  }
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: B04A043AAF89BDAF -->
+<I c="AffordanceList" i="snippet" m="snippets" n="PlumAntics_Big3Mod_affordanceList_GeminiRising" s="12702970349051559343">
+  <L n="value">
+    <T>25671<!--mixer_social_DoAnImpression_targeted_funny_alwaysOn--></T>
+    <T>25894<!--mixer_social_FlashCrazyEyes_targeted_funny_emotionSpecific--></T>
+    <T>107223<!--mixer_social_ImitateBoss_Targeted_Funny_AlwaysOn_Career--></T>
+    <T>26412<!--mixer_social_ImpersonateCelebrity_group_Funny_MediumScore--></T>
+    <T>165558<!--mixer_social_MakeFunnyFaces--></T>
+    <T>168758<!--mixer_social_MakeFunnyFaces_Toddler--></T>
+    <T>40375<!--mixer_social_MakeSillyFace_targeted_funny_alwaysOn_child--></T>
+    <T>109554<!--mixer_social_PlayMirrorGame_Targeted_Funny_AlwaysOn_clone--></T>
+    <T>99166<!--mixer_social_QuoteCartoonCharacter_targeted_Funny_alwaysOn_child--></T>
+    <T>143935<!--mixer_social_Toddler_Funny_Say_NonSense--></T>
+    <T>26408<!--mixer_socials_GoofAround_targeted_Funny_alwaysOn--></T>
+    <T>31004<!--mixer_socials_GoofAround_targeted_Funny_alwaysOn_child_skills--></T>
+    <T>100110<!--mixer_socials_GoofAround_teen_targeted_Funny_alwaysOn--></T>
+    <T>316868<!--mixer_socials_Toddler_Friendly_CrossAge_Interactions_SingSong--></T>
+    <T>180465<!--si_Touching_GiveGift_Funny--></T>
+    <T>181932<!--socials_Targeted_Friendly_HolidaySocials_BellyLaugh--></T>
+    <T>189576<!--socials_Targeted_Friendly_HolidaySocials_BellyLaugh_toddler--></T>
+    <T>147293<!--socials_Targeted_Funny_AlwaysOn_STC_LampFestival_ImpressionOfTourist--></T>
+    <T>147294<!--socials_Targeted_Funny_AlwaysOn_STC_LampFestival_SarcasticVoodoo--></T>
+    <T>147295<!--socials_Targeted_Funny_AlwaysOn_STC_LampFestival_SausageMime--></T>
+    <T>288465<!--mixer_social_AskAboutWolfTown_Targeted_Friendly_AlwaysOn--></T>
+    <T>302932<!--mixer_social_BayArea_NPC_baygossip_Targeted_Friendly_AlwaysOn--></T>
+    <T>264831<!--mixer_social_CottageWorld_NPC_GossipAboutVillage_Targeted_Friendly_AlwaysOn--></T>
+    <T>124958<!--mixer_social_GoingOutSocials_AskAboutAnotherSim--></T>
+    <T>125241<!--mixer_social_GoingOutSocials_Matchmake--></T>
+    <T>125505<!--mixer_social_GoingOutSocials_TalkUpSim--></T>
+    <T>75851<!--mixer_social_Gossip_targeted_friendly_alwaysOn_teen--></T>
+    <T>25584<!--mixer_social_GossipAbout_targeted_friendly_alwaysOn--></T>
+    <T>286656<!--mixer_social_GossipAbout_targeted_friendly_alwaysOn_Werewolf--></T>
+    <T>108232<!--mixer_social_GossipAboutBear--></T>
+    <T>107597<!--mixer_social_GossipAboutCoworkers_Targeted_Friendly_AlwaysOn_coworkers--></T>
+    <T>98634<!--mixer_social_GossipAboutNeighbors_targeted_friendly_alwaysOn_neighbor--></T>
+    <T>113359<!--mixer_social_GossipAboutOfficeRomance_Targeted_Friendly_AlwaysOn_ActiveCareer--></T>
+    <T>107235<!--mixer_social_GossipAboutOfficeRomance_Targeted_Friendly_AlwaysOn_Career--></T>
+    <T>149424<!--mixer_social_GossipAboutVampires_Targeted_Friendly_AlwaysOn--></T>
+    <T>31678<!--mixer_social_GossipAboutVideoGamePros_targeted_friendly_alwaysOn_skills--></T>
+    <T>152919<!--mixer_social_GossipSakuraTea_Festival_Blossom_targeted_friendly--></T>
+    <T>25913<!--mixer_social_GushAboutPartner_targeted_friendly_emotionSpecific--></T>
+    <T>26912<!--mixer_social_ShareSecret_targeted_Friendly_HighScore--></T>
+    <T>165690<!--mixer_social_ShareSecret_targeted_Friendly_HighScore_ChildhoodPhase_Clingy--></T>
+    <T>280721<!--mixer_social_WeddingWorld_NPC_GrapevineGossip_Targeted_Friendly_AlwaysOn--></T>
+    <T>273767<!--mixer_socials_GossipAboutOtherParents_Targeted_Friendly_AlwaysOn_STC--></T>
+    <T>192579<!--simPickerInteraction_Celebrity_WhisperAboutCelebrity--></T>
+  </L>
+</I>

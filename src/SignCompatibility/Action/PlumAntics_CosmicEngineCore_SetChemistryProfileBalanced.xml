@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CosmicEngineSetChemistryProfileLoot" i="action" m="cosmic_engine.loot_actions" n="PlumAntics_CosmicEngineCore_SetChemistryProfileBalanced" s="830000000000009118">
+  <T n="profile_id">balanced</T>
+</I>

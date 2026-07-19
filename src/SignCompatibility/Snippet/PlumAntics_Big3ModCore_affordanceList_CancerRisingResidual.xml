@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: 568F2A93546C43D2 -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_CancerRisingResidual' s='6237250821196366802'>
+  <L n='value'>
+    <T>98138<!--mixer_social_AskAboutBeingOld_targeted_Friendly_alwaysOn_child--></T>
+    <T>157659<!--mixer_social_AskAboutDay_targeted_Friendly_alwaysOn_Toddler--></T>
+    <T>74049<!--mixer_social_AskAboutSchool_targeted_friendly_alwaysOn_child--></T>
+    <T>301103<!--mixer_Social_BabyShower_AskIfExcitedToBeSibling--></T>
+    <T>307475<!--mixer_Social_BabyShower_AskIfExcitedToBeSibling_Toddler--></T>
+    <T>305690<!--mixer_Social_BabyShower_GuessBabyFuture--></T>
+    <T>305689<!--mixer_Social_BabyShower_Gush--></T>
+    <T>305688<!--mixer_Social_BabyShower_SuggestBabyName--></T>
+    <T>27912<!--mixer_social_BoastAboutFamily_targeted_Friendly_alwaysOn--></T>
+    <T>98919<!--mixer_social_BragAboutGrades_targeted_Friendly_alwaysOn_child_teen--></T>
+    <T>230755<!--mixer_social_BragAboutTinyHome--></T>
+    <T>157751<!--mixer_social_BrightenDay_targeted_friendly_emotionSpecific_toddlerOnly--></T>
+    <T>274966<!--mixer_social_EnthuseAboutWedding--></T>
+    <T>284982<!--mixer_social_EnthuseAboutWedding_ActorEngaged--></T>
+    <T>157661<!--mixer_Social_GetToKnow_Friendly_STC_TargetToddler--></T>
+    <T>273768<!--mixer_social_ShareBabyPictures_Targeted_Friendly_AlwaysOn_STC--></T>
+    <T>107498<!--mixer_social_Targeted_TalkAboutHome_Friendly_AlwaysOn_Alien--></T>
+    <T>273766<!--mixer_socials_BragAboutBaby_Targeted_Friendly_AlwaysOn_STC--></T>
+  </L>
+</I>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: 599034E1E6F8E61A -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_CapricornRisingResidual' s='6453716410869278234'>
+  <L n='value'>
+    <T>107598<!--mixer_social_ComplainAboutWork_Targeted_Friendly_AlwaysOn_coworkers--></T>
+    <T>113373<!--mixer_social_ComplainAboutWorkload_Targeted_Friendly_AlwaysOn_ActiveCareer--></T>
+    <T>156941<!--socials_Targeted_Friendly_AlwaysOn_STC_Toddler_LectureAboutMisbehavior--></T>
+    <T>264434<!--socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Skiing--></T>
+    <T>264435<!--socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Snowboarding--></T>
+    <T>259513<!--socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Videogaming--></T>
+    <T>259514<!--socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Violin--></T>
+    <T>218713<!--universityStudents_Mixers_ComplainAboutProfessor--></T>
+  </L>
+</I>

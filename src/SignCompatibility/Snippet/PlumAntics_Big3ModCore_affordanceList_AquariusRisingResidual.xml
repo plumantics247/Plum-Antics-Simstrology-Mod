@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: 2941F0ABB481EC1E -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_AquariusRisingResidual' s='2972921849299725342'>
+  <L n='value'>
+    <T>162525<!--mixer_social_AskAboutFuturePlans_targeted_friendly_alwayson--></T>
+    <T>147451<!--mixer_Social_DebateAntBears_Targeted_Friendly_AlwaysOn_STC_LogicFestival--></T>
+    <T>205836<!--mixer_social_Mermaid_AskAboutReaction_Friendly--></T>
+    <T>205833<!--mixer_social_Mermaid_AskIfMerfolk_Friendly--></T>
+    <T>29409<!--mixer_social_ProvideLogicalSolution_targeted_Friendly_alwaysOn_skills--></T>
+    <T>28039<!--mixer_social_RevealBrilliantInvention_targeted_Friendly_alwaysOn--></T>
+    <T>203624<!--mixer_social_ShareConspiracyTheories--></T>
+    <T>107495<!--mixer_social_Targeted_AnalyzePersonality_Friendly_AlwaysOn_Alien--></T>
+    <T>107497<!--mixer_social_Targeted_Empathize_Friendly_AlwaysOn_Alien--></T>
+    <T>320481<!--sim_AskToHaveScienceBaby--></T>
+  </L>
+</I>

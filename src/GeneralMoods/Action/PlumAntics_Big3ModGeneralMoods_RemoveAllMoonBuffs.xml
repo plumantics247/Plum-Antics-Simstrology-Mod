@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: C475618C9BF9826A -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_RemoveAllMoonBuffs" s="14156328260249158250">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>3472237060<!--PlumAntics_Big3Mod_AriesMoonBuff--></T>
+          <T>2413277198<!--PlumAntics_Big3Mod_TaurusMoonBuff--></T>
+          <T>2782628087<!--PlumAntics_Big3Mod_GeminiMoonBuff--></T>
+          <T>3058309478<!--PlumAntics_Big3Mod_CancerMoonBuff--></T>
+          <T>2213755810<!--PlumAntics_Big3Mod_LeoMoonBuff--></T>
+          <T>3648232939<!--PlumAntics_Big3Mod_VirgoMoonBuff--></T>
+          <T>3098967680<!--PlumAntics_Big3Mod_LibraMoonBuff--></T>
+          <T>2197219737<!--PlumAntics_Big3Mod_ScorpioMoonBuff--></T>
+          <T>2949982256<!--PlumAntics_Big3Mod_SagittariusMoonBuff--></T>
+          <T>2423717839<!--PlumAntics_Big3Mod_CapricornMoonBuff--></T>
+          <T>3193501381<!--PlumAntics_Big3Mod_AquariusMoonBuff--></T>
+          <T>4258409973<!--PlumAntics_Big3Mod_PiscesMoonBuff--></T>
+          <T>2827283657<!--PlumAntics_Big3Mod_GeminiMoonWaningBuff--></T>
+          <T>3362638067<!--PlumAntics_Big3Mod_GeminiMoonWaxingBuff--></T>
+          <T>3997344902<!--PlumAntics_Big3Mod_GeminiMoonNewMoonBuff--></T>
+          <T>3587010239<!--PlumAntics_Big3Mod_GeminiMoonFullMoonBuff--></T>
+          <T>3273113732<!--PlumAntics_Big3Mod_AriesMoonFullMoonBuff--></T>
+          <T>2960671064<!--PlumAntics_Big3Mod_AriesMoonWaxingBuff--></T>
+          <T>3868045198<!--PlumAntics_Big3Mod_AriesMoonWaningBuff--></T>
+          <T>2726054527<!--PlumAntics_Big3Mod_AriesMoonNewMoonBuff--></T>
+          <T>3684867566<!--PlumAntics_Big3Mod_TaurusMoonFullMoonBuff--></T>
+          <T>3740356145<!--PlumAntics_Big3Mod_TaurusMoonNewMoonBuff--></T>
+          <T>3403995598<!--PlumAntics_Big3Mod_TaurusMoonWaxingBuff--></T>
+          <T>2220590744<!--PlumAntics_Big3Mod_TaurusMoonWaningBuff--></T>
+          <T>3605236966<!--PlumAntics_Big3Mod_CancerMoonWaxingBuff--></T>
+          <T>3990110486<!--PlumAntics_Big3Mod_CancerMoonFullMoonBuff--></T>
+          <T>3500822544<!--PlumAntics_Big3Mod_CancerMoonWaningBuff--></T>
+          <T>4262686937<!--PlumAntics_Big3Mod_CancerMoonNewMoonBuff--></T>
+          <T>4186535365<!--PlumAntics_Big3Mod_LeoMoonNewMoonBuff--></T>
+          <T>4214480770<!--PlumAntics_Big3Mod_LeoMoonFullMoonBuff--></T>
+          <T>3414464266<!--PlumAntics_Big3Mod_LeoMoonWaxingBuff--></T>
+          <T>3710463932<!--PlumAntics_Big3Mod_LeoMoonWaningBuff--></T>
+          <T>4168129475<!--PlumAntics_Big3Mod_VirgoMoonFullMoonBuff--></T>
+          <T>4252569263<!--PlumAntics_Big3Mod_VirgoMoonWaxingBuff--></T>
+          <T>3398720154<!--PlumAntics_Big3Mod_VirgoMoonNewMoonBuff--></T>
+          <T>2924561261<!--PlumAntics_Big3Mod_VirgoMoonWaningBuff--></T>
+          <T>4022251532<!--PlumAntics_Big3Mod_LibraMoonWaxingBuff--></T>
+          <T>3228832320<!--PlumAntics_Big3Mod_LibraMoonFullMoonBuff--></T>
+          <T>3964128267<!--PlumAntics_Big3Mod_LibraMoonNewMoonBuff--></T>
+          <T>3963104314<!--PlumAntics_Big3Mod_LibraMoonWaningBuff--></T>
+          <T>3278640992<!--PlumAntics_Big3Mod_ScorpioMoonNewMoonBuff--></T>
+          <T>2340660993<!--PlumAntics_Big3Mod_ScorpioMoonFullMoonBuff--></T>
+          <T>3642676097<!--PlumAntics_Big3Mod_ScorpioMoonWaxingBuff--></T>
+          <T>3044342635<!--PlumAntics_Big3Mod_ScorpioMoonWaningBuff--></T>
+          <T>2988914320<!--PlumAntics_Big3Mod_SagittariusMoonFullMoonBuff--></T>
+          <T>2615018299<!--PlumAntics_Big3Mod_SagittariusMoonNewMoonBuff--></T>
+          <T>2504248636<!--PlumAntics_Big3Mod_SagittariusMoonWaxingBuff--></T>
+          <T>2208248970<!--PlumAntics_Big3Mod_SagittariusMoonWaningBuff--></T>
+          <T>3315570999<!--PlumAntics_Big3Mod_CapricornMoonFullMoonBuff--></T>
+          <T>3817949566<!--PlumAntics_Big3Mod_CapricornMoonNewMoonBuff--></T>
+          <T>3402680603<!--PlumAntics_Big3Mod_CapricornMoonWaxingBuff--></T>
+          <T>2168570129<!--PlumAntics_Big3Mod_CapricornMoonWaningBuff--></T>
+          <T>3108096028<!--PlumAntics_Big3Mod_AquariusMoonNewMoonBuff--></T>
+          <T>3276048109<!--PlumAntics_Big3Mod_AquariusMoonFullMoonBuff--></T>
+          <T>3341645957<!--PlumAntics_Big3Mod_AquariusMoonWaxingBuff--></T>
+          <T>4182817607<!--PlumAntics_Big3Mod_AquariusMoonWaningBuff--></T>
+          <T>3198299805<!--PlumAntics_Big3Mod_PiscesMoonFullMoonBuff--></T>
+          <T>3842303532<!--PlumAntics_Big3Mod_PiscesMoonNewMoonBuff--></T>
+          <T>3768000469<!--PlumAntics_Big3Mod_PiscesMoonWaxingBuff--></T>
+          <T>2334310263<!--PlumAntics_Big3Mod_PiscesMoonWaningBuff--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

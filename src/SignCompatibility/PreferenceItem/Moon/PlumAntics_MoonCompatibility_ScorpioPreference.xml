@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<I c="CharacteristicPreferenceItem" s="4100110008" i="cas_preference_item" m="cas.cas_preference_item" n="PlumAntics_MoonCompatibility_ScorpioPreference">
+  <T n="cas_preference_category">4100000002</T>
+  <T n="dislike">4100130008</T>
+  <T n="like">4100120008</T>
+  <L n="trait_map">
+    <U>
+      <T n="key">4264462837<!--PlumAntics_Big3Mod_CancerMoon--></T>
+      <T n="value">5</T>
+    </U>
+    <U>
+      <T n="key">2620839130<!--PlumAntics_Big3Mod_ScorpioMoon--></T>
+      <T n="value">5</T>
+    </U>
+    <U>
+      <T n="key">2174778494<!--PlumAntics_Big3Mod_PiscesMoon--></T>
+      <T n="value">5</T>
+    </U>
+  </L>
+</I>

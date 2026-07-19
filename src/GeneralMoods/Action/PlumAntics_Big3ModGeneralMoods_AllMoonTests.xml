@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: DFCB36B4B7F21BBB -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AllMoonTests" s="16126043040538303419">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">14156328260249158250<!--PlumAntics_Big3Mod_RemoveAllMoonBuffs--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">8184301291437052211<!--PlumAntics_Big3ModCore_AddAllMoonBuffLoot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">18140967317507232103<!--PlumAntics_Big3Mod_NewMoonTest--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">16340851820305217097<!--PlumAntics_Big3Mod_WaxingMoonTest--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">13457710952155620702<!--PlumAntics_Big3Mod_FullMoonTest--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">12805257879620721271<!--PlumAntics_Big3Mod_WaningMoonTest--></T>
+    </V>
+  </L>
+</I>

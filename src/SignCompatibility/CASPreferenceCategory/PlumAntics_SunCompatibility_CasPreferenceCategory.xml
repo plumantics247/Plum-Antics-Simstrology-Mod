@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CasPreferenceCategory" i="cas_preference_category" m="cas.cas_preference_category" n="PlumAntics_SunCompatibility_CasPreferenceCategory" s="4100000001">
+  <V n="_display_data" t="optional_display_mixin">
+    <U n="optional_display_mixin">
+      <V n="instance_display_description" t="enabled_display_description">
+        <T n="enabled_display_description">0xA5401101</T>
+      </V>
+      <V n="instance_display_icon" t="enabled_display_icon">
+        <T n="enabled_display_icon">2f7d0004:00000000:88cb95441f5ca21d</T>
+      </V>
+      <V n="instance_display_name" t="enabled_display_name">
+        <T n="enabled_display_name">0xA5401100</T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled_display_tooltip">
+        <T n="enabled_display_tooltip">0xA5401102</T>
+      </V>
+    </U>
+  </V>
+  <U n="_randomization_number_of_preferences">
+    <T n="lower_bound">2</T>
+    <T n="upper_bound">6</T>
+  </U>
+</I>

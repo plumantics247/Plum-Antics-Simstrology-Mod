@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000982381F3 -->
+<I c="LootActions" s="2552463859" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_RemoveElementsfromScorpioSun">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3268539798<!--PlumAntics_Big3Mod_Fixed--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3858955547<!--PlumAntics_Big3Mod_Mars--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000AE545967 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_Chemistry_Element_Loot" s="2924763495">
+  <L n="loot_actions">
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">4282914097<!--PlumAntics_Big3Mod_Relbit_Earth_EarthElement--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2344594988<!--PlumAntics_Big3Mod_ElementEarth--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2344594988<!--PlumAntics_Big3Mod_ElementEarth--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">1754905</T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">679920717<!--bit--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">2901898655<!--PlumAntics_Big3Mod_Relbit_Fire_FireElement--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">3642950465<!--PlumAntics_Big3Mod_Relbit_Fire_AirElement--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">3642950465<!--PlumAntics_Big3Mod_Relbit_Fire_AirElement--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">643988481<!--PlumAntics_Big3Mod_Relbit_Air_EarthElement--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2344594988<!--PlumAntics_Big3Mod_ElementEarth--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">643988481<!--PlumAntics_Big3Mod_Relbit_Air_EarthElement--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2344594988<!--PlumAntics_Big3Mod_ElementEarth--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">3784339874<!--bit--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">3784339874<!--bit--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">2250108009<!--PlumAntics_Big3Mod_Relbit_Fire_EarthElement--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2344594988<!--PlumAntics_Big3Mod_ElementEarth--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">2250108009<!--PlumAntics_Big3Mod_Relbit_Fire_EarthElement--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2344594988<!--PlumAntics_Big3Mod_ElementEarth--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">1008804626<!--bit--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">1008804626<!--bit--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2913211980<!--PlumAntics_Big3Mod_ElementFire--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">4000130338<!--bit--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>2344594988<!--PlumAntics_Big3Mod_ElementEarth--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">4000130338<!--bit--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">TargetSim</E>
+                <L n="whitelist_traits">
+                  <T>3974436693<!--PlumAntics_Big3Mod_ElementWater--></T>
+                </L>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2344594988<!--PlumAntics_Big3Mod_ElementEarth--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+            <L n="specified">
+              <E>YOUNGADULT</E>
+              <E>ADULT</E>
+              <E>ELDER</E>
+              <E>TEEN</E>
+            </L>
+          </V>
+          <V n="species" t="specified">
+            <U n="specified">
+              <L n="species">
+                <E>HUMAN</E>
+              </L>
+            </U>
+          </V>
+          <E n="who">Actor</E>
+        </U>
+      </V>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+            <L n="specified">
+              <E>YOUNGADULT</E>
+              <E>TEEN</E>
+              <E>ADULT</E>
+              <E>ELDER</E>
+            </L>
+          </V>
+          <V n="species" t="specified">
+            <U n="specified">
+              <L n="species">
+                <E>HUMAN</E>
+              </L>
+            </U>
+          </V>
+          <E n="who">TargetSim</E>
+        </U>
+      </V>
+      <V t="relationship">
+        <U n="relationship">
+          <U n="relationship_score_interval">
+            <T n="lower_bound">5</T>
+          </U>
+          <T n="track">16651<!--LTR_Romance_Main--></T>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

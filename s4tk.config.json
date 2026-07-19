@@ -1,0 +1,118 @@
+{
+  "buildInstructions": {
+    "source": "src",
+    "destinations": [
+      "out"
+    ],
+    "packages": [
+      {
+        "filename": "PlumAntics_Simstrology_Core_v2.6_required",
+        "include": [
+          "core/**/*"
+        ],
+        "exclude": [
+        ]
+      },
+      {
+        "filename": "PlumAntics_Simstrology_Strings_v2.6_required",
+        "include": [
+          "String/**/*"
+        ],
+        "exclude": []
+      },
+      {
+        "filename": "PlumAntics_Simstrology_Addon_LunarMoods_v2.6_optional",
+        "include": [          
+          "GeneralMoods/**/*"
+        ],
+        "exclude": []
+      },
+      {
+        "filename": "PlumAntics_Simstrology_Addon_Horoscopes_v2.6_optional",
+        "include": [
+          "Horoscopes/**/*"
+        ],
+        "exclude": []
+      },
+      {
+        "filename": "PlumAntics_Simstrology_Addon_Retrogrades_v2.6_optional",
+        "include": [
+          "Retrogrades/**/*"
+        ],
+        "exclude": []
+      },
+      {
+        "filename": "PlumAntics_Simstrology_Addon_SignCompatibility_v2.6_optional",
+        "include": [
+          "SignCompatibility/**/*"
+        ],
+        "exclude": []
+      },
+      {
+        "filename": "PlumAntics_Simstrology_Addon_HousesProgressions_v2.6_optional",
+        "include": [
+          "HousesandProgressions/**/*"
+        ],
+        "exclude": []
+      },
+      {
+        "filename": "PlumAntics_Simstrology_Addon_OuterPlanets_v2.6_optional",
+        "include": [
+          "OuterPlanets/**/*"
+        ],
+        "exclude": [
+          "OuterPlanets/DstSource/**/*"
+        ]
+      },
+      {
+        "filename": "PlumAntics_Simstrology_Addon_CrystalResonance_v2.6_optional",
+        "include": [
+          "CrystalResonance/**/*"
+        ],
+        "exclude": []
+      }
+    ]
+  },
+  "buildSettings": {
+    "allowEmptyPackages": false,
+    "allowFolderCreation": false,
+    "allowMissingSourceFiles": false,
+    "allowPackageOverlap": false,
+    "allowResourceKeyOverrides": false,
+    "outputBuildSummary": "partial"
+  },
+  "releaseSettings": {
+    "overrideDestinations": [],
+    "zips": [
+      {
+        "filename": "PlumAntics_Simstrology_v2.6",
+        "internalFolder": "",
+        "packages": [
+          "PlumAntics_Simstrology_Core_v2.6_required",
+          "PlumAntics_Simstrology_Strings_v2.6_required",
+          "PlumAntics_Simstrology_Addon_LunarMoods_v2.6_optional",
+          "PlumAntics_Simstrology_Addon_Horoscopes_v2.6_optional",
+          "PlumAntics_Simstrology_Addon_Retrogrades_v2.6_optional",
+          "PlumAntics_Simstrology_Addon_SignCompatibility_v2.6_optional",
+          "PlumAntics_Simstrology_Addon_HousesProgressions_v2.6_optional",
+          "PlumAntics_Simstrology_Addon_OuterPlanets_v2.6_optional",
+          "PlumAntics_Simstrology_Addon_CrystalResonance_v2.6_optional"
+        ],
+        "otherFiles": {
+          "include": [
+            "out/PlumAntics_Simstrology.ts4script"
+          ],
+          "exclude": [
+            "out/*.source.ts4script"
+          ]
+        }
+      }
+    ]
+  },
+  "stringTableSettings": {
+    "allowStringKeyOverrides": false,
+    "defaultStringTable": "src/String/SimstrologicalMod_English.stbl.json",
+    "generateMissingLocales": true,
+    "mergeStringTablesInSamePackage": true
+  }
+}

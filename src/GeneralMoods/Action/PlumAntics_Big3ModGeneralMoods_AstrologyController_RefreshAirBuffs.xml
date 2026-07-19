@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: E1C15896665A28CC -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_SimstrologyController_RefreshAirBuffs" s="16267380732024465612">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">17851971977042887498<!--PlumAntics_SimstrologyChannel_Air--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>3056304860<!--PlumAntics_Big3Mod_ElementAir--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

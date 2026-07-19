@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 8117D8B61A2A18BA -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_loot_oninstance_Moonnotifcations" s="9302141831991662778">
+  <L n="loot_actions">
+    <V n="Aries Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x956C94C2<!--{0.SimFirstName} is an Aries Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>4080273607<!--Aries Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Taurus Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x865494CA<!--{0.SimFirstName} is a Taurus Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3434935389<!--Taurus Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Gemini Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xE12E6B3B<!--{0.SimFirstName} is a Gemini Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2968393124<!--Gemini Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Cancer Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x1AF94A2D<!--{0.SimFirstName} is a Cancer Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>4264462837<!--Cancer Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Leo Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x502DF829<!--{0.SimFirstName} is a Leo Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3468113049<!--Leo Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Virgo Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x2D4B3D8A<!--{0.SimFirstName} is a Virgo Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3315030320<!--Virgo Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Libra Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x08F22F2D<!--{0.SimFirstName} is a Libra Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2266439355<!--Libra Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Scorpio Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x7E601439<!--{0.SimFirstName} is a Scorpio Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2620839130<!--Scorpio Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Sag Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xD84C1DE3<!--{0.SimFirstName} is a Sagittarius Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3557938955<!--Sag Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Cap Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x78BED143<!--{0.SimFirstName} is a Capricorn Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>4251664764<!--Cap Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Aquarius Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x680435B3<!--{0.SimFirstName} is an Aquarius Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2783528558<!--Aquarius Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Pisces Moon" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x3CB7D5A3<!--{0.SimFirstName} is a Pisces Moon!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2174778494<!--Pisces Moon--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

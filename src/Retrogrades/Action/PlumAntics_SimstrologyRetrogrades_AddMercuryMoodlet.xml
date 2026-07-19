@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance:  -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_SimstrologyRetrogrades_AddMercuryMoodlet" s="11800000000000000002">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">4036077646<!--PlumAntics_Big3Mod_Retrogrades_MercuryRetrograde--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

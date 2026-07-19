@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0B3DB2B55C110007 -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_LibraSunOverlay" s="810000000000000007">
+<L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+<E n="cas_allowed_pack">BASE_GAME</E>
+<T n="display_name">0xA6CA7984<!--Libra Sun--></T>
+<T n="display_name_gender_neutral">0xA6CA7984<!--Libra Sun--></T>
+<T n="icon">2f7d0004:00000000:b4757bd207ff1191</T>
+<L n="buffs">
+<U>
+      <T n="buff_type">13494519588099357118<!--PlumAntics_Big3ModCore_LibraSunBuffHidden--></T>
+    </U>
+  </L>
+<L n="initial_commodities">
+    <T>14498606621753889290<!--PlumAntics_Big3Mod_LibraSunController--></T>
+  </L>
+<V n="whim_set" t="enabled">
+    <T n="enabled">28154<!--ObjectivelessWhimSet: whimset_HasTraitRomantic--></T>
+  </V>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+    </L>
+  </V>
+<L n="species">
+    <E>HUMAN</E>
+  </L>
+<T n="trait_description">0xE0C50376<!--trait_description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

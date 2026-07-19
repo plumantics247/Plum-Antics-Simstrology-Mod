@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineNatal_ThirdHouse_SunHidden" s="4097337659">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x6FE98EC7<!--PlumAntics_CosmicEngineNatal_ThirdHouse_SunHidden--></T>
+    <T n="display_name_gender_neutral">0x6FE98EC7<!--PlumAntics_CosmicEngineNatal_ThirdHouse_SunHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

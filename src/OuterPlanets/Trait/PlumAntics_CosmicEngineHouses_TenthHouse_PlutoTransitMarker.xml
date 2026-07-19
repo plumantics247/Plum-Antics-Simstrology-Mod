@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_TenthHouse_PlutoTransitMarker" s="2135753999918202206">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x98E8E624<!--Pluto Transiting The 10th House: Power Climb--></T>
+    <T n="display_name_gender_neutral">0x98E8E624<!--Pluto Transiting The 10th House: Power Climb--></T>
+        <T n="icon">2f7d0004:00000000:c4e8a91b5fd07236</T>
+    <T n="trait_description">0xED158797<!--Ambition sharpens, stakes rise, and your public role starts feeling more consequential.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

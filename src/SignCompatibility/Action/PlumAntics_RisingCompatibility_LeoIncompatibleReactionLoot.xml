@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_RisingCompatibility_LeoIncompatibleReactionLoot" s="830000000000042614">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000043303<!--PlumAntics_RisingCompatibility_Tier_Incompatible--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000043409<!--PlumAntics_RisingCompatibility_Overlay_Incompatible--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000042109<!--PlumAntics_RisingCompatibility_IncompatibleReactionBuff--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000042203<!--PlumAntics_RisingCompatibility_ReactionCooldownBuff--></T>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>4100230005<!--PlumAntics_RisingCompatibility_LeoDislikePreferenceTrait--></T>
+          </L>
+        </U>
+      </V>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">TargetSim</E>
+          <L n="whitelist_traits">
+            <T>3739357428<!--PlumAntics_Big3Mod_LeoRising--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>830000000000042203<!--PlumAntics_RisingCompatibility_ReactionCooldownBuff--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

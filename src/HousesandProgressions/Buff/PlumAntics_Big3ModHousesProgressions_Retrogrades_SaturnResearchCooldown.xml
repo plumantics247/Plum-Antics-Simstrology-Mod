@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: EDC04638453E7226 -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_Big3ModHousesProgressions_Retrogrades_SaturnResearchCooldown" s="17131770190011200038">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+  <T n="visible">False</T>
+</I>

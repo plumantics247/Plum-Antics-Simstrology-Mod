@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RelationshipBit" i="relbit" m="relationships.relationship_bit" n="PlumAntics_CosmicEngineCore_Relbit_SunKnown" s="830000000000009602">
+  <T n="display_name">0x00000000</T>
+  <T n="visible">False</T>
+  <T n="remove_on_threshold">False</T>
+</I>

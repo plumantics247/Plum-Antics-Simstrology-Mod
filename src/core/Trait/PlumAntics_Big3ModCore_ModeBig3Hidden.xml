@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_ModeBig3Hidden" s="810000000000009001">
+  <L n="ages">
+    <E>INFANT</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="cas_allowed_pack">BASE_GAME</E>
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

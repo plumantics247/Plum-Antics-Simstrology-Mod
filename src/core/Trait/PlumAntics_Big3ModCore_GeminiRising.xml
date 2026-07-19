@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000FCE41FDD -->
+<I c="Trait" s="4242808797" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_GeminiRising">
+  <T n="display_name_gender_neutral">0xBB462E51<!--Gemini Rising--></T>
+  <U>
+    <T n="key">13998<!--SocialSuperInteraction: sim_Chat--></T>
+    <L n="value">
+      <T>127029<!--SocialMixerInteraction: mixer_social_InsiderTrait_TellInsiderStory_Friendly_MiddleScore--></T>
+    </L>
+  </U>
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">15318617036624185942<!--PlumAntics_Big3Mod_GeminiRisingBuffHidden--></T>
+    </U>
+  </L>
+  
+    <T n="trait_description">0xFE3CB016<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:cbae13fd429baabe</T>
+  <T n="display_name">0xBB462E51<!--Gemini Rising--></T>
+  <E n="trait_type">GAMEPLAY</E>
+      <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <!-- Chart marker traits now sync here, after Rising completes the full natal chart. -->
+      <T>830000000000009103<!--PlumAntics_CosmicEngineCore_SyncChartCompositionPythonLoot--></T>
+      <T>15701100331319163107<!--Instance Rising Sign Notices--></T>
+      <T>13736671501533187746<!--PlumAntics_Big3ModCore_EnsureBig3OverlaysPythonLoot--></T>
+    </L>
+  </V>
+  
+</I>
+

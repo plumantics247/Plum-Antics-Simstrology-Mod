@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: DA1812094B97E075 -->
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="PlumAntics_Big3_testSet_LunarEligibility_TeenPlus" s="15715330730841596021">
+  <L n="test">
+    <L>
+      <!-- Block if Sim already has ANY Moon trait -->
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>4080273607<!--PlumAntics_Big3Mod_AriesMoon--></T>
+            <!--Aries Moon-->
+            <T>3434935389<!--Taurus Moon--></T>
+            <!--Taurus Moon-->
+            <T>2968393124<!--Gemini Moon--></T>
+            <!--Gemini Moon-->
+            <T>4264462837<!--Cancer Moon--></T>
+            <!--Cancer Moon-->
+            <T>3468113049<!--Leo Moon--></T>
+            <!--Leo Moon-->
+            <T>3315030320<!--Virgo Moon--></T>
+            <!--Virgo Moon-->
+            <T>2266439355<!--Libra Moon--></T>
+            <!--Libra Moon-->
+            <T>2620839130<!--Scorpio Moon--></T>
+            <!--Scorpio Moon-->
+            <T>3557938955<!--Sag Moon--></T>
+            <!--Sagittarius Moon-->
+            <T>4251664764<!--Cap Moon--></T>
+            <!--Capricorn Moon-->
+            <T>2783528558<!--Aquarius Moon--></T>
+            <!--Aquarius Moon-->
+            <T>2174778494<!--Pisces Moon--></T>
+            <!--Pisces Moon-->
+          </L>
+        </U>
+      </V>
+      <!-- Teen+ + Human (and optionally Active Sim) -->
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+            <L n="specified">
+              <E>TEEN</E>
+              <E>YOUNGADULT</E>
+              <E>ADULT</E>
+              <E>ELDER</E>
+            </L>
+          </V>
+          <V n="species" t="specified">
+            <U n="specified">
+              <L n="species">
+                <E>HUMAN</E>
+              </L>
+            </U>
+          </V>
+          <E n="who">Actor</E>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

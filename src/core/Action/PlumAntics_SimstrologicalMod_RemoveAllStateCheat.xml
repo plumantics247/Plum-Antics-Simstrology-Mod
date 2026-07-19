@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_SimstrologicalMod_RemoveAllStateCheat" s="830000000000009100">
+  <L n="loot_actions">
+    <V n="Clear Saved Onboarding State" t="actions">
+      <T n="actions">830000000000009102<!--PlumAntics_SimstrologicalMod_ClearModeLockPythonLoot--></T>
+    </V>
+    <V n="Clear Childhood Sign State" t="actions">
+      <T n="actions">830000000000009107<!--PlumAntics_SimstrologicalMod_ClearChildhoodTraitsPythonLoot--></T>
+    </V>
+    <V n="Remove Big3 Sun State" t="actions">
+      <T n="actions">17901569110779865608<!--PlumAntics_Big3Mod_RemoveAllSunCheat--></T>
+    </V>
+    <V n="Remove Big3 Moon State" t="actions">
+      <T n="actions">10403446630988141893<!--PlumAntics_Big3Mod_RemoveAllMoonCheat--></T>
+    </V>
+    <V n="Remove Big3 Rising State" t="actions">
+      <T n="actions">17335275528259533414<!--PlumAntics_Big3Mod_RemoveAllRisingCheat--></T>
+    </V>
+    <V n="Remove Cosmic Sun State" t="actions">
+      <T n="actions">1609677235941941370<!--PlumAntics_CosmicEngineCore_RemoveAllSunCheat--></T>
+    </V>
+    <V n="Remove Cosmic Moon State" t="actions">
+      <T n="actions">15371094919169874855<!--PlumAntics_CosmicEngineCore_RemoveAllMoonCheat--></T>
+    </V>
+    <V n="Remove Cosmic Rising State" t="actions">
+      <T n="actions">615017686899673760<!--PlumAntics_CosmicEngineCore_RemoveAllRisingCheat--></T>
+    </V>
+    <V n="Remove Progressions" t="actions">
+      <T n="actions">16976730625710540831<!--PlumAntics_Big3ModHousesProgressions_RemoveAllProgTraits--></T>
+    </V>
+    <V n="Remove Hidden Chart State" t="actions">
+      <T n="actions">830000000000009101<!--PlumAntics_SimstrologicalMod_RemoveAllHiddenChartStateCheat--></T>
+    </V>
+    <V n="Remove Big3 Moon Buff Variants" t="actions">
+      <T n="actions">14156328260249158250<!--PlumAntics_Big3Mod_RemoveAllMoonBuffs--></T>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>8115911397757131098<!--PlumAntics_Big3ModCore_AquariusMoonImprint--></T>
+              <T>841670843030487305<!--PlumAntics_Big3ModCore_AriesMoonImprint--></T>
+              <T>2840214014826731753<!--PlumAntics_Big3ModCore_CancerMoonImprint--></T>
+              <T>8862932729954272714<!--PlumAntics_Big3ModCore_CapricornMoonImprint--></T>
+              <T>9139740040414431088<!--PlumAntics_Big3ModCore_GeminiMoonImprint--></T>
+              <T>6867043335706161275<!--PlumAntics_Big3ModCore_LeoMoonImprint--></T>
+              <T>7308639024214314997<!--PlumAntics_Big3ModCore_LibraMoonImprint--></T>
+              <T>8152742865163779286<!--PlumAntics_Big3ModCore_PiscesMoonImprint--></T>
+              <T>9080151272040798293<!--PlumAntics_Big3ModCore_SagittariusMoonImprint--></T>
+              <T>2238310432893619440<!--PlumAntics_Big3ModCore_ScorpioMoonImprint--></T>
+              <T>8193006601517012377<!--PlumAntics_Big3ModCore_TaurusMoonImprint--></T>
+              <T>2765589636358458606<!--PlumAntics_Big3ModCore_VirgoMoonImprint--></T>
+              <T>810000000000009001<!--PlumAntics_Big3Mod_ModeBig3Hidden--></T>
+              <T>810000000000009002<!--PlumAntics_CosmicEngineCore_ModeCosmicHidden--></T>
+              <T>16067647683364919804<!--PlumAntics_Big3Mod_StartupSeen--></T>
+              <T>2802267089<!--PlumAntics_CosmicEngineNatal_ChartCapturedHidden--></T>
+              <T>1369415545<!--PlumAntics_CosmicEngineNatal_ChartLegacyGeneratedHidden--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

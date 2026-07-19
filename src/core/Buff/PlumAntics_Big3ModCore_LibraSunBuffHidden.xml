@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: BB462A117F3679BE -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_Big3ModCore_LibraSunBuffHidden" s="13494519588099357118">
+  <T n="audio_sting_on_add">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_name">0x6686D6E8<!--PlumAntics_Big3Mod_LibraSunBuffHidden--></T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="decay_modifier_by_category">
+            <U>
+              <E n="key">Stressed_Buffs</E>
+              <T n="value">0.8</T>
+            </U>
+            <U>
+              <E n="key">Flirty_Buffs</E>
+              <T n="value">0.8</T>
+            </U>
+          </L>
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">16650<!--LTR_Friendship_Main--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">1.75</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16651<!--LTR_Romance_Main--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">1.5</T>
+              </U>
+            </U>
+          </L>
+          <L n="skill_tag_modifiers">
+            <U>
+              <E n="key">Skill_Charisma</E>
+              <T n="value">1.75</T>
+            </U>
+            <U>
+              <E n="key">Skill_Romance</E>
+              <T n="value">1.75</T>
+            </U>
+          </L>
+          <L n="stat_use_multiplier">
+            <U>
+              <T n="key">366847<!--statistic_Career_Performance_RomanceConsultant--></T>
+              <U n="value">
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">366880<!--commodity_CareerBenefit_RomanceConsultant--></T>
+              <U n="value">
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">223349<!--commodity_CareerBenefit_Law--></T>
+              <U n="value">
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="affordance_modifier">
+        <U n="affordance_modifier">
+          <L n="affordance_lists">
+            <T>14764055325143177165<!--PlumAntics_Big3Mod_Interactions_Interests--></T>
+            <T>12001818155183118183<!--PlumAntics_Big3Mod_Interactions_Stories--></T>
+            <T>9474395650096351456<!--PlumAntics_Big3Mod_Interactions_DeepThoughts--></T>
+            <T>1751388732367235507<!--PlumAntics_Big3Mod_Interactions_Compliments--></T>
+          </L>
+          <T n="content_score_bonus">4</T>
+        </U>
+      </V>
+      <V t="affordance_modifier">
+        <U n="affordance_modifier">
+          <L n="affordance_lists">
+            <T>2680312040151898153<!--PlumAntics_Big3Mod_Interactions_Deception--></T>
+            <T>13494195548640628702<!--PlumAntics_Big3Mod_Interactions_Malicious--></T>
+          </L>
+          <T n="content_score_bonus">-3</T>
+        </U>
+      </V>
+    </L>
+  </U>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+</I>
+

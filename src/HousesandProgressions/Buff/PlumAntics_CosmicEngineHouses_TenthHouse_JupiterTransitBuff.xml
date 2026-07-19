@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="13940417226029152747" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_TenthHouse_JupiterTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0xD07ED304<!--Authority figures notice you—lean in and say yes to the larger role.--></T>
+  <T n="icon">2f7d0004:00000000:ceaf0651b4ef56f9</T>
+  <T n="buff_name">0x9F42BAC6<!--Jupiter Transiting The 10th House: Promotion Weather--></T>
+  <T n="mood_type">14639</T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

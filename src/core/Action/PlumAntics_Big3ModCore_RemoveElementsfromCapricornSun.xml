@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000E19DC622 -->
+<I c="LootActions" s="3785213474" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_RemoveElementsfromCapricornSun">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait"/>
+          <T n="specific_trait">2344594988<!--PlumAntics_Big3Mod_ElementEarth--></T>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3493848740<!--PlumAntics_Big3Mod_Cardinal--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2915077253<!--PlumAntics_Big3Mod_Saturn--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

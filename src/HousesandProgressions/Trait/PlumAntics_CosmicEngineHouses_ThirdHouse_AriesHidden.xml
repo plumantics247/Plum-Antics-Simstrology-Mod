@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_ThirdHouse_AriesHidden" s="861706976">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+        <T n="display_name">0xD9562E4E<!--PlumAntics_CosmicEngineHouses_ThirdHouse_AriesHidden--></T>
+    <T n="display_name_gender_neutral">0xD9562E4E<!--PlumAntics_CosmicEngineHouses_ThirdHouse_AriesHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

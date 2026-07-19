@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FirstHouse_MarsTransitMarker" s="1515894484728849970">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x39D9B1DE<!--Mars Transiting The 1st House: Competitive Edge--></T>
+    <T n="display_name_gender_neutral">0x39D9B1DE<!--Mars Transiting The 1st House: Competitive Edge--></T>
+        <T n="icon">2f7d0004:00000000:f78fef9af9f01a60</T>
+    <T n="trait_description">0xB1032623<!--You want to win (even at things nobody else is competing in).--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

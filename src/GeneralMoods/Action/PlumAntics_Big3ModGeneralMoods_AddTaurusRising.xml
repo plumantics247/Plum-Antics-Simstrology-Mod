@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 9CBC39A982050D91 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddTaurusRising" s="11293965365731986833">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xDBD39AD0<!--from Taurus Rising trait--></T>
+          </V>
+          <T n="buff_type">2894645123<!--PlumAntics_Big3Mod_TaurusRisingBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

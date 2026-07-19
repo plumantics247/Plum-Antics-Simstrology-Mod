@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="6737131590506639443" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_FourthHouse_NeptuneTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x026E9FA3<!--Home becomes a retreat, a daydream, or a place to drift for a while.--></T>
+  <T n="icon">2f7d0004:00000000:b61c9d4f7ae20358</T>
+  <T n="buff_name">0x7A9C0BD8<!--Neptune Transiting The 4th House: Private Fog Bank--></T>
+  <T n="mood_type">9986929074150603838</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

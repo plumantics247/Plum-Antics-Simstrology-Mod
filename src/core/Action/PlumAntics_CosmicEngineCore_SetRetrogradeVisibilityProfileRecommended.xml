@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CosmicEngineSetRetrogradeVisibilityProfileLoot" i="action" m="cosmic_engine.loot_actions" n="PlumAntics_CosmicEngineCore_SetRetrogradeVisibilityProfileRecommended" s="830000000000009128">
+  <T n="profile_id">recommended</T>
+</I>

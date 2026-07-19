@@ -1,0 +1,19 @@
+name: Public tree audit
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify public tree
+        shell: powershell
+        run: ./tools/assert_public_tree.ps1
+

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="122628565" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddSunLibra">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">810000000000000007<!--PlumAntics_Big3Mod_LibraSunOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

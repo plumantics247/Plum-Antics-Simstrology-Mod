@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: B346E61627E469C5 -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_AriesRisingBuffHidden" s="12918265563991796165">
+  <T n="audio_sting_on_add">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_name">0xD7A2B498<!--PlumAntics_Big3Mod_AriesRisingBuffHidden--></T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="affordance_modifier">
+        <U n="affordance_modifier">
+          <L n="affordance_lists">
+            <T>1751388732367235507<!--PlumAntics_Big3Mod_Interactions_Compliments--></T>
+            <T>12817375570678276355<!--PlumAntics_Big3Mod_Interactions_Gossip--></T>
+            <T>10127643049430895072<!--PlumAntics_Big3Mod_Interactions_Jokes--></T>
+            <T>5266598269715303467<!--PlumAntics_Big3Mod_Interactions_SmallTalk--></T>
+          </L>
+          <T n="content_score_bonus">4</T>
+        </U>
+      </V>
+      <V t="affordance_modifier">
+        <U n="affordance_modifier">
+          <L n="affordance_lists">
+            <T>9966041009495338782<!--PlumAntics_Big3Mod_Interactions_Complaints--></T>
+            <T>14029388175093318457<!--PlumAntics_Big3Mod_Interactions_Pranks--></T>
+          </L>
+          <T n="content_score_bonus">-3</T>
+        </U>
+      </V>
+    </L>
+  </U>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+</I>

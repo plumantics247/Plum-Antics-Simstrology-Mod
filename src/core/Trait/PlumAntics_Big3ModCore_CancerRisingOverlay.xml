@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0B6139A7CBD20003 -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_CancerRisingOverlay" s="820000000000000003">
+<L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+<T n="display_name">0xB6B98432<!--Cancer Rising--></T>
+<T n="display_name_gender_neutral">0xB6B98432<!--Cancer Rising--></T>
+<T n="icon">2f7d0004:00000000:b81070c39b15c1b9</T>
+<L n="actor_mixers">
+    <U>
+      <T n="key">13991<!--SocialSuperInteraction: sim_BeAffectionate--></T>
+      <L n="value">
+        <T>258339<!--SocialMixerInteraction: mixer_social_GoodTrait_HelpOut--></T>
+      </L>
+    </U>
+    <U>
+      <T n="key">13998<!--SocialSuperInteraction: sim_Chat--></T>
+      <L n="value">
+        <T>28046<!--SocialMixerInteraction: mixer_social_DiscussWorldPeace_targeted_Friendly_alwaysOn--></T>
+        <T>28048<!--SocialMixerInteraction: mixer_social_DismissEvilWays_targeted_Friendly_alwaysOn--></T>
+      </L>
+    </U>
+  </L>
+<L n="initial_commodities">
+    <T>7303378947871442504<!--initial_commodities--></T>
+  </L>
+<V n="whim_set" t="enabled">
+    <T n="enabled">34794<!--ObjectivelessWhimSet: whimset_HasTraitGood--></T>
+  </V>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>4121054724<!--enabled--></T>
+      <T>168034<!--LootActions: loot_Statistic_LifeSkill_Empathy_Trait_GainLarge--></T>
+      <T>201214<!--LootActions: loot_Reputation_NPC_Trait_Good_Good--></T>
+    </L>
+  </V>
+<T n="trait_description">0xBD339D0C<!--trait_description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

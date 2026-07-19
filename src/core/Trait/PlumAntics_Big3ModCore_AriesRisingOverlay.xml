@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0B6139A7CBD20002 -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_AriesRisingOverlay" s="820000000000000002">
+<L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+<T n="display_name">0xB9BCE476<!--Aries Rising--></T>
+<T n="display_name_gender_neutral">0xB9BCE476<!--Aries Rising--></T>
+<T n="icon">2f7d0004:00000000:fe122ad453f80e09</T>
+<L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--SocialSuperInteraction: sim_Chat--></T>
+      <L n="value">
+        <T>27693<!--SocialMixerInteraction: mixer_social_PumpUp_targeted_friendly_alwaysOn--></T>
+      </L>
+    </U>
+  </L>
+<L n="initial_commodities">
+    <T>3574418822639689494<!--PlumAntics_Big3Mod_AriesRisingController--></T>
+  </L>
+<V n="whim_set" t="enabled">
+    <T n="enabled">34777<!--ObjectivelessWhimSet: whimset_HasTraitactive--></T>
+  </V>
+<T n="trait_description">0x96E809F6<!--trait_description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

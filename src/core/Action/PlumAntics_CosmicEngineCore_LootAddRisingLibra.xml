@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_CosmicEngineCore_LootAddRisingLibra" s="11369956630855490813">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3123976786<!--PlumAntics_CosmicEngineCore_LibraRising--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000E602FD1B -->
+<I c="Trait" s="3858955547" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_Mars">
+  <T n="display_name_gender_neutral">0xEB972081<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="trait_description">0xBBBC0B2E<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:f78fef9af9f01a60</T>
+  <T n="display_name">0xEB972081<!--display_name--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

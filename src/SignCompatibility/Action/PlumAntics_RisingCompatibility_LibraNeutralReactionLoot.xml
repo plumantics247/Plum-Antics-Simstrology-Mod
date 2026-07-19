@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_RisingCompatibility_LibraNeutralReactionLoot" s="830000000000042621">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000043302<!--PlumAntics_RisingCompatibility_Tier_Neutral--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000043408<!--PlumAntics_RisingCompatibility_Overlay_Neutral--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000042108<!--PlumAntics_RisingCompatibility_NeutralReactionBuff--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <T n="buff_type">830000000000042203<!--PlumAntics_RisingCompatibility_ReactionCooldownBuff--></T>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>4100220007<!--PlumAntics_RisingCompatibility_LibraLikePreferenceTrait--></T>
+            <T>4100230007<!--PlumAntics_RisingCompatibility_LibraDislikePreferenceTrait--></T>
+          </L>
+        </U>
+      </V>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">TargetSim</E>
+          <L n="whitelist_traits">
+            <T>3123976786<!--PlumAntics_Big3Mod_LibraRising--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>830000000000042203<!--PlumAntics_RisingCompatibility_ReactionCooldownBuff--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

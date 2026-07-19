@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: EDC04638453E7225 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_SaturnIntense" s="17131770190011200037">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">17131770190011200008<!--PlumAntics_Big3ModHousesProgressions_Assign_TeenPlusOne--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200010<!--PlumAntics_Big3ModHousesProgressions_Assign_YoungAdultPlusOne--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200012<!--PlumAntics_Big3ModHousesProgressions_Assign_AdultPlusOne--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200006<!--PlumAntics_Big3ModHousesProgressions_Assign_ElderPlusOne--></T>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">17131770190011200038<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_SaturnResearchCooldown--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="buff">
+        <U n="buff">
+          <V n="whitelist" t="enabled">
+            <L n="enabled">
+              <T>8972311338386696142<!--PlumAntics_Big3Mod_Retrogrades_SaturnRetrogradeIntense--></T>
+            </L>
+          </V>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>17131770190011200038<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_SaturnResearchCooldown--></T>
+          </L>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+  </L>
+  </L>
+</I>

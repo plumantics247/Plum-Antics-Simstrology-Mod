@@ -1,0 +1,462 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000CB8CCCC2 -->
+<I c="LootActions" s="3415002306" i="action" m="interactions.utils.loot" n="PlumAntics_ExtraElementsandPlanets_CheatRemoveTraits">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>810000000000000001<!--PlumAntics_Big3Mod_AquariusSunOverlay--></T>
+              <T>810000000000000002<!--PlumAntics_Big3Mod_AriesSunOverlay--></T>
+              <T>810000000000000003<!--PlumAntics_Big3Mod_CancerSunOverlay--></T>
+              <T>810000000000000004<!--PlumAntics_Big3Mod_CapricornSunOverlay--></T>
+              <T>810000000000000005<!--PlumAntics_Big3Mod_GeminiSunOverlay--></T>
+              <T>810000000000000006<!--PlumAntics_Big3Mod_LeoSunOverlay--></T>
+              <T>810000000000000007<!--PlumAntics_Big3Mod_LibraSunOverlay--></T>
+              <T>810000000000000008<!--PlumAntics_Big3Mod_PiscesSunOverlay--></T>
+              <T>810000000000000009<!--PlumAntics_Big3Mod_SagittariusSunOverlay--></T>
+              <T>810000000000000010<!--PlumAntics_Big3Mod_ScorpioSunOverlay--></T>
+              <T>810000000000000011<!--PlumAntics_Big3Mod_TaurusSunOverlay--></T>
+              <T>810000000000000012<!--PlumAntics_Big3Mod_VirgoSunOverlay--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>820000000000000001<!--PlumAntics_Big3Mod_AquariusRisingOverlay--></T>
+              <T>820000000000000002<!--PlumAntics_Big3Mod_AriesRisingOverlay--></T>
+              <T>820000000000000003<!--PlumAntics_Big3Mod_CancerRisingOverlay--></T>
+              <T>820000000000000004<!--PlumAntics_Big3Mod_CapricornRisingOverlay--></T>
+              <T>820000000000000005<!--PlumAntics_Big3Mod_GeminiRisingOverlay--></T>
+              <T>820000000000000006<!--PlumAntics_Big3Mod_LeoRisingOverlay--></T>
+              <T>820000000000000007<!--PlumAntics_Big3Mod_LibraRisingOverlay--></T>
+              <T>820000000000000008<!--PlumAntics_Big3Mod_PiscesRisingOverlay--></T>
+              <T>820000000000000009<!--PlumAntics_Big3Mod_SagittariusRisingOverlay--></T>
+              <T>820000000000000010<!--PlumAntics_Big3Mod_ScorpioRisingOverlay--></T>
+              <T>820000000000000011<!--PlumAntics_Big3Mod_TaurusRisingOverlay--></T>
+              <T>820000000000000012<!--PlumAntics_Big3Mod_VirgoRisingOverlay--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3164395998<!--PlumAntics_Big3Mod_AriesSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">3973333495<!--PlumAntics_Big3Mod_CheatRemoveTraits_WII0V4JJ65_Buff--></T>
+          <!--PlumAntics_ExtraElementsandPlanets_CheatRemoveTraits:WII0V4JJ65:Buff-->
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">4080273607<!--PlumAntics_Big3Mod_AriesMoon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2297406366<!--Aries Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">2523451870<!--PlumAntics_Big3Mod_CheatRemoveTraits_IUKNEDTFTM_Buff--></T>
+          <!--PlumAntics_ExtraElementsandPlanets_CheatRemoveTraits:IUKNEDTFTM:Buff-->
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2588878312<!--Taurus Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3434935389<!--Taurus Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3771207495<!--PlumAntics_Big3Mod_GeminiSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">3966292609<!--PlumAntics_Big3Mod_CheatRemoveTraits_CQMYPMCD2X_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2968393124<!--Gemini Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">4242808797<!--Gemini Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2654235180<!--PlumAntics_Big3Mod_CancerSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">3743014481<!--PlumAntics_Big3Mod_CheatRemoveTraits_6LPA0VWCA8_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2154635568<!--Cancer Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">4264462837<!--Cancer Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2797810424<!--PlumAntics_Big3Mod_LeoSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">3500745692<!--PlumAntics_Big3Mod_CheatRemoveTraits_0GRLB5FAII_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3468113049<!--Leo Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3739357428<!--Leo Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">3530371670<!--PlumAntics_Big3Mod_CheatRemoveTraits_UBTWNEZ9QT_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2665561705<!--Virgo Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3315030320<!--Virgo Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3887839626<!--PlumAntics_Big3Mod_LibraSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">2881447005<!--PlumAntics_Big3Mod_CheatRemoveTraits_BRDE289XIW_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2266439355<!--Libra Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3123976786<!--Libra Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2636947797<!--PlumAntics_Big3Mod_ScorpioSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">2986789123<!--PlumAntics_Big3Mod_CheatRemoveTraits_O6W8YNJ7Y3_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3923158167<!--Scorpio Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2620839130<!--Scorpio Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">3445212120<!--PlumAntics_Big3Mod_CheatRemoveTraits_I2YJ9W266E_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3557938955<!--Sag Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2405249506<!--Sag Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">2777499502<!--PlumAntics_Big3Mod_CheatRemoveTraits_AK4RDJ7V0R_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3178572581<!--Cap Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">4251664764<!--Cap Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">4169897889<!--PlumAntics_Big3Mod_AquariusSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">3988640105<!--PlumAntics_Big3Mod_CheatRemoveTraits_K9ZOM3PI6F_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2783528558<!--Aquarius Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2243949835<!--Aquarius Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2363848465<!--PlumAntics_Big3Mod_PiscesSun--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">3903902149<!--PlumAntics_Big3Mod_CheatRemoveTraits_5SDHES4LXL_Buff--></T>
+        </U>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">3588503643<!--Pisces Rising--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2174778494<!--Pisces Moon--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

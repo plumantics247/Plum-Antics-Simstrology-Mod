@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AffordanceList" i="snippet" m="snippets" n="PlumAntics_Big3Mod_Interactions_SillyBehaviour" s="6275676122876577302">
+  <L n="value">
+    <T>25671<!--mixer_social_DoAnImpression_targeted_funny_alwaysOn--></T>
+    <T>25894<!--mixer_social_FlashCrazyEyes_targeted_funny_emotionSpecific--></T>
+    <T>107223<!--mixer_social_ImitateBoss_Targeted_Funny_AlwaysOn_Career--></T>
+    <T>26412<!--mixer_social_ImpersonateCelebrity_group_Funny_MediumScore--></T>
+    <T>165558<!--mixer_social_MakeFunnyFaces--></T>
+    <T>168758<!--mixer_social_MakeFunnyFaces_Toddler--></T>
+    <T>40375<!--mixer_social_MakeSillyFace_targeted_funny_alwaysOn_child--></T>
+    <T>109554<!--mixer_social_PlayMirrorGame_Targeted_Funny_AlwaysOn_clone--></T>
+    <T>99166<!--mixer_social_QuoteCartoonCharacter_targeted_Funny_alwaysOn_child--></T>
+    <T>143935<!--mixer_social_Toddler_Funny_Say_NonSense--></T>
+    <T>26408<!--mixer_socials_GoofAround_targeted_Funny_alwaysOn--></T>
+    <T>31004<!--mixer_socials_GoofAround_targeted_Funny_alwaysOn_child_skills--></T>
+    <T>100110<!--mixer_socials_GoofAround_teen_targeted_Funny_alwaysOn--></T>
+    <T>316868<!--mixer_socials_Toddler_Friendly_CrossAge_Interactions_SingSong--></T>
+    <T>180465<!--si_Touching_GiveGift_Funny--></T>
+    <T>181932<!--socials_Targeted_Friendly_HolidaySocials_BellyLaugh--></T>
+    <T>189576<!--socials_Targeted_Friendly_HolidaySocials_BellyLaugh_toddler--></T>
+    <T>147293<!--socials_Targeted_Funny_AlwaysOn_STC_LampFestival_ImpressionOfTourist--></T>
+    <T>147294<!--socials_Targeted_Funny_AlwaysOn_STC_LampFestival_SarcasticVoodoo--></T>
+    <T>147295<!--socials_Targeted_Funny_AlwaysOn_STC_LampFestival_SausageMime--></T>
+  </L>
+</I>

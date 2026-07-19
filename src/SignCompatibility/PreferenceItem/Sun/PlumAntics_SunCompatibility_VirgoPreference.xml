@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<I c="CharacteristicPreferenceItem" s="4100010006" i="cas_preference_item" m="cas.cas_preference_item" n="PlumAntics_SunCompatibility_VirgoPreference">
+  <T n="cas_preference_category">4100000001</T>
+  <T n="dislike">4100030006</T>
+  <T n="like">4100020006</T>
+  <L n="trait_map">
+    <U>
+      <T n="key">4281780916<!--PlumAntics_Big3Mod_TaurusSun--></T>
+      <T n="value">5</T>
+    </U>
+    <U>
+      <T n="key">3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+      <T n="value">5</T>
+    </U>
+    <U>
+      <T n="key">3356986463<!--PlumAntics_Big3Mod_CapricornSun--></T>
+      <T n="value">5</T>
+    </U>
+  </L>
+</I>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_CosmicEngineCore_LootAddRisingAries" s="12519483252472282241">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">2297406366<!--PlumAntics_CosmicEngineCore_AriesRising--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>
+

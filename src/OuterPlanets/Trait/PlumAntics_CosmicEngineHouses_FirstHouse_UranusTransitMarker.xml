@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FirstHouse_UranusTransitMarker" s="830989597638901500">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0xFD21CCC9<!--Uranus Transiting The 1st House: Wild Card Aura--></T>
+    <T n="display_name_gender_neutral">0xFD21CCC9<!--Uranus Transiting The 1st House: Wild Card Aura--></T>
+        <T n="icon">2f7d0004:00000000:a8f7344c2d7b91e1</T>
+    <T n="trait_description">0xAF3CD39E<!--You're harder to pin down; reinvention feels easier than repetition.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

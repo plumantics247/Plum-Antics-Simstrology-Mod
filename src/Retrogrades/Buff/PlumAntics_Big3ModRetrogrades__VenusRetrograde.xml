@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 00000000824A0876 -->
+<I c="Buff" s="2185889910" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_Retrogrades_VenusRetrograde">
+  <T n="buff_description">0xE31E5489<!--buff_description--></T>
+  <T n="icon">2f7d0004:00000000:ece852947b471b65</T>
+  <T n="buff_name">0xC6E06970<!--buff_name--></T>
+  <T n="mood_type">14646</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="mood_effect_modifier">
+        <U n="mood_effect_modifier">
+          <L n="mood_effect_mapping">
+            <U>
+              <T n="key">14644</T>
+              <T n="value">1.2</T>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">16651</T>
+              <U n="value">
+                <E n="apply_direction">DECREASE</E>
+                <T n="multiplier">1.1</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_Router" s="11593030835386645003">
+  <L n="loot_actions">
+    <V n="Assign From Aries Rising" t="actions">
+      <T n="actions">14198041627768082424<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_AriesRising--></T>
+    </V>
+    <V n="Assign From Taurus Rising" t="actions">
+      <T n="actions">13636596464151423262<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_TaurusRising--></T>
+    </V>
+    <V n="Assign From Gemini Rising" t="actions">
+      <T n="actions">14040912416973243131<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_GeminiRising--></T>
+    </V>
+    <V n="Assign From Cancer Rising" t="actions">
+      <T n="actions">16552216115340867790<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_CancerRising--></T>
+    </V>
+    <V n="Assign From Leo Rising" t="actions">
+      <T n="actions">17191263963416933450<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_LeoRising--></T>
+    </V>
+    <V n="Assign From Virgo Rising" t="actions">
+      <T n="actions">10245920579355064395<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_VirgoRising--></T>
+    </V>
+    <V n="Assign From Libra Rising" t="actions">
+      <T n="actions">17927143400101388076<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_LibraRising--></T>
+    </V>
+    <V n="Assign From Scorpio Rising" t="actions">
+      <T n="actions">13428328017088561541<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_ScorpioRising--></T>
+    </V>
+    <V n="Assign From Sagittarius Rising" t="actions">
+      <T n="actions">17529531986909149404<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_SagittariusRising--></T>
+    </V>
+    <V n="Assign From Capricorn Rising" t="actions">
+      <T n="actions">10810629517106084991<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_CapricornRising--></T>
+    </V>
+    <V n="Assign From Aquarius Rising" t="actions">
+      <T n="actions">15087680845890574769<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_AquariusRising--></T>
+    </V>
+    <V n="Assign From Pisces Rising" t="actions">
+      <T n="actions">14239939854625433621<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_PiscesRising--></T>
+    </V>
+  </L>
+</I>

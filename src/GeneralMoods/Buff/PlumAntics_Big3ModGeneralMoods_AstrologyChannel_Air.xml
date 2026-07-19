@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: F7BEF1EDE7DE834A -->
+<I c="Buff" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_SimstrologyChannel_Air" s="17851971977042887498">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+  <T n="buff_description">0x221CA52B<!--Ideas are flying and connections are sparking. Just try to keep one thought in your head long enough to finish it.--></T>
+  <T n="buff_name">0xDB8D13EC<!--Head in the Clouds--></T>
+  <T n="icon">2f7d0004:00000000:86508681104b79d5<!--Air Element--></T>
+  <T n="mood_type">15496795964845827431<!--Mood_Playful--></T>
+  <T n="mood_weight">1</T>
+</I>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: C5F1C577E6AE4E60 -->
+<I c="AffordanceList" i="snippet" m="snippets" n="PlumAntics_Big3Mod_affordanceList_LibraRising" s="14263398613621034592">
+  <L n="value">
+    <T>192519<!--celebrity_Socials_Acquaintance_High_NaughtySuggestion--></T>
+    <T>192509<!--celebrity_Socials_Acquaintance_Low_ComplimentAppearance--></T>
+    <T>26159<!--mixer_social_AskIfSingle_targeted_romance_alwaysOn--></T>
+    <T>29347<!--mixer_social_AskRisqueQuestion_targeted_romance_alwaysOn--></T>
+    <T>74850<!--mixer_social_AttemptToSeduce_targeted_romance_MiddleScore_teenFemale--></T>
+    <T>74829<!--mixer_social_AttemptToSeduce_targeted_romance_middleScore_teenMale--></T>
+    <T>25866<!--mixer_social_BeEnticing_targeted_romance_emotionSpecific--></T>
+    <T>35115<!--mixer_social_Beguile_targeted_romance_alwaysOn_trait--></T>
+    <T>26168<!--mixer_social_BlowAKiss_targeted_romance_highScore--></T>
+    <T>25871<!--mixer_social_BoldPickUpLine_targeted_romance_emotionSpecific--></T>
+    <T>106740<!--mixer_social_CheckForFever_targeted_romance_alwaysOn_ActiveCareer_Doctor--></T>
+    <T>26163<!--mixer_social_ComplimentAppearance_targeted_romance_alwaysOn--></T>
+    <T>118662<!--mixer_social_ComplimentYogaPants_targeted_romance_alwaysOn_YogaInstructor--></T>
+    <T>99655<!--mixer_social_ConvinceToLeaveSpouse_targeted_romance_relationship--></T>
+    <T>26162<!--mixer_social_Flirt_targeted_romance_alwaysOn--></T>
+    <T>74958<!--mixer_social_Flirt_targeted_romance_alwaysOn_teen--></T>
+    <T>113593<!--mixer_social_FlirtCovertly_Targeted_Romance_AlwaysOn_ActiveCareer--></T>
+    <T>145779<!--mixer_social_FlirtyDream_Festival_Blossom_targeted_romance--></T>
+    <T>125637<!--mixer_social_GoingOutSocials_ExchangeNumbers--></T>
+    <T>145780<!--mixer_social_HeatofMomentPassion_Festival_Blossom_targeted_romance--></T>
+    <T>31683<!--mixer_social_ImpressWithVideoGameProwess_targeted_romance_alwaysOn_skills--></T>
+    <T>145777<!--mixer_social_JokeGettingTogether_Festival_Blossom_targeted_romance--></T>
+    <T>25876<!--mixer_social_MakeAFlirtatiousJoke_targeted_romance_emotionSpecific--></T>
+    <T>145776<!--mixer_social_MentionFlirtyVibe_Festival_Blossom_targeted_romance--></T>
+    <T>25864<!--mixer_social_OfferRose_targeted_romance_emotionSpeficic--></T>
+    <T>26164<!--mixer_social_PickupLine_targeted_romance_alwaysOn--></T>
+    <T>282664<!--mixer_Social_Romance_AskAboutSexualOrientation--></T>
+    <T>25963<!--mixer_social_Seduce_targeted_romance_emotionSpecific--></T>
+    <T>291671<!--mixer_Social_SexualOrientation_AskAboutWooHooInterests--></T>
+    <T>99926<!--mixer_social_SitIntimate_TeaseFlirtatiously_targeted_romance_middleScore--></T>
+    <T>36084<!--mixer_social_SmoothRecovery_targeted_romance_alwaysOn_topic--></T>
+    <T>25870<!--mixer_social_SweetTalk_targeted_romance_skills--></T>
+    <T>238686<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_NT_AskRisqueQuestion--></T>
+    <T>238687<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_NT_BlowAKiss--></T>
+    <T>238690<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_NT_Flirt--></T>
+    <T>131181<!--mixer_social_UltimatePickUp_targeted_romance_AlwaysOn--></T>
+    <T>131182<!--mixer_social_UltimatePickUp_targeted_romance_AlwaysOn_teen--></T>
+    <T>26158<!--mixer_social_WhisperSeductively_targeted_romance_middleScore--></T>
+    <T>286661<!--mixer_social_WhisperSeductively_targeted_romance_middleScore_Werewolf--></T>
+    <T>290911<!--mixer_social_WhisperSeductively_targeted_romance_middleScore_Werewolf_F--></T>
+    <T>99467<!--mxier_social_Seduce_targeted_romance_emotionSpecific_femaleVersion--></T>
+    <T>308029<!--preferenceItem_Communication_Interests--></T>
+    <T>283607<!--socialMixerInteraction_Moodlet_NPCPost_Flirty_PositiveMood--></T>
+    <T>273207<!--socials_Targeted_Romance_AlwaysOn_STC_SociallyAwkward_AmIDoingThisRight--></T>
+  </L>
+</I>

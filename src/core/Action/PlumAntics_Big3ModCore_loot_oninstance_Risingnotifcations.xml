@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: D9E58390370BF8E3 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_loot_oninstance_Risingnotifcations" s="15701100331319163107">
+  <L n="loot_actions">
+    <V n="Apply Chart Ruler Marker" t="actions">
+      <T n="actions">1004717949285038159<!--PlumAntics_CosmicEngineCore_LootApplyChartRulerFromRising--></T>
+    </V>
+    <V n="Assign Hidden House Markers" t="actions">
+      <T n="actions">11593030835386645003<!--PlumAntics_CosmicEngineHouses_AssignHouseSignMarkers_Router--></T>
+    </V>
+    <V n="Capture Shared Chart Record" t="actions">
+      <T n="actions">13736671501533187739<!--PlumAntics_Big3ModCore_CaptureChartPythonLoot--></T>
+    </V>
+    <V n="Aries Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x178B858B<!--{0.SimFirstName} is an Aries Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>2297406366<!--Aries Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Taurus Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xC7FD5682<!--{0.SimFirstName} is a Taurus Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2588878312<!--Taurus Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Gemini Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x8DD6CEA5<!--{0.SimFirstName} is a Gemini Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>4242808797<!--Gemini Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Cancer Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xA06E7934<!--{0.SimFirstName} is a Cancer Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2154635568<!--Cancer Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Leo Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x4A90D8B9<!--{0.SimFirstName} is a Leo Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3739357428<!--Leo Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Virgo Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x809D2D6A<!--{0.SimFirstName} is a Virgo Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2665561705<!--Virgo Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Libra Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x25866CA8<!--{0.SimFirstName} is a Libra Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3123976786<!--Libra Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Scorpio Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x1B19D10C<!--{0.SimFirstName} is a Scorpio Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3923158167<!--Scorpio Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Sag Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x5CE73A0A<!--{0.SimFirstName} is a Sagittarius Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2405249506<!--Sag Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Cap Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xE22C69B1<!--{0.SimFirstName} is a Capricorn Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3178572581<!--Cap Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Aquarius Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x8CACEB3A<!--{0.SimFirstName} is an Aquarius Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>2243949835<!--Aquarius Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V n="Pisces Rising" t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="audio_sting" t="enabled">
+              <U n="enabled">
+                <T n="audio">39b2aa4a:00000000:c57f0f31a5151ccf</T>
+              </U>
+            </V>
+            <L n="dialog_options">
+              <E>SMALL_TITLE</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Icons\Buffs\Buff_PolarBear.png">2f7d0004:00000000:9e70fc72781bf9b1<!--Replace with Simstrology icon--></T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xB86C336A<!--{0.SimFirstName} is a Pisces Rising!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type"/>
+                  </V>
+                </L>
+              </U>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5637A95F<!--Birth chart is being revealed!--></T>
+            </V>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>3588503643<!--Pisces Rising--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

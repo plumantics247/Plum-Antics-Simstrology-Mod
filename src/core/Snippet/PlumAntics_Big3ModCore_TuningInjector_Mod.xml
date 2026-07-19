@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: 000000008FA0DFFD -->
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="PlumAntics_Big3Mod_TuningInjector_Mod" s="2409684989">
+  <T n="minimum_core_version">1.3.0</T>
+  <T n="mod_name">Big3 Mod</T>
+  <T n="creator_name">Plum Antics</T>
+  <L n="inject_by_object_tuning">
+    <U>
+      <T n="query">14965<!--object_sim--></T>
+      <L n="affordances">
+        <T>2223332939<!--Plum_Antics_Big3:Rising_Random--></T>
+        <T>3039060797<!-- PlumAntics_Big3_Sun_ByPersonality_SI --></T>
+        <T>1003985409<!--Rising by Time--></T>
+      </L>
+    </U>
+  </L>
+  <L n="inject_by_affordance">
+    <U>
+      <T n="query">225064<!--computer_Locking_LockForEveryone--></T>
+      <V n="object_locking_component" t="enabled">
+        <U n="enabled">
+          <L n="super_affordances">
+            <T>3039060797<!--PlumAntics_Big3Mod_Sun_ByPersonality_SI--></T>
+            <!-- PlumAntics_Big3_Sun_ByPersonality_SI -->
+            <T>383662816<!--PlumAntics_Big3Mod_Sun_Random--></T>
+            <!--PlumAntics_Big3_Sun_Random-->
+            <T>2223332939<!--PlumAntics_Big3Mod_Rising_Random--></T>
+            <!--Plum_Antics_Big3:Rising_Random-->
+            <T>3464372244<!--PlumAntics_Big3Mod_Moon_Random--></T>
+            <!--PlumAntics_Big3_Moon_Random-->
+            <T>263554064<!--PlumAntics_Big3Mod_Sun_BySeason_SI--></T>
+            <!--Sun by Season-->
+            <T>2587898005<!--PlumAntics_Big3Mod_Moon_bySun--></T>
+            <!--Moon by Sun-->
+            <T>1003985409<!--PlumAntics_Big3Mod_RisingbySeason--></T>
+            <!--Rising by Time-->
+            <T>16389319949537455140<!--Pisces Horoscope Access--></T>
+            <T>16185833362505074664<!--Aquarius Horoscope Access--></T>
+            <T>15614130157390511154<!--Capricorn Horoscope Access--></T>
+            <T>12408177403698102001<!--Sagittarius Horoscope Access--></T>
+            <T>10145680467861435204<!--Scorpio Horoscope Access--></T>
+            <T>11212065499379057377<!--Libra Horoscope Access--></T>
+            <T>9788300391250047718<!--Virgo Horoscope Access--></T>
+            <T>10132035704463837195<!--Leo Horoscope Access--></T>
+            <T>16658192281477529559<!--Cancer Horoscope Access--></T>
+            <T>10675959569148776550<!--Gemini Horoscope Access--></T>
+            <T>14005708572800976375<!--Taurus Horoscope Access--></T>
+            <T>12911345926887624517<!--Aries Horoscope Access--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+  </L>
+  <L n="inject_to_mixer_list">
+    <U>
+      <T n="mixer_list">24508<!--AffordanceList: social_Mixers_Friendly_NonTouching--></T>
+      <L n="mixers">
+        <T>2641071741<!--PlumAntics_Big3Mod_Compatibility_SocialInteraction--></T>
+      </L>
+    </U>
+    <U>
+      <T n="mixer_list">163702<!--AffordanceList: social_Mixers_Friendly_NonTouching_ForReference--></T>
+      <L n="mixers">
+        <T>2641071741<!--PlumAntics_Big3Mod_Compatibility_SocialInteraction--></T>
+      </L>
+    </U>
+  </L>
+  <L n="inject_to_buffs">
+    <U>
+      <T n="buff">34524<!--Buff_Trait_Teen--></T>
+      <L n="loot_on_instance">
+        <T>13880462707991368210<!--PlumAntics_Big3ModCore_SimstrologyRefreshContext_GeneralMoodsSubscriber--></T>
+      </L>
+    </U>
+    <U>
+      <T n="buff">34525<!--Buff_Trait_YoungAdult--></T>
+      <L n="loot_on_instance">
+        <T>13880462707991368210<!--PlumAntics_Big3ModCore_SimstrologyRefreshContext_GeneralMoodsSubscriber--></T>
+      </L>
+    </U>
+    <U>
+      <T n="buff">34526<!--Buff_Trait_Adult--></T>
+      <L n="loot_on_instance">
+        <T>13880462707991368210<!--PlumAntics_Big3ModCore_SimstrologyRefreshContext_GeneralMoodsSubscriber--></T>
+      </L>
+    </U>
+    <U>
+      <T n="buff">34527<!--Buff_Trait_Elder--></T>
+      <L n="loot_on_instance">
+        <T>13880462707991368210<!--PlumAntics_Big3ModCore_SimstrologyRefreshContext_GeneralMoodsSubscriber--></T>
+      </L>
+    </U>
+  </L>
+  <L n="inject_to_traits">
+    <U>
+      <T n="trait">2297406366<!--PlumAntics_Big3Mod_AriesRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">12918265563991796165<!--PlumAntics_Big3Mod_AriesRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_AriesRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2588878312<!--PlumAntics_Big3Mod_TaurusRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">16781599041655572655<!--PlumAntics_Big3Mod_TaurusRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_TaurusRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">4242808797<!--PlumAntics_Big3Mod_GeminiRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">15318617036624185942<!--PlumAntics_Big3Mod_GeminiRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_GeminiRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2154635568<!--PlumAntics_Big3Mod_CancerRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">17650666585668845927<!--PlumAntics_Big3Mod_CancerRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_CancerRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3739357428<!--PlumAntics_Big3Mod_LeoRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">17353441854101996323<!--PlumAntics_Big3Mod_LeoRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_LeoRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2665561705<!--PlumAntics_Big3Mod_VirgoRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">17328064852541690698<!--PlumAntics_Big3Mod_VirgoRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_VirgoRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3123976786<!--PlumAntics_Big3Mod_LibraRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">18010668368502624721<!--PlumAntics_Big3Mod_LibraRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_LibraRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3923158167<!--PlumAntics_Big3Mod_ScorpioRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">9663775449722735088<!--PlumAntics_Big3Mod_ScorpioRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_ScorpioRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2405249506<!--PlumAntics_Big3Mod_SagittariusRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">12690836346523195841<!--PlumAntics_Big3Mod_SagittariusRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_SagittariusRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3178572581<!--PlumAntics_Big3Mod_CapricornRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">15126636509739300526<!--PlumAntics_Big3Mod_CapricornRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_CapricornRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">2243949835<!--PlumAntics_Big3Mod_AquariusRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">15208459190816520284<!--PlumAntics_Big3Mod_AquariusRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_AquariusRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">3588503643<!--PlumAntics_Big3Mod_PiscesRising--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">16033514376581042540<!--PlumAntics_Big3Mod_PiscesRisingBuffHidden--></T>
+          <!--PlumAntics_Big3Mod_PiscesRisingBuffHidden-->
+        </U>
+      </L>
+    </U>
+  </L>
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="1453199743" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddSunSagittarius">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3298769274<!--PlumAntics_Big3Mod_SagittariusSun--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">810000000000000009<!--PlumAntics_Big3Mod_SagittariusSunOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

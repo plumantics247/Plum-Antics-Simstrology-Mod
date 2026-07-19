@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: DC48CC03AE482F19 -->
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="PlumAntics_Big3_testSet_Lunar_WG_7AM_7PM" s="15873161202848247577">
+  <L n="test">
+    <L>
+      <V t="lunar_phase">
+        <U n="lunar_phase">
+          <U n="phases_to_check">
+            <V n="whitelist" t="specify">
+              <U n="specify">
+                <L n="whitelist">
+                  <E>WANING_GIBBOUS</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </U>
+      </V>
+    </L>
+    <L>
+      <V t="day_and_time">
+        <U n="day_and_time">
+          <V n="time_range" t="enabled">
+            <U n="enabled">
+              <U n="begin_time">
+                <T n="hour">7</T>
+              </U>
+              <U n="duration">
+                <T n="hour">11</T>
+                <T n="minute">59</T>
+              </U>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

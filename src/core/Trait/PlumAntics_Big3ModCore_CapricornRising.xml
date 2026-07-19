@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000BD752B25 -->
+<I c="Trait" s="3178572581" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_CapricornRising">
+  <T n="display_name_gender_neutral">0xF9105B5E<!--Capricorn Rising--></T>
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">15126636509739300526<!--PlumAntics_Big3Mod_CapricornRisingBuffHidden--></T>
+    </U>
+  </L>
+  
+    <T n="trait_description">0xE66A0D74<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:a7baf83f0239d3ac</T>
+  <T n="display_name">0xF9105B5E<!--Capricorn Rising--></T>
+  <E n="trait_type">GAMEPLAY</E>
+      <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <!-- Chart marker traits now sync here, after Rising completes the full natal chart. -->
+      <T>830000000000009103<!--PlumAntics_CosmicEngineCore_SyncChartCompositionPythonLoot--></T>
+      <T>15701100331319163107<!--Instance Rising Sign Notices--></T>
+      <T>13736671501533187746<!--PlumAntics_Big3ModCore_EnsureBig3OverlaysPythonLoot--></T>
+    </L>
+  </V>
+  
+</I>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SocialMixerInteraction" i="interaction" m="interactions.social.social_mixer_interaction" n="PlumAntics_MoonCompatibility_ReactionMixer" s="830000000000042302">
+  <T n="allow_autonomous">True</T>
+  <T n="allow_user_directed">False</T>
+  <T n="visible">False</T>
+  <E n="target_type">TARGET</E>
+  <L n="interaction_category_tags">
+    <E>Interaction_Mixer</E>
+    <E>Interaction_All</E>
+    <E>Interaction_SocialAll</E>
+    <E>Interaction_SocialMixer</E>
+    <E>Interaction_Friendly</E>
+  </L>
+  <L n="basic_extras">
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>830000000000042501<!--PlumAntics_MoonCompatibility_AriesCompatibleReactionLoot--></T>
+          <T>830000000000042502<!--PlumAntics_MoonCompatibility_AriesIncompatibleReactionLoot--></T>
+          <T>830000000000042503<!--PlumAntics_MoonCompatibility_AriesNeutralReactionLoot--></T>
+          <T>830000000000042504<!--PlumAntics_MoonCompatibility_TaurusCompatibleReactionLoot--></T>
+          <T>830000000000042505<!--PlumAntics_MoonCompatibility_TaurusIncompatibleReactionLoot--></T>
+          <T>830000000000042506<!--PlumAntics_MoonCompatibility_TaurusNeutralReactionLoot--></T>
+          <T>830000000000042507<!--PlumAntics_MoonCompatibility_GeminiCompatibleReactionLoot--></T>
+          <T>830000000000042508<!--PlumAntics_MoonCompatibility_GeminiIncompatibleReactionLoot--></T>
+          <T>830000000000042509<!--PlumAntics_MoonCompatibility_GeminiNeutralReactionLoot--></T>
+          <T>830000000000042510<!--PlumAntics_MoonCompatibility_CancerCompatibleReactionLoot--></T>
+          <T>830000000000042511<!--PlumAntics_MoonCompatibility_CancerIncompatibleReactionLoot--></T>
+          <T>830000000000042512<!--PlumAntics_MoonCompatibility_CancerNeutralReactionLoot--></T>
+          <T>830000000000042513<!--PlumAntics_MoonCompatibility_LeoCompatibleReactionLoot--></T>
+          <T>830000000000042514<!--PlumAntics_MoonCompatibility_LeoIncompatibleReactionLoot--></T>
+          <T>830000000000042515<!--PlumAntics_MoonCompatibility_LeoNeutralReactionLoot--></T>
+          <T>830000000000042516<!--PlumAntics_MoonCompatibility_VirgoCompatibleReactionLoot--></T>
+          <T>830000000000042517<!--PlumAntics_MoonCompatibility_VirgoIncompatibleReactionLoot--></T>
+          <T>830000000000042518<!--PlumAntics_MoonCompatibility_VirgoNeutralReactionLoot--></T>
+          <T>830000000000042519<!--PlumAntics_MoonCompatibility_LibraCompatibleReactionLoot--></T>
+          <T>830000000000042520<!--PlumAntics_MoonCompatibility_LibraIncompatibleReactionLoot--></T>
+          <T>830000000000042521<!--PlumAntics_MoonCompatibility_LibraNeutralReactionLoot--></T>
+          <T>830000000000042522<!--PlumAntics_MoonCompatibility_ScorpioCompatibleReactionLoot--></T>
+          <T>830000000000042523<!--PlumAntics_MoonCompatibility_ScorpioIncompatibleReactionLoot--></T>
+          <T>830000000000042524<!--PlumAntics_MoonCompatibility_ScorpioNeutralReactionLoot--></T>
+          <T>830000000000042525<!--PlumAntics_MoonCompatibility_SagittariusCompatibleReactionLoot--></T>
+          <T>830000000000042526<!--PlumAntics_MoonCompatibility_SagittariusIncompatibleReactionLoot--></T>
+          <T>830000000000042527<!--PlumAntics_MoonCompatibility_SagittariusNeutralReactionLoot--></T>
+          <T>830000000000042528<!--PlumAntics_MoonCompatibility_CapricornCompatibleReactionLoot--></T>
+          <T>830000000000042529<!--PlumAntics_MoonCompatibility_CapricornIncompatibleReactionLoot--></T>
+          <T>830000000000042530<!--PlumAntics_MoonCompatibility_CapricornNeutralReactionLoot--></T>
+          <T>830000000000042531<!--PlumAntics_MoonCompatibility_AquariusCompatibleReactionLoot--></T>
+          <T>830000000000042532<!--PlumAntics_MoonCompatibility_AquariusIncompatibleReactionLoot--></T>
+          <T>830000000000042533<!--PlumAntics_MoonCompatibility_AquariusNeutralReactionLoot--></T>
+          <T>830000000000042534<!--PlumAntics_MoonCompatibility_PiscesCompatibleReactionLoot--></T>
+          <T>830000000000042535<!--PlumAntics_MoonCompatibility_PiscesIncompatibleReactionLoot--></T>
+          <T>830000000000042536<!--PlumAntics_MoonCompatibility_PiscesNeutralReactionLoot--></T>
+        </L>
+        <V n="timing" t="at_end">
+          <U n="at_end"/>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

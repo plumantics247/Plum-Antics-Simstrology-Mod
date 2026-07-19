@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000A9ACA047 -->
+<I c="Trait" s="2846662727" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_Venus">
+  <T n="display_name_gender_neutral">0xBD50B2BB<!--display_name_gender_neutral--></T>
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="trait_description">0x978ED44E<!--trait_description--></T>
+  <T n="icon">2f7d0004:00000000:8d91b3934b41e5cd</T>
+  <T n="display_name">0xBD50B2BB<!--display_name--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

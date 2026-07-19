@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LibraProgressedSunLoot" s="15657170912581422922">
+    <L n="loot_actions">
+        <V t="trait_add">
+            <U n="trait_add">
+                <E n="subject">Actor</E>
+                <T n="trait">14531976952067705793<!--PlumAntics_Big3ModHousesProgressions_LibraProgressedSun--></T>
+            </U>
+        </V>
+    </L>
+</I>

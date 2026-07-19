@@ -1,0 +1,11 @@
+schema_version: 1
+notes:
+  - Conflict rules are prefix based and run in order.
+  - In Phase 1 we let Sun flare override Sun background while flare is active.
+
+rules:
+  - id: flare_sun_overrides_background_sun
+    enabled: true
+    higher_prefix: FLARE_SUN_
+    lower_prefix: SKY_SUN_SIGN_
+    same_effect_group_only: false

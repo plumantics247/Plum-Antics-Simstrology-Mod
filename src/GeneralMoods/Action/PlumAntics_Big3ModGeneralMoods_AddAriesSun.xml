@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: C9F13F3317DEC96B -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddAriesSun" s="14551481359687141739">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xE46C4DD7<!--enabled--></T>
+          </V>
+          <T n="buff_type">2512699989<!--PlumAntics_Big3Mod_AriesSunBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

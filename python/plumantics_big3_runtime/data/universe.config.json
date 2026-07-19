@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0.0",
+  "engine": {
+    "tick_sim_minutes": 10,
+    "deterministic_seed_scope": "save",
+    "house_system": "WHOLE_SIGN",
+    "sim_effect_cooldown_minutes": 60,
+    "sun_effect_refresh_minutes": 1440,
+    "sun_effect_active_minutes": 120,
+    "sun_effect_start_hour": 8,
+    "element_effect_refresh_minutes": 1440,
+    "element_effect_active_minutes": 120,
+    "element_effect_start_hour": 16,
+    "rising_effect_refresh_minutes": 1440,
+    "rising_effect_active_minutes": 120,
+    "rising_effect_start_hour": 12,
+    "lunar_phase_refresh_minutes": 1440,
+    "lunar_phase_effect_active_minutes": 720,
+    "lunar_phase_effect_start_hour": 8,
+    "retrograde_effect_refresh_minutes": 360,
+    "force_apply_on_universe_shift": false,
+    "zone_load_reassert_ticks": 1,
+    "drain_legacy_controller_stats_on_tick": false,
+    "allow_controller_stat_removal": false,
+    "auto_refresh_start_on_script_load": false,
+    "auto_refresh_start_interval_sim_minutes": 10,
+    "auto_refresh_start_retry_sim_minutes": 2,
+    "auto_refresh_start_max_attempts": 120,
+    "startup_catchup_ticks": 2,
+    "max_sim_updates_per_tick": 20,
+    "auto_init_signs_on_first_tick": true,
+    "auto_init_age_whitelist": ["INFANT", "TODDLER", "CHILD"],
+    "auto_init_infants_only": true,
+    "natal_cache_max_entries": 256,
+    "natal_cache_zone_only": false,
+    "read_only_mode": true
+  },
+  "v2": {
+    "enabled": true,
+    "use_astrocore": true,
+    "tick_sim_minutes": 10,
+    "auto_start_on_zone_load": false,
+    "startup_catchup_ticks": 1,
+    "event_history_minutes": 10080,
+    "mapping_files": {
+      "signals_to_buffs": "rules/v2/signals_to_buffs.yaml",
+      "signals_to_loots": "rules/v2/signals_to_loots.yaml",
+      "flare_schedule": "rules/v2/flare_schedule.yaml",
+      "priorities": "rules/v2/priorities.yaml",
+      "debug_flags": "rules/v2/debug_flags.yaml"
+    },
+    "assignment": {
+      "auto_assign_children_on_zone_load": true,
+      "auto_assign_children_overwrite_existing": false,
+      "run_refresh_router_after_assignment": false,
+      "default_sun_mode_child": "season",
+      "default_moon_mode_child": "natal",
+      "default_rising_mode_child": "sun_time",
+      "default_sun_mode_teen_plus": "personality",
+      "default_moon_mode_teen_plus": "lunar_phase",
+      "default_rising_mode_teen_plus": "sun_time",
+      "refresh_router_loot_id": 13880462707991368209,
+      "loot_ids": {
+        "sun_season": 15701160429011615151,
+        "sun_personality": 2005184750,
+        "moon_lunar_phase": 13736671501533187751,
+        "moon_random": 13736671501533187752,
+        "rising_sun_time": 13736671501533187750,
+        "rising_random": 13736671501533187753
+      }
+    }
+  },
+  "zodiac_order": [
+    "ARIES",
+    "TAURUS",
+    "GEMINI",
+    "CANCER",
+    "LEO",
+    "VIRGO",
+    "LIBRA",
+    "SCORPIO",
+    "SAGITTARIUS",
+    "CAPRICORN",
+    "AQUARIUS",
+    "PISCES"
+  ],
+  "timebase": {
+    "sim_minutes_per_day": 1440,
+    "lunar_cycle_days": 30,
+    "sim_year_days": 28
+  },
+  "planets": {
+    "SUN": {
+      "mode": "time_step",
+      "sign_delta": 1,
+      "every_sim_days": 30
+    },
+    "MOON": {
+      "mode": "time_step",
+      "sign_delta": 1,
+      "every_sim_days": 2.5
+    },
+    "MERCURY": {
+      "mode": "time_step",
+      "sign_delta": 1,
+      "every_sim_days": 45
+    },
+    "VENUS": {
+      "mode": "lifecycle_sweep",
+      "signs_per_age_stage": 12,
+      "anchor": "JUPITER_EPOCH"
+    },
+    "MARS": {
+      "mode": "time_step",
+      "sign_delta": 1,
+      "every_lunar_cycles": 2
+    },
+    "JUPITER": {
+      "mode": "age_up_step",
+      "signs_per_age_up": 1.0
+    },
+    "SATURN": {
+      "mode": "age_up_step",
+      "signs_per_age_up": 0.5
+    }
+  },
+  "retrogrades": {
+    "enabled": true,
+    "sim_year_days": 28,
+    "target_quiet_ratio": 0.7,
+    "max_active_planets": 2,
+    "priority": [
+      "MERCURY",
+      "VENUS",
+      "MARS",
+      "JUPITER",
+      "SATURN"
+    ],
+    "provider": "rules/retrogrades.rules.json"
+  },
+  "effects_provider": "rules/effects.rules.json",
+  "ids_provider": "ids.registry.json",
+  "state_provider": "universe_state.json"
+}

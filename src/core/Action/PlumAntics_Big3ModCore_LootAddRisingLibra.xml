@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="3167729891" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddRisingLibra">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3123976786<!--Libra Rising--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">820000000000000007<!--PlumAntics_Big3Mod_LibraRisingOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

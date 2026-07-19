@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0B3DB2B55C11000C -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_VirgoSunOverlay" s="810000000000000012">
+<L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+<E n="cas_allowed_pack">BASE_GAME</E>
+<T n="display_name">0xB4947974<!--Virgo Sun--></T>
+<T n="display_name_gender_neutral">0xB4947974<!--Virgo Sun--></T>
+<T n="icon">2f7d0004:00000000:cf969d1aba8ed2da</T>
+<L n="buffs">
+<U>
+      <T n="buff_type">14017576306466221091<!--PlumAntics_Big3ModCore_VirgoSunBuffHidden--></T>
+    </U>
+  </L>
+<L n="initial_commodities">
+    <T>15342940745898194103<!--PlumAntics_Big3Mod_VirgoSunController--></T>
+  </L>
+<V n="whim_set" t="enabled">
+    <T n="enabled">34807<!--ObjectivelessWhimSet: whimset_HasTraitPerfectionist--></T>
+  </V>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>168040<!--LootActions: loot_Statistic_LifeSkill_Responsibility_Trait_GainSmall--></T>
+    </L>
+  </V>
+<L n="species">
+    <E>HUMAN</E>
+  </L>
+<T n="trait_description">0x8F58C3B6<!--trait_description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0B6139A7CBD20007 -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_LibraRisingOverlay" s="820000000000000007">
+<L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+<T n="display_name">0x9684D5D2<!--Libra Rising--></T>
+<T n="display_name_gender_neutral">0x9684D5D2<!--Libra Rising--></T>
+<T n="icon">2f7d0004:00000000:c6ab1ef7b863eee5</T>
+<L n="initial_commodities">
+    <T>9693819171056466082<!--initial_commodities--></T>
+  </L>
+<T n="trait_description">0x92C933F1<!--trait_description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

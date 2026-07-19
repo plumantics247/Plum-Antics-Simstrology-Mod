@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: 00000000BEA22E9D -->
+<I c="Buff" s="3198299805" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_PiscesMoonFullMoonBuff">
+  <T n="buff_description">0xC0154F8A<!--buff_description--></T>
+  <T n="icon">2f7d0004:00000000:b77dfbf04257c44a</T>
+  <T n="buff_name">0xA22F2F2C<!--buff_name--></T>
+  <T n="mood_type">12435283403671063185<!--mood_type--></T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+</I>
+

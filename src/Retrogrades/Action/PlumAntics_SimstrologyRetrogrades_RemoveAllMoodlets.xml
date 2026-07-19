@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance:  -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_SimstrologyRetrogrades_RemoveAllMoodlets" s="11800000000000000001">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>4036077646<!--PlumAntics_Big3Mod_Retrogrades_MercuryRetrograde--></T>
+          <T>2185889910<!--PlumAntics_Big3Mod_Retrogrades_VenusRetrograde--></T>
+          <T>7862920393933891901<!--PlumAntics_Big3Mod_Retrogrades_MarsRetrograde--></T>
+          <T>9180939472296201743<!--PlumAntics_Big3Mod_Retrogrades_JupiterRetrograde--></T>
+          <T>4170985090624437402<!--PlumAntics_Big3Mod_Retrogrades_SaturnRetrograde--></T>
+          <T>4270170506<!--PlumAntics_Big3Mod_Retrogrades_MercuryRetrogradeIntensifier--></T>
+          <T>4119263588<!--PlumAntics_Big3Mod_Retrogrades_VenusRetrogradeIntensified--></T>
+          <T>1530688080417339088<!--PlumAntics_Big3Mod_Retrogrades_MarsRetrogradeIntense--></T>
+          <T>4606640800008067724<!--PlumAntics_Big3Mod_Retrogrades_JupiterRetrogradeIntense--></T>
+          <T>8972311338386696142<!--PlumAntics_Big3Mod_Retrogrades_SaturnRetrogradeIntense--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

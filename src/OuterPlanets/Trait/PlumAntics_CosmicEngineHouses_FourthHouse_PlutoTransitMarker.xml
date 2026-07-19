@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FourthHouse_PlutoTransitMarker" s="3131414847960262173">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x89067BF5<!--Pluto Transiting The 4th House: Basement Excavation--></T>
+    <T n="display_name_gender_neutral">0x89067BF5<!--Pluto Transiting The 4th House: Basement Excavation--></T>
+        <T n="icon">2f7d0004:00000000:c4e8a91b5fd07236</T>
+    <T n="trait_description">0xDB1B64A2<!--Home life pulls up buried feelings, old power dynamics, and necessary repairs.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

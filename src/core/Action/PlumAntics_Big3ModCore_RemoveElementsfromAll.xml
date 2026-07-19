@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000D5CCCB31 -->
+<I c="LootActions" s="3586968369" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_RemoveElementsfromAll">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">2303998354<!--PlumAntics_Big3Mod_RemoveElementsfromAllBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

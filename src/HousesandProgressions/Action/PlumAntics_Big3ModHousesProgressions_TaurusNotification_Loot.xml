@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: DCBD5F5780042A52 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_TaurusNotification_Loot" s="15905974288357010002">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="icon_override_participant" t="enabled">
+              <E n="enabled">Actor</E>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xBBB31E9C<!--1st House - (Identity) Taurus / \n                 2nd House - (Possessions) Gemini / \n                 3rd House - (Communication) Cancer / \n                 4th House - (Home) Leo / \n                 5th House - (Romance) Virgo / \n                 6th House - (Health) Libra / \n                 7th House - (Partnerships) Scorpio / \n                 8th House - (Intimacy) Sagittarius / \n                 9th House - (Philosophy) Capricorn / \n                 10th House - (Reputation) Aquarius / \n                 11th House - (Community) Pisces / \n                 12th House - (Spirituality) Aries  \n               Taurus in your 1st House provides a grounded, steady foundation for how you move through life. You approach experiences with patience, persistence, and a strong desire for stability, allowing growth to unfold at a natural pace. Over time, this consistency becomes a quiet strength that supports lasting achievements across all areas of life.--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x66EE12FF<!--{0.SimFirstName}'s House Wheel Revealed--></T>
+            </V>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>2588878312<!--PlumAntics_CosmicEngineCore_TaurusRising--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+          </L>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

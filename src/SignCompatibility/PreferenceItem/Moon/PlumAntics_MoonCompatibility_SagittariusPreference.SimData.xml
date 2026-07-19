@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001B">
+  <Instances>
+    <I name="PlumAntics_MoonCompatibility_SagittariusPreference" schema="CharacteristicPreferenceItem" type="Object">
+      <T name="cas_preference_category">4100000002</T>
+      <T name="dislike">4100130009</T>
+      <T name="like">4100120009</T>
+      <V name="tooltip" variant="0xC1A03855"/>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="CharacteristicPreferenceItem" schema_hash="0x0656776F">
+      <Columns>
+        <Column name="cas_preference_category" type="TableSetReference" flags="0x00000000"/>
+        <Column name="dislike" type="TableSetReference" flags="0x00000000"/>
+        <Column name="like" type="TableSetReference" flags="0x00000000"/>
+        <Column name="tooltip" type="Variant" flags="0x00000000"/>
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: BAC364CF191EA55E -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_FullMoonTest" s="13457710952155620702">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">14156328260249158250<!--PlumAntics_Big3Mod_RemoveAllMoonBuffs--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2597815038<!--PlumAntics_Big3Mod_FullMoonBuffLoot--></T>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="lunar_phase">
+        <U n="lunar_phase">
+          <U n="phases_to_check">
+            <V n="whitelist" t="specify">
+              <U n="specify">
+                <L n="whitelist">
+                  <E>FULL_MOON</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

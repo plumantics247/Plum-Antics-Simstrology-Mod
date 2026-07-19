@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 8C62E8EDEDA82CCD -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddLeoSun" s="10115903821619670221">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xF1D4D915<!--enabled--></T>
+          </V>
+          <T n="buff_type">2592894131<!--PlumAntics_Big3Mod_LeoSunBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

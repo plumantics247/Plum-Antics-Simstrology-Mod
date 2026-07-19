@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineNatal_SeventhHouse_VenusHidden" s="3130747586">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x6F3B513F<!--PlumAntics_CosmicEngineNatal_SeventhHouse_VenusHidden--></T>
+    <T n="display_name_gender_neutral">0x6F3B513F<!--PlumAntics_CosmicEngineNatal_SeventhHouse_VenusHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

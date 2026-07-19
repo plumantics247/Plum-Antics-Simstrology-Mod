@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: E10911D69CE56A48 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AddSagRising" s="16215511546777135688">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x83342023<!--from Sag Rising trait--></T>
+          </V>
+          <T n="buff_type">3709549729<!--PlumAntics_Big3Mod_SagittariusRisingBuff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

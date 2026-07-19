@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_CosmicEngineCore_RemoveAllSunCheat" s="1609677235941941370">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>16288319043707067282<!--PlumAntics_CosmicEngineCore_AquariusSun_Hidden--></T>
+              <T>3932245235<!--PlumAntics_CosmicEngineCore_AriesSun_Hidden--></T>
+              <T>12091197855899330377<!--PlumAntics_CosmicEngineCore_CancerSun_Hidden--></T>
+              <T>15465208666713751968<!--PlumAntics_CosmicEngineCore_CapricornSun_Hidden--></T>
+              <T>10107303776473103836<!--PlumAntics_CosmicEngineCore_GeminiSun_Hidden--></T>
+              <T>14093019412093895405<!--PlumAntics_CosmicEngineCore_LeoSun_Hidden--></T>
+              <T>11215395001044549951<!--PlumAntics_CosmicEngineCore_LibraSun_Hidden--></T>
+              <T>15277227368229634790<!--PlumAntics_CosmicEngineCore_PiscesSun_Hidden--></T>
+              <T>11824469484379778247<!--PlumAntics_CosmicEngineCore_SagittariusSun_Hidden--></T>
+              <T>14045417915393411558<!--PlumAntics_CosmicEngineCore_ScorpioSun_Hidden--></T>
+              <T>12556226773632840593<!--PlumAntics_CosmicEngineCore_TaurusSun_Hidden--></T>
+              <T>18095672257494000204<!--PlumAntics_CosmicEngineCore_VirgoSun_Hidden--></T>
+              <T>4201053282<!--PlumAntics_Big3Mod_Sun--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>12694872902875939444<!--PlumAntics_CosmicEngineCore_AquariusSunBuff--></T>
+          <T>11610842109984444720<!--PlumAntics_CosmicEngineCore_AquariusSunBuffHidden--></T>
+          <T>11197750906565331187<!--PlumAntics_CosmicEngineCore_AriesSunBuff--></T>
+          <T>10821904528065686559<!--PlumAntics_CosmicEngineCore_AriesSunBuffHidden--></T>
+          <T>16645276980505318593<!--PlumAntics_CosmicEngineCore_CancerSunBuff--></T>
+          <T>16663894096993910081<!--PlumAntics_CosmicEngineCore_CancerSunBuffHidden--></T>
+          <T>13658796761571732770<!--PlumAntics_CosmicEngineCore_CapricornSunBuff--></T>
+          <T>10739168086394901914<!--PlumAntics_CosmicEngineCore_CapricornSunBuffHidden--></T>
+          <T>13843832103308388454<!--PlumAntics_CosmicEngineCore_GeminiSunBuff--></T>
+          <T>15285997527803803998<!--PlumAntics_CosmicEngineCore_GeminiSunBuffHidden--></T>
+          <T>10891381973622780061<!--PlumAntics_CosmicEngineCore_LeoSunBuff--></T>
+          <T>16082690290077869853<!--PlumAntics_CosmicEngineCore_LeoSunBuffHidden--></T>
+          <T>11901496569943356375<!--PlumAntics_CosmicEngineCore_LibraSunBuff--></T>
+          <T>16101392659398590387<!--PlumAntics_CosmicEngineCore_LibraSunBuffHidden--></T>
+          <T>16878523044582554880<!--PlumAntics_CosmicEngineCore_PiscesSunBuff--></T>
+          <T>14156345427647168908<!--PlumAntics_CosmicEngineCore_PiscesSunBuffHidden--></T>
+          <T>11746371270834916079<!--PlumAntics_CosmicEngineCore_SagittariusSunBuff--></T>
+          <T>17273018078151553179<!--PlumAntics_CosmicEngineCore_SagittariusSunBuffHidden--></T>
+          <T>10201049796527657472<!--PlumAntics_CosmicEngineCore_ScorpioSunBuff--></T>
+          <T>15055307721298194060<!--PlumAntics_CosmicEngineCore_ScorpioSunBuffHidden--></T>
+          <T>17877028389614126457<!--PlumAntics_CosmicEngineCore_TaurusSunBuff--></T>
+          <T>14960939056026710665<!--PlumAntics_CosmicEngineCore_TaurusSunBuffHidden--></T>
+          <T>15651293581463312950<!--PlumAntics_CosmicEngineCore_VirgoSunBuff--></T>
+          <T>17659546505842318830<!--PlumAntics_CosmicEngineCore_VirgoSunBuffHidden--></T>
+        </L>
+      </U>
+    </V>
+    <V n="Clear Known Chemistry Pair Memory" t="actions">
+      <T n="actions">830000000000009604<!--PlumAntics_CosmicEngineCore_ClearKnownChemistryFromSunChange--></T>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_TenthHouse_SaturnTransitMarker" s="12993579658840493030">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x5DE86307<!--Saturn Transiting The 10th House:Earned Authority--></T>
+    <T n="display_name_gender_neutral">0x5DE86307<!--Saturn Transiting The 10th House:Earned Authority--></T>
+        <T n="icon">2f7d0004:00000000:cb4b88eeabc3f4c1</T>
+    <T n="trait_description">0x362DDF00<!--Progress is slower, but real: prove it, document it, become undeniable.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

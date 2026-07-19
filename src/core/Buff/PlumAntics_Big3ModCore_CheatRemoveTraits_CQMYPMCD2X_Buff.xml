@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<I c="Buff" s="3966292609" i="buff" m="buffs.buff" n="PlumAntics_Big3Mod_CheatRemoveTraits_CQMYPMCD2X_Buff">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">1</T>
+    </U>
+  </V>
+  <L n="_loot_on_addition">
+    <T>3509559920<!--PlumAntics_Big3Mod_CheatRemoveTraitsGeminiSunLoot--></T>
+  </L>
+  <T n="visible">False</T>
+</I>

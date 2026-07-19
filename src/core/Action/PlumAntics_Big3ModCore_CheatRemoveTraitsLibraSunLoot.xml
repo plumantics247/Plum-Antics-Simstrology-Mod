@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 00000000F76CCC54 -->
+<I c="LootActions" s="4151102548" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_CheatRemoveTraitsLibraSunLoot">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">2554733836<!--PlumAntics_Big3Mod_RemoveElementsfromLibraSun--></T>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: 184E2EC5D85EE9B3 -->
+<I c="AffordanceList" i="snippet" m="snippets" n="PlumAntics_Big3Mod_Interactions_Compliments" s="1751388732367235507">
+  <L n="value">
+    <T>192508<!--celebrity_Socials_Acquaintance_Low_ExclaimAdoration--></T>
+    <T>274971<!--mixer_social_AdmireNewlyweds--></T>
+    <T>132345<!--mixer_social_AskToDeliverCompliment_Targeted_Friendly_AlwaysOn_WaitStaff--></T>
+    <T>305687<!--mixer_Social_BabyShower_CongratulateHost--></T>
+    <T>29375<!--mixer_social_ComplimentArt_targeted_Friendly_alwaysOn_skills--></T>
+    <T>35490<!--mixer_social_ComplimentColorChoices_targeted_Friendly_alwaysOn_situation_Day1DLC--></T>
+    <T>187811<!--mixer_social_ComplimentCostume_Targeted_Friendly--></T>
+    <T>35495<!--mixer_social_ComplimentCostume_targeted_Friendly_alwaysOn_situation_Day1DLC--></T>
+    <T>98639<!--mixer_social_ComplimentHouse_targeted_friendly_alwaysOn_neighbor--></T>
+    <T>37013<!--mixer_social_ComplimentOutfit_targeted_Friendly_alwaysOn_skills--></T>
+    <T>34954<!--mixer_social_Congratulate_targeted_Friendly_alwaysOn_event--></T>
+    <T>274968<!--mixer_social_CongratulateEngagement--></T>
+    <T>274969<!--mixer_social_CongratulateMarriage--></T>
+    <T>113375<!--mixer_social_CongratulateOnPromotion_Targeted_Friendly_AlwaysOn_ActiveCareer--></T>
+    <T>226580<!--mixer_Social_E-Sports_ComplimentSkills--></T>
+    <T>26913<!--mixer_social_Flatter_targeted_Friendly_alwaysOn--></T>
+    <T>25945<!--mixer_social_GivePepTalk_targeted_friendly_emotionSpecific--></T>
+    <T>25910<!--mixer_social_HeartfeltCompliment_targeted_friendly_emotionSpecific--></T>
+    <T>75758<!--mixer_social_HighFive_targeted_friendly_alwaysOn_teen--></T>
+    <T>308756<!--mixer_Social_JobLoss_CongratulateOnNewJob--></T>
+    <T>107173<!--mixer_social_OffertoPumpup_targeted_Friendly_Athlete_AlwaysOn_STC--></T>
+    <T>98977<!--mixer_social_PraiseForGoodGrades_targeted_Friendly_alwaysOn_child_teen--></T>
+    <T>113360<!--mixer_social_PraiseWorkEthic_Targeted_Friendly_AlwaysOn_ActiveCareer--></T>
+    <T>27693<!--mixer_social_PumpUp_targeted_friendly_alwaysOn--></T>
+    <T>287098<!--mixer_Social_WerewolfPack_PraiseValue_PackA--></T>
+    <T>287107<!--mixer_Social_WerewolfPack_PraiseValue_PackB--></T>
+    <T>33756<!--mixer_social_WritingJournalism_ArticlePositive_Thanks_targeted_Friendly_alwaysOn--></T>
+    <T>316871<!--mixer_socials_Toddler_Friendly_CrossAge_Interactions_Reassure--></T>
+    <T>287024<!--social_Friendly_PubertyChanges_Support_Acne--></T>
+    <T>287025<!--social_Friendly_PubertyChanges_Support_Hair_Body--></T>
+    <T>287026<!--social_Friendly_PubertyChanges_Support_Hair_Face--></T>
+    <T>283602<!--socialMixerInteraction_Moodlet_NPCPost_Friendly_PositiveMood--></T>
+    <T>154826<!--socials_Targeted_Friendly_AlwaysOn_STC_Toddler_Compliment--></T>
+    <T>320810<!--socials_Targeted_Friendly_AlwaysOn_STC_Toddler_Compliment_PraiseMess--></T>
+    <T>202251<!--socials_Targeted_Friendly_AlwaysOn_StyleInfluencer_ComplimentStyle--></T>
+    <T>184775<!--socials_Targeted_Friendly_HolidaySocials_AdmireGhosts--></T>
+    <T>221918<!--socials_Targeted_Friendly_StudentCommons_Arts_Poetry_Praise--></T>
+    <T>307437<!--socialSuperInteraction_Child_Confidence_PraiseEffort--></T>
+  </L>
+</I>

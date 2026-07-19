@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineNatal_CapricornMoonHidden" s="790812961">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x7A546F93<!--PlumAntics_CosmicEngineNatal_CapricornMoonHidden--></T>
+    <T n="display_name_gender_neutral">0x7A546F93<!--PlumAntics_CosmicEngineNatal_CapricornMoonHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

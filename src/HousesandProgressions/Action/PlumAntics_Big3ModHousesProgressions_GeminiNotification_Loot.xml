@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 9F9538847F914AD8 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_GeminiNotification_Loot" s="11499159365287496408">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="icon_override_participant" t="enabled">
+              <E n="enabled">Actor</E>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x85552222<!--1st House â€“ (Identity) Gemini / \n  2nd House â€“ (Possessions) Cancer / \n  3rd House â€“ (Communication) Leo / \n  4th House â€“ (Home) Virgo / \n  5th House â€“ (Romance) Libra / \n  6th House â€“ (Health) Scorpio / \n  7th House â€“ (Partnerships) Sagittarius / \n  8th House â€“ (Intimacy) Capricorn / \n  9th House â€“ (Philosophy) Aquarius / \n  10th House â€“ (Reputation) Pisces / \n  11th House â€“ (Community) Aries / \n  12th House â€“ (Spirituality) Taurus \n  Gemini in your 1st House highlights curiosity, adaptability, and mental agility as core life tools. You navigate the world through ideas, conversations, and connections, learning as you go and reshaping your path through insight and exchange. Your growth comes from staying engaged, asking questions, and remaining open to new perspectives.--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x66EE12FF<!--{0.SimFirstName}'s House Wheel Revealed--></T>
+            </V>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>4242808797<!--PlumAntics_CosmicEngineCore_GeminiRising--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+          </L>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

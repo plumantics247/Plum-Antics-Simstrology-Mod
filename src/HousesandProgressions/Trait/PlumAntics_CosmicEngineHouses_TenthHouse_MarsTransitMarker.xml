@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_TenthHouse_MarsTransitMarker" s="213683403361375639">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x8559B0F2<!--Mars Transiting The 10th House: Ambition Ignition--></T>
+    <T n="display_name_gender_neutral">0x8559B0F2<!--Mars Transiting The 10th House: Ambition Ignition--></T>
+        <T n="icon">2f7d0004:00000000:f78fef9af9f01a60</T>
+    <T n="trait_description">0x9400E7DE<!--You're pushing for results; bosses may love it or fear it.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

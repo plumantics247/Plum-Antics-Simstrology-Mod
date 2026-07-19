@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 0000000083916040 -->
+<I c="LootActions" s="2207342656" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_CheatRemoveTraitsCancerSunLoot">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">2808542826<!--actions--></T>
+    </V>
+  </L>
+</I>

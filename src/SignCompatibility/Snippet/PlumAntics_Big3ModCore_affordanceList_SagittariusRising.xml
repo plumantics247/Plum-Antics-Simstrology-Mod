@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: F9B64594F267B6E8 -->
+<I c="AffordanceList" i="snippet" m="snippets" n="PlumAntics_Big3Mod_affordanceList_SagittariusRising" s="17993645867229755112">
+  <L n="value">
+    <T>223554<!--mixer_social_CollegeOrganizations_SchoolSpirit_Prank_TellJokeAboutScienceUniversity--></T>
+    <T>32048<!--mixer_social_FunniestJokeInTheWorld_group_Funny_HighScore--></T>
+    <T>33219<!--mixer_social_HorrifyingJoke_targeted_funny_alwaysOn--></T>
+    <T>26410<!--mixer_social_InsideJoke_group_Funny_MediumScore--></T>
+    <T>113599<!--mixer_social_JokeAboutCoworkers_Targeted_Funny_AlwaysOn_ActiveCareer--></T>
+    <T>30898<!--mixer_social_JokeAboutFashion_targeted_funny_alwaysOn_Skills--></T>
+    <T>274970<!--mixer_social_JokeAboutMarriage--></T>
+    <T>284984<!--mixer_social_JokeAboutMarriage_ActorEngaged--></T>
+    <T>26414<!--mixer_social_JokeAboutOldTimes_group_Funny_MediumScore--></T>
+    <T>35492<!--mixer_social_JokeAboutPenguins_targeted_Friendly_alwaysOn_situation_Day1DLC--></T>
+    <T>26411<!--mixer_social_JokeAboutPoliticians_group_Funny_MediumScore--></T>
+    <T>30759<!--mixer_social_KnockKnockJoke_targeted_funny_alwaysOn_skills--></T>
+    <T>40374<!--mixer_social_MakeFunOfAdults_targeted_funny_alwaysOn_child--></T>
+    <T>107222<!--mixer_social_MakeFunOfCorporateGoons_Targeted_Funny_AlwaysOn_Career--></T>
+    <T>31692<!--mixer_social_MakeFunOfNoobs_targeted_funny_alwaysOn_skills--></T>
+    <T>25907<!--mixer_social_SelfDeprecatingJoke_group_funny_emotionSpecific--></T>
+    <T>40373<!--mixer_social_TellJoke_group_Funny_alwaysOn_child--></T>
+    <T>154241<!--mixer_social_toddler_Funny_JokeAboutChickenButt--></T>
+    <T>143936<!--mixer_social_Toddler_Funny_Tell_Knock_Knock_Joke--></T>
+    <T>30749<!--mixer_social_TryOutMaterial_targeted_funny_alwaysOn--></T>
+    <T>154552<!--mixer_social_Vampire_MakeVampirePun_Targeted_Funny_AlwaysOn--></T>
+    <T>33218<!--mixer_social_WeaponizedJoke_targeted_funny_alwaysOn--></T>
+    <T>147465<!--mixer_Socials_JokeAboutPi_Targeted_Funny_AlwaysOn_STC_LogicFestival--></T>
+    <T>147466<!--mixer_Socials_JokeAboutRocketWoohoo_Targeted_Funny_AlwaysOn_STC_LogicFestival--></T>
+    <T>25670<!--mixer_socials_TellJoke_group_Funny_alwaysOn--></T>
+    <T>286658<!--mixer_socials_TellJoke_group_Funny_alwaysOn_Werewolf--></T>
+    <T>197912<!--mixer_socials_TellJoke_group_Funny_alwaysOn_WittyTakedown--></T>
+    <T>287035<!--social_Funny_PubertyChanges_Joke_Acne--></T>
+    <T>287036<!--social_Funny_PubertyChanges_Joke_Hair_Body--></T>
+    <T>287037<!--social_Funny_PubertyChanges_Joke_Hair_Face--></T>
+    <T>147292<!--socials_Targeted_Funny_AlwaysOn_STC_LampFestival_JokeAboutDarkTeam--></T>
+    <T>190162<!--socials_Targeted_Funny_AlwaysOn_STC_Scarecrow_TellHarvestJokes--></T>
+    <T>177221<!--socials_Targeted_Skeleton_LearnSkeletonJoke--></T>
+    <T>176219<!--socials_Targeted_Skeleton_TellJokeAboutSkeletons--></T>
+  </L>
+</I>

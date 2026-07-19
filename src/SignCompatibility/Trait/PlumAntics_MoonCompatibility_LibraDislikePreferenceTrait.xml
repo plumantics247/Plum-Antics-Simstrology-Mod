@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<I c="Preference" s="4100130007" i="trait" m="traits.preference" n="PlumAntics_MoonCompatibility_LibraDislikePreferenceTrait">
+  <T n="trait_origin_description">0x00000000</T>
+  <T n="preference_item">4100110007</T>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <T n="icon">2f7d0004:00000000:eae18f05b6660da0</T>
+  <T n="display_name">0xA542001A</T>
+  <T n="display_name_gender_neutral">0xA542001A</T>
+  <T n="trait_description">0xA542001B</T>
+  <E n="trait_type">DISLIKE</E>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">830000000000041104</T>
+    </U>
+  </L>
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <L n="conflicting_traits">
+    <T>4100120007</T>
+  </L>
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<I c="LootActions" s="4262059296" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_LootAddRisingCapricorn">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">3178572581<!--Cap Rising--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">820000000000000004<!--PlumAntics_Big3Mod_CapricornRisingOverlay--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

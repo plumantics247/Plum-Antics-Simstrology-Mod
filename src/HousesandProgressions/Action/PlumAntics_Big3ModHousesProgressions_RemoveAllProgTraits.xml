@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: EB99768EB8F8C81F -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModHousesProgressions_RemoveAllProgTraits" s="16976730625710540831">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>2430415371153613317<!--PlumAntics_Big3Mod_ProgressedSun_Aquarius--></T>
+              <T>8960710436078173163<!--PlumAntics_Big3Mod_ProgressedSun_Aries--></T>
+              <T>9482021035416149987<!--PlumAntics_Big3Mod_ProgressedSun_Cancer--></T>
+              <T>12757816750258922783<!--PlumAntics_Big3Mod_ProgressedSun_Capricorn--></T>
+              <T>3020418863475258838<!--PlumAntics_Big3Mod_ProgressedSun_Gemini--></T>
+              <T>14016795132588088885<!--PlumAntics_Big3Mod_ProgressedSun_Leo--></T>
+              <T>10569329109792809204<!--PlumAntics_Big3Mod_ProgressedSun_Libra--></T>
+              <T>12963778258377165850<!--PlumAntics_Big3Mod_ProgressedSun_Pisces--></T>
+              <T>11835246999168645709<!--PlumAntics_Big3Mod_ProgressedSun_Sagittarius--></T>
+              <T>6149863072453466546<!--PlumAntics_Big3Mod_ProgressedSun_Scorpio--></T>
+              <T>1637815211027082137<!--PlumAntics_Big3Mod_ProgressedSun_Taurus--></T>
+              <T>5224110435693224387<!--PlumAntics_Big3Mod_ProgressedSun_Virgo--></T>
+              <T>13216465842102949165<!--PlumAntics_Big3ModHousesProgressions_AriesProgressedSun--></T>
+              <T>5953957637810307587<!--PlumAntics_Big3ModHousesProgressions_AquariusProgressedSun--></T>
+              <T>7919214858024667693<!--PlumAntics_Big3ModHousesProgressions_CancerProgressedSun--></T>
+              <T>5897751160630956732<!--PlumAntics_Big3ModHousesProgressions_CapricornProgressedSun--></T>
+              <T>17089497667938906938<!--PlumAntics_Big3ModHousesProgressions_GeminiProgressedSun--></T>
+              <T>2112115294144745887<!--PlumAntics_Big3ModHousesProgressions_LeoProgressedSun--></T>
+              <T>14531976952067705793<!--PlumAntics_Big3ModHousesProgressions_LibraProgressedSun--></T>
+              <T>16135404306587182352<!--PlumAntics_Big3ModHousesProgressions_PiscesProgressedSun--></T>
+              <T>11076948783815627390<!--PlumAntics_Big3ModHousesProgressions_SagittariusProgressedSun--></T>
+              <T>17006511625883094722<!--PlumAntics_Big3ModHousesProgressions_ScorpioProgressedSun--></T>
+              <T>380949979615310389<!--PlumAntics_Big3ModHousesProgressions_TaurusProgressedSun--></T>
+              <T>1447257088555882719<!--PlumAntics_Big3ModHousesProgressions_VirgoProgressedSun--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>12138083489731341024<!--PlumAntics_Big3Mod_ProgressedSunNotice_EvaluatedRecently--></T>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

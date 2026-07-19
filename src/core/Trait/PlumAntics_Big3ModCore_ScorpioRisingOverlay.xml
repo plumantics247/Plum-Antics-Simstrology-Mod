@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 0B6139A7CBD2000A -->
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_Big3Mod_ScorpioRisingOverlay" s="820000000000000010">
+<L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+  </L>
+<T n="display_name">0xA65645E8<!--scorpio Rising--></T>
+<T n="display_name_gender_neutral">0xA65645E8<!--scorpio Rising--></T>
+<T n="icon">2f7d0004:00000000:d6dab0297550fafe</T>
+<L n="initial_commodities">
+    <T>10840440660372883851<!--initial_commodities--></T>
+  </L>
+<V n="whim_set" t="enabled">
+    <T n="enabled">34800<!--ObjectivelessWhimSet: whimset_HasTraitLoner--></T>
+  </V>
+<T n="trait_description">0xA0560A88<!--trait_description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <V n="ui_category" t="disabled"/>
+</I>

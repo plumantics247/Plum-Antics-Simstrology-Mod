@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 015BECD184865BA6 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_AriesNotification_Loot" s="97932201534315430">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="icon_override_participant" t="enabled">
+              <E n="enabled">Actor</E>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x4B998AD4<!--1st House - (Identity) Aries / \n  2nd House - (Possessions) Taurus / \n  3rd House - (Communication) Gemini / \n  4th House - (Home) Cancer / \n  5th House - (Romance) Leo / \n  6th House - (Health) Virgo / \n  7th House - (Partnerships) Libra / \n  8th House - (Intimacy) Scorpio / \n  9th House - (Philosophy) Sagittarius / \n  10th House - (Reputation) Capricorn / \n  11th House - (Community) Aquarius / \n  12th House - (Spirituality) Pisces.\n Aries in your 1st House provides a strong platform for you to realize your goals, take charge of your life, and navigate through different life realms with confidence and initiative.--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x66EE12FF<!--{0.SimFirstName}'s House Wheel Revealed--></T>
+            </V>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>2297406366<!--PlumAntics_CosmicEngineCore_AriesRising--></T>
+          </L>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>12138083489731341025<!--PlumAntics_Big3Mod_HousesNotice_EvaluatedRecently--></T>
+          </L>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

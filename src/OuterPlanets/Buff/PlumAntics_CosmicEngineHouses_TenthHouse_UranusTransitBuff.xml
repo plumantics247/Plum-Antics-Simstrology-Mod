@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" s="7705713749945281198" i="buff" m="buffs.buff" n="PlumAntics_CosmicEngineHouses_TenthHouse_UranusTransitBuff">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x49BEE52F<!--Your public path starts zigging where everyone expected a zag.--></T>
+  <T n="icon">2f7d0004:00000000:a8f7344c2d7b91e1</T>
+  <T n="buff_name">0x1BA3FA78<!--Uranus Transiting The 10th House: Career Plot Twist--></T>
+  <T n="mood_type">15799275429558895056</T>
+  <T n="mood_weight">1</T>
+  <V n="_temporary_commodity_info" t="disabled" />
+</I>

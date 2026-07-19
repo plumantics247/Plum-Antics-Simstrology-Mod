@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: 51AEA25592DA8A4A -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3ModHousesProgressions_ProgressionsLootRouter" s="5885820251439532618">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">16116547569193105391<!--PlumAntics_Big3ModHousesProgressions_Assign_Teen--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17926610891450420303<!--PlumAntics_Big3ModHousesProgressions_Assign_YoungAdult--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">12357614814393314433<!--PlumAntics_Big3ModHousesProgressions_Assign_Adult--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17685983554967796857<!--PlumAntics_Big3ModHousesProgressions_Assign_Elder--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200031<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_VenusIntense--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200030<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_Venus--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200033<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_MarsIntense--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200032<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_Mars--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200035<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_JupiterIntense--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200034<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_Jupiter--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200037<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_SaturnIntense--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200036<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_Saturn--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200003<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_MercuryIntense--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">17131770190011200002<!--PlumAntics_Big3ModHousesProgressions_Retrogrades_ProgressionsShift_Mercury--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2088579289<!--PlumAntics_Big3ModHousesProgressions_ProgressedAriesNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2522614661<!--PlumAntics_Big3ModHousesProgressions_ProgressedTaurusNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">464382872<!--PlumAntics_Big3ModHousesProgressions_ProgressedGeminiNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">1396154493<!--PlumAntics_Big3ModHousesProgressions_ProgressedCancerNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">851005659<!--PlumAntics_Big3ModHousesProgressions_ProgressedLeoNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">3815890902<!--PlumAntics_Big3ModHousesProgressions_ProgressedVirgoNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">3407457405<!--PlumAntics_Big3ModHousesProgressions_ProgressedLibraNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">2842457616<!--PlumAntics_Big3ModHousesProgressions_ProgressedScorpioNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">3788096088<!--PlumAntics_Big3ModHousesProgressions_ProgressedSagNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">3389378871<!--PlumAntics_Big3ModHousesProgressions_ProgressedCapNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">322686014<!--PlumAntics_Big3ModHousesProgressions_ProgressedAquariusNotification_Loot--></T>
+    </V>
+    <V t="actions">
+      <T n="actions">334153958<!--PlumAntics_Big3ModHousesProgressions_ProgressedPiscesNotification_Loot--></T>
+    </V>
+  </L>
+</I>

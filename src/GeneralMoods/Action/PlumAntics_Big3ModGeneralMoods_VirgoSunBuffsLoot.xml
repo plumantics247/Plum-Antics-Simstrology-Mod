@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: A81DE6806C22071B -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_VirgoSunBuffsLoot" s="12114092011940874011">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">18158836170584441006<!--PlumAntics_Big3Mod_AddVirgoSun--></T>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>3413939915<!--PlumAntics_Big3Mod_VirgoSun--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

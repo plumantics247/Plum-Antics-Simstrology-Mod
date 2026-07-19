@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="PieMenuCategory" i="pie_menu_category" m="interactions.pie_menu_category" n="PlumAntics_CosmicEngineCore_SimstrologyChemistry_PieMenu" s="830000000000009116">
+  <T n="_collapsible">False</T>
+  <T n="_display_name">0xA53F1E30<!--Astrology Chemistry Intensity (Save-Wide)--></T>
+  <T n="_display_priority">6</T>
+  <T n="_icon">2f7d0004:00000000:9e70fc72781bf9b1</T>
+  <T n="_parent">3724778905<!--PlumAntics_Big3Mod_Discover_Natal_PieMenu--></T>
+</I>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<I c="CharacteristicPreferenceItem" s="4100210009" i="cas_preference_item" m="cas.cas_preference_item" n="PlumAntics_RisingCompatibility_SagittariusPreference">
+  <T n="cas_preference_category">4100000003</T>
+  <T n="dislike">4100230009</T>
+  <T n="like">4100220009</T>
+  <L n="trait_map">
+    <U>
+      <T n="key">2297406366<!--PlumAntics_Big3Mod_AriesRising--></T>
+      <T n="value">5</T>
+    </U>
+    <U>
+      <T n="key">3739357428<!--PlumAntics_Big3Mod_LeoRising--></T>
+      <T n="value">5</T>
+    </U>
+    <U>
+      <T n="key">2405249506<!--PlumAntics_Big3Mod_SagittariusRising--></T>
+      <T n="value">5</T>
+    </U>
+  </L>
+</I>

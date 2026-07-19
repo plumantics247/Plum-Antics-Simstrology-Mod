@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_FourthHouse_SaturnTransitMarker" s="8346766611712280451">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0xFBC117C4<!--Saturn Transiting The 4th House: Foundation Audit--></T>
+    <T n="display_name_gender_neutral">0xFBC117C4<!--Saturn Transiting The 4th House: Foundation Audit--></T>
+        <T n="icon">2f7d0004:00000000:cb4b88eeabc3f4c1</T>
+    <T n="trait_description">0x4745A7D8<!--Home life demands structure: repairs, routines, and emotional load-bearing beams.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: E0B3DCED7CD1004A -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_CancerRisingBuffsLoot" s="16191527997886496842">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">12232400334966095961<!--PlumAntics_Big3Mod_AddCancerRising--></T>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>2154635568<!--Cancer Rising--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

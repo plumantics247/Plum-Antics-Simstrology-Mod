@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: 5A719A30606756B2 -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_ScorpioRisingResidual' s='6517159668348311218'>
+  <L n='value'>
+    <T>131184<!--mixer_social_Blackmail_targeted_mean_alwaysOn--></T>
+    <T>26136<!--mixer_social_DeclareEnemy_targeted_mean_relationship--></T>
+    <T>250218<!--mixer_social_DeclareEnemy_targeted_mean_relationship_Batuu_SNPC--></T>
+    <T>193725<!--mixer_social_FeudBringer_BeginFued_targered_mean_alwaysOn--></T>
+    <T>193730<!--mixer_social_FeudBringer_BlameForFeud_targered_mean_alwaysOn--></T>
+    <T>242736<!--mixer_social_Fight_Batuu_Inspection_ActorIsFO--></T>
+    <T>282885<!--mixer_Social_Fight_HighSchool_Active_SchoolFight--></T>
+    <T>140820<!--mixer_social_Fight_targeted_ApartmentNeighborSituation_LoudNoises--></T>
+    <T>241301<!--mixer_social_Fight_targeted_CheckID_CriminalFight--></T>
+    <T>238466<!--mixer_social_Fight_targeted_CivicPolicy_Aggression--></T>
+    <T>238476<!--mixer_social_Fight_targeted_CivicPolicy_Aggression_Transition--></T>
+    <T>240537<!--mixer_social_Fight_targeted_Intimidate_For_Info--></T>
+    <T>26138<!--mixer_social_Fight_targeted_mean--></T>
+    <T>108106<!--mixer_social_Fight_targeted_mean_bear--></T>
+    <T>234558<!--mixer_social_Fight_targeted_mean_CommunityCloseness--></T>
+    <T>187113<!--mixer_social_Fight_targeted_mean_FatherWinter--></T>
+    <T>190096<!--mixer_social_Fight_targeted_mean_FlowerBunny--></T>
+    <T>245756<!--mixer_social_Fight_targeted_mean_FS4_ThreatenArrest--></T>
+  </L>
+</I>

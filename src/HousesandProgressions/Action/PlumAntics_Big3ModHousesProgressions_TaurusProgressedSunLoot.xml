@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="PlumAntics_Big3Mod_TaurusProgressedSunLoot" s="15708013603831418740">
+    <L n="loot_actions">
+        <V t="trait_add">
+            <U n="trait_add">
+                <E n="subject">Actor</E>
+                <T n="trait">380949979615310389<!--PlumAntics_Big3ModHousesProgressions_TaurusProgressedSun--></T>
+            </U>
+        </V>
+    </L>
+</I>

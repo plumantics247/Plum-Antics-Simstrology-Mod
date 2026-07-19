@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: 896F3DD246AA7197 -->
+<I c='AffordanceList' i='snippet' m='snippets' n='PlumAntics_Big3Mod_affordanceList_GeminiRisingResidual' s='9903202078949011863'>
+  <L n='value'>
+    <T>302932<!--mixer_social_BayArea_NPC_baygossip_Targeted_Friendly_AlwaysOn--></T>
+    <T>264831<!--mixer_social_CottageWorld_NPC_GossipAboutVillage_Targeted_Friendly_AlwaysOn--></T>
+    <T>125505<!--mixer_social_GoingOutSocials_TalkUpSim--></T>
+    <T>75851<!--mixer_social_Gossip_targeted_friendly_alwaysOn_teen--></T>
+    <T>25584<!--mixer_social_GossipAbout_targeted_friendly_alwaysOn--></T>
+    <T>286656<!--mixer_social_GossipAbout_targeted_friendly_alwaysOn_Werewolf--></T>
+    <T>108232<!--mixer_social_GossipAboutBear--></T>
+    <T>107597<!--mixer_social_GossipAboutCoworkers_Targeted_Friendly_AlwaysOn_coworkers--></T>
+    <T>98634<!--mixer_social_GossipAboutNeighbors_targeted_friendly_alwaysOn_neighbor--></T>
+    <T>113359<!--mixer_social_GossipAboutOfficeRomance_Targeted_Friendly_AlwaysOn_ActiveCareer--></T>
+    <T>107235<!--mixer_social_GossipAboutOfficeRomance_Targeted_Friendly_AlwaysOn_Career--></T>
+    <T>149424<!--mixer_social_GossipAboutVampires_Targeted_Friendly_AlwaysOn--></T>
+    <T>31678<!--mixer_social_GossipAboutVideoGamePros_targeted_friendly_alwaysOn_skills--></T>
+    <T>152919<!--mixer_social_GossipSakuraTea_Festival_Blossom_targeted_friendly--></T>
+    <T>280721<!--mixer_social_WeddingWorld_NPC_GrapevineGossip_Targeted_Friendly_AlwaysOn--></T>
+    <T>273767<!--mixer_socials_GossipAboutOtherParents_Targeted_Friendly_AlwaysOn_STC--></T>
+  </L>
+</I>

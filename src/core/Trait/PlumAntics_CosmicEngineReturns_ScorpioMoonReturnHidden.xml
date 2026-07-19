@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineReturns_ScorpioMoonReturnHidden" s="1271464458">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0x0E2E884E<!--PlumAntics_CosmicEngineReturns_ScorpioMoonReturnHidden--></T>
+    <T n="display_name_gender_neutral">0x0E2E884E<!--PlumAntics_CosmicEngineReturns_ScorpioMoonReturnHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

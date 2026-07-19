@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_TenthHouse_PlutoHidden" s="8626256498150555127">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0xE37F0492<!--PlumAntics_CosmicEngineHouses_TenthHouse_PlutoHidden--></T>
+    <T n="display_name_gender_neutral">0xE37F0492<!--PlumAntics_CosmicEngineHouses_TenthHouse_PlutoHidden--></T>
+    <E n="trait_type">HIDDEN</E>
+</I>

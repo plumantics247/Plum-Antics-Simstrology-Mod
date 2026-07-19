@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="PlumAntics_CosmicEngineHouses_TenthHouse_VenusTransitMarker" s="8936638632684541784">
+    <L n="ages">
+        <E>INFANT</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="display_name">0xB9624FF0<!--Venus Transiting The 10th House: Public Appeal--></T>
+    <T n="display_name_gender_neutral">0xB9624FF0<!--Venus Transiting The 10th House: Public Appeal--></T>
+        <T n="icon">2f7d0004:00000000:8d91b3934b41e5cd</T>
+    <T n="trait_description">0x8B5793B5<!--Your image smooths out; networking feels easier and less exhausting.--></T>
+<E n="trait_type">GAMEPLAY</E>
+</I>
