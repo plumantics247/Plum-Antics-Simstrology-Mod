@@ -12,7 +12,7 @@ jobs:
   audit:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Verify public tree
         shell: powershell
         run: ./tools/assert_public_tree.ps1
